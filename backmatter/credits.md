@@ -27,4 +27,4 @@ Questions regarding the tool, its use, or the public beta web application can be
 
 The content of this site is licensed under the Creative Commons Attribution 4.0.
 
-Copyright © 2021-2022 EHDD | <epic@ehdd.com>
+Copyright © 2021-2022 EHDD
