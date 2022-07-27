@@ -10,3 +10,8 @@
     * [Overrides](users-guide/base-case/overrides.md)
   * [Carbon Reduction Measures](users-guide/carbon-reduction-measures.md)
   * [Scenario Comparison](users-guide/scenario-comparison.md)
+* [Appendices](appendices/README.md)
+  * [Units in EPIC](appendices/units-in-epic.md)
+  * [Biogenic Carbon](appendices/biogenic-carbon.md)
+  * [Benchmarking EPIC](appendices/benchmarking-epic.md)
+* [Backmatter](backmatter.md)
