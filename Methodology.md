@@ -1,6 +1,6 @@
 # Methodology
 
-## Goal
+**Goal**
 
 EPIC is a design tool that integrates assessments of embodied, operational, and sequestered carbon in a data model to support low-carbon design at the earliest stages of a project.
 
