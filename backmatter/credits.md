@@ -23,3 +23,8 @@ The project team owes a heartfelt thanks to the group of over 80 firms that part
 ### Contact
 
 Questions regarding the tool, its use, or the public beta web application can be directed to [epic@ehdd.com](<mailto:epic@ehdd.com >).&#x20;
+
+
+The content of this site is licensed under the Creative Commons Attribution 4.0.
+
+Copyright © 2021-2022 EHDD | <epic@ehdd.com>
