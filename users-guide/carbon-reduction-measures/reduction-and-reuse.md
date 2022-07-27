@@ -1,2 +1,0 @@
-# Reduction and Reuse
-
