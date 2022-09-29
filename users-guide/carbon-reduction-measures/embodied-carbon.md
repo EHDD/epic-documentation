@@ -30,7 +30,7 @@ In accordance with ISO 21930, the carbon content of biogenic materials can only 
 
 ### Envelope specification&#x20;
 
-The specification of the building cladding and façade elements with lower embodied carbon emissions. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options. The three options for this measure and their general description:
+The specification of the roofing, glazing, and opaque envelope assemblies. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options. The three options for this measure and their general description:
 
 * **Conservative.** Standard materials and assemblies, no effort made to lower carbon emissions.&#x20;
 * **Best practices.** Reduce redundancies and select low-carbon materials with high levels of recycled content.&#x20;
