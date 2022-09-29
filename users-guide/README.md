@@ -1,5 +1,5 @@
 ---
-description: Public beta v1.0.0
+description: Public beta v1.0.2
 ---
 
 # User's Guide
