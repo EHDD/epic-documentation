@@ -30,7 +30,7 @@ In accordance with ISO 21930, the carbon content of biogenic materials can only 
 
 ### Envelope specification&#x20;
 
-The specification of the building cladding and façade elements with lower embodied carbon emissions. There are three options for this measure:
+The specification of the building cladding and façade elements with lower embodied carbon emissions. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options. The three options for this measure and their general description:
 
 * **Conservative.** Standard materials and assemblies, no effort made to lower carbon emissions.&#x20;
 * **Best practices.** Reduce redundancies and select low-carbon materials with high levels of recycled content.&#x20;
@@ -42,7 +42,7 @@ The length of time over which a majority of the exterior envelope will be replac
 
 ### Interior fit-out specification
 
-The specification of the fittings, furniture, and fixtures required for tenants by tenants who inhabit and use the building. There are three options for this measure:
+The specification of the fittings, furniture, and fixtures required for tenants by tenants who inhabit and use the building. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs.  The three options for this measure and their general description:
 
 * **Conservative.** Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.&#x20;
 * **Best practices.** Address "hot spots" (flooring, acoustic panels, casework, etc.).&#x20;
