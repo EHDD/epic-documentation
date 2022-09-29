@@ -8,7 +8,7 @@ Specification of a structural system other than the system modeled in the base c
 
 ### Concrete specification
 
-The specification of concrete with lower embodied carbon emissions. These values directly correspond with the 2021 CLF values for "baseline," "typical," and “achievable,” 3-4 kSI concrete, and a description of one potential way of achieving each specification level are given as follows:
+The specification of concrete with lower embodied carbon emissions. These values directly correspond with the 2021 CLF values for "baseline," "typical," and “achievable” 3-4 kSI concrete, and a description of one potential way of achieving each specification level are given as follows:
 
 * **Conservative.** Typical concrete mix, no effort made to lower carbon emissions.&#x20;
 * **Best practices.** Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.
@@ -16,7 +16,7 @@ The specification of concrete with lower embodied carbon emissions. These values
 
 ### Steel specification&#x20;
 
-The specification of structural and reinforcing steel with lower embodied carbon emissions. These values directly correspond with the 2021 CLF values for “achievable,” “typical,” and “baseline” steel, and a description of one potential way of achieving each specification level are given as follows:
+The specification of structural and reinforcing steel with lower embodied carbon emissions. These values directly correspond with the 2021 CLF values for "baseline," "typical," and “achievable” fabricated hot-rolled structural steel, and a description of one potential way of achieving each specification level are given as follows:
 
 * **Conservative.** Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.
 * **Best practices.** Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification.
