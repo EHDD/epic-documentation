@@ -24,7 +24,7 @@ The specification of structural and reinforcing steel with lower embodied carbon
 
 ### Responsible timber sourcing
 
-In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to the appendix on [Biogenic Carbon](../../appendices/biogenic-carbon.md).
+In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to the appendix on [Biogenic Carbon](https://epic-documentation.gitbook.io/epic/appendices/biogenic-carbon).
 
 ## Embodied Carbon Measures - Non-structure <a href="#embodied-carbon-measures-nonstructure" id="embodied-carbon-measures-nonstructure"></a>
 
