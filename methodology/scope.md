@@ -18,7 +18,7 @@ EPIC can accommodate time horizons of 30 or 60 years. Currently, the web applica
 
 ### Life Cycle Stages
 
-EPIC integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C3-C4) are assessed during the product phase (see appendix [Biogenic Carbon](../backmatter/biogenic-carbon.md)).
+EPIC integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C3-C4) are assessed during the product phase (see appendix [Biogenic Carbon](broken-reference)).
 
 <figure><img src="../.gitbook/assets/EPIC Life Cycle Stages.png" alt=""><figcaption><p>Highlighted life cycle stages are included in EPIC.</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ EPIC considers operational emissions from the following sources:
 
 ### Stored Carbon Scope
 
-EPIC includes an estimate of carbon storage in timber structural systems and site landscaping. Carbon storage in planting is calculated over the time horizon then annualized. Carbon storage in building structure is assigned to the first year of the project. EPIC's method for calculating carbon storage in timber structural systems is detailed in the appendix on [biogenic carbon](../backmatter/biogenic-carbon.md).
+EPIC includes an estimate of carbon storage in timber structural systems and site landscaping. Carbon storage in planting is calculated over the time horizon then annualized. Carbon storage in building structure is assigned to the first year of the project. EPIC's method for calculating carbon storage in timber structural systems is detailed in the appendix on [biogenic carbon](broken-reference).
 
 ### Refining EPIC's Scope
 

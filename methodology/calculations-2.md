@@ -1,69 +1,18 @@
 # Calculating Stored and Avoided Carbon
 
-### Embodied Carbon Emissions
+The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](carbon-reduction-measures.md#calculating-operational-carbon) page. Below is further detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
 
-For each contributor i, embodied emissions assessed by EPIC are evaluated with the following expression:
+### Storage of Carbon in Timber Structural Systems
 
-$$
-{Assessed\ emissions}_i=\ A\ast x_i\ast c_i
-$$
+Living systems present a particular challenge for carbon emission accounting. Static emission factors are sufficient for manmade or mineral materials, but biogenic materials—those materials, such as forest products, originating from living systems—can’t be as easily summarized. Through photosynthesis, living materials remove carbon from the atmosphere as they grow; the removal of carbon dioxide from the atmosphere and its storage in biogenic materials is called referred to in EPIC as "carbon storage." But there are also emissions associated with the processing and maintenance of biogenic materials. And, eventually, biogenic materials are stored in landfills where they continue to store carbon, are recycled, or are combusted for energy and release their stored carbon back into the atmosphere.
 
-Where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, and $$c_i$$ is the carbon intensity per unit of the contributor $$i$$.
+To account for the life cycle emissions of biogenic materials including carbon storage, EPIC follows the recent guidance of the American Center for Life Cycle Assessment (ACLCA) in accounting for their carbon emissions (see citation in Data and References). This guidance is applied to accounting for the biogenic carbon in forest products (lumber, plywood, and mass timber assemblies) as well as to biogenic carbon stored in the landscape. To understand the tradeoffs in biogenic materials, life cycle stages for the end-of-life of biogenic materials are counted upfront, even if they aren’t included for other products.
 
-For example, a 10,000 square foot building may use 4 pounds of reinforcing steel per square foot of floor area, and the reinforcing steel may have a carbon intensity of 500 grams (0.5 kilograms) of carbon dioxide-equivalent emissions per pound of steel (values for illustrative purposes only). Taking the product of these three hypothetical quantities yields the contribution of reinforcing steel to that building’s embodied carbon emission:
+Once calculated, the emissions and carbon storage associated with biogenic structural materials are accounted for at the beginning of the project. Carbon storage in the landscape is accrued year over year by amortizing the total carbon storage in mature landscapes over the model's reference period.
 
-$$
-10,000\ sf\ast4\ \frac{lbs\ rebar}{sf}\ast0.5\ \frac{kg\ CO_2e}{lb\ rebar}=20,000\ kg\ CO_2e
-$$
+In EPIC, this has a few ramifications:
 
-In each section of its model, EPIC sums the assessed emission of many individual contributors. While simple summation is acceptable in some cases, some materials will be replaced before the target date. For these materials, the emissions are assigned to the year(s) in which they’re replaced, and a multiplier is added to the total summation. The total embodied emissions assessed by EPIC are represented by this expression:
+* **The carbon emitted in the production of biogenic materials is accounted separately from stored biogenic carbon**. The carbon emissions related to material production (arising from processes such as the use of machinery and transportation) are counted as embodied carbon.
+* **Carbon storage in lumber, plywood, and mass timber assemblies can only be counted if those materials are sourced from responsibly managed forests**. Practically, this can mean a number of things. In the rule's widest interpretation, timber from any forest whose area is expanding can contribute to carbon storage—a definition that leaves many important questions unresolved. One way to determine whether a forest is responsibly managed is to determine if it has a third-party certification for sustainable forestry practices, such as that offered by the Forest Stewardship Council (FSC).
+* **EPIC assumes that lumber, plywood, and mass timber assemblies are landfilled, recycled, or combusted for energy at the end of their useful life**. The mix of landfilling, combustion, and recycling is determined by the EPA analysis of US disposal in 2018. The emissions from these three activities are calculated with the EPA’s Waste Reduction Model (v15).
 
-$$
-Total\ embodied\ carbon\ emissions=\ \sum_{i=1}^{n}\ A\ast x_i\ast c_i\ast(1+r_i)\
-$$
-
-For n number of contributors to the embodied emissions, where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, $$c_i$$ is the carbon intensity per unit of the contributor $$i$$, and $$r_i$$ is the number of replacements of the contributor $$i$$ before the target date.
-
-### Operational Carbon Emissions
-
-The operational emissions of the project are assessed annually and summed across all years before the target date. The equation is similar to the equation for embodied emissions, with two key differences: first, the quantity x is substituted for the energy use intensity (EUI) e; second, the equation is a double summation, once across all the fuel types in the building and again across all years between the building’s completion and the target year. The total operational emissions assessed by EPIC are represented by this expression:
-
-$$
-Operational\ carbon\ emissions=\ \sum_{t=1}^{m}\ \sum_{j=1}^{o}\ A\ast e_{tj}\ast c_j
-$$
-
-For m total years between the building’s completion and the target year and across o fuel types, where A is the total building area, $$e_{tj}$$ is the energy use per building area (EUI) in year $$t$$ of fuel $$j$$, and $$c_{tj}$$ is the carbon intensity per energy unit in year $$t$$ of fuel $$j$$.
-
-Carbon emissions associated with electricity are derived from NREL's Cambium model. Onsite fossil fuel use is assumed to be natural gas. The carbon emissions of natural gas are assessed with a 2.4% leakage rate. Fuel oil emissions account for N20 and CH4 emissions. Characterization of non-CO2 emissions is determined with the GWP100 factors published in IPCC AR5.
-
-### Total Landscape Emissions
-
-Landscape emissions assessed by EPIC are evaluated with the following expression:
-
-$$
-Landscape\ carbon\ emissions=\ \sum_{t=1}^{m}\ \sum_{k=1}^{p}\ A_k\ast c_{tk}
-$$
-
-For $$p$$ number of contributors to the embodied emissions, where $$A$$ is the total planted area of landscaping type$$k$$ and $$c_k$$ is the carbon intensity of maintenance of landscape in year $$t$$ per area of planting $$k$$.
-
-### Total Carbon Emissions
-
-The total carbon emissions assessed by EPIC can be represented by this expression:
-
-$$
-{Total \atop Emissions} =\ \sum_{i=1}^{n}\ A\ast x_i\ast c_i\ast\left(1+r_i\right)+\ \sum_{t=1}^{m}\ \sum_{j=1}^{o}\ A\ast e_{tj}\ast c_j+\ \sum_{t=1}^{m}\ \sum_{k=1}^{p}\ A_k\ast c_{tk}
-$$
-
-With variables as defined in the preceding sections.
-
-### Biogenic Carbon Sequestration
-
-In EPIC, landscaping and the use of structural timber contribute to biogenic carbon sequestration. Carbon sequestration in structural materials is assessed once at the beginning of the project, and landscape sequestration is assessed each year. Biogenic carbon sequestration is evaluated with the following expression:
-
-$$
-Carbon\ Sequestration=x_i\ast C_i+\sum_{t=1}^{m}\ \sum_{t=1}^{m}\ A_k\ast C_k
-$$
-
-Where $$x_i$$ is the amount of carbon-sequestering timber structural material $$i$$, $$C_i$$ is the carbon sequestration per unit $$i$$,$$A_k$$ is the area A of carbon-sequestering planting type k, and $$C_k$$ is the carbon sequestration in year $$t$$ per area of planting $$k$$.
-
-For more information on how biogenic carbon sequestration is treated within EPIC, refer to the appendix on [Biogenic Carbon](../backmatter/biogenic-carbon.md).

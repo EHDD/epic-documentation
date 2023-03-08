@@ -18,7 +18,6 @@
   * [Calculating Operational Carbon](methodology/calculations-1.md)
   * [Calculating Stored and Avoided Carbon](methodology/calculations-2.md)
 * [Backmatter](backmatter/README.md)
-  * [Biogenic Carbon](backmatter/biogenic-carbon.md)
   * [Units in EPIC](backmatter/units-in-epic.md)
   * [Reference Data Sources](backmatter/data-sources.md)
   * [Data Confidentiality Statement](backmatter/data-confidentiality-statement.md)
