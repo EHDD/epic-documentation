@@ -1,6 +1,6 @@
 # Calculating Stored and Avoided Carbon
 
-The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](./#calculating-operational-carbon) page. Below is further detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
+The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](../carbon-reduction-measures.md#calculating-operational-carbon) page. Below is further detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
 
 ### Avoided carbon from excess onsite energy generation
 
