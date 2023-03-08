@@ -1,8 +1,8 @@
-# Model Structure
+# The EPIC Data Model
 
 ## EPIC calculates "whole carbon" emissions
 
-EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model.
+EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, EPIC prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
 
 ### [Calculating Embodied Carbon](calculations.md)
 
@@ -56,13 +56,11 @@ $$
 Avoided\ carbon\ emissions=\ \sum_{t=1}^{m}\ e_{t}\ast c_{t}
 $$
 
-
-
 Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{n}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$. &#x20;
 
-## EPIC is built on time series data
+## EPIC is a time series model
 
-The time value of carbon is important, so EPIC uses time series data to analyze carbon emissions across a building's life. For each year in the analysis period (defined by the project's [time horizon](scope.md#time-horizon)), EPIC estimates all emissions occurring in that year.&#x20;
+In the built environment, it is essential to understand the [time value of carbon](https://carbonleadershipforum.org/the-time-value-of-carbon/). To this end, EPIC uses time series data to analyze carbon emissions across a building's life. For each year in the analysis period (defined by the project's [time horizon](../scope.md#time-horizon)), EPIC estimates all emissions occurring in that year.&#x20;
 
 **In the first year**, the following emissions are always calculated:
 
@@ -83,23 +81,9 @@ The time value of carbon is important, so EPIC uses time series data to analyze 
 * Replacement and refurbishment of interior fit-out (life cycle stages B3-B5)
 * Replacement and refurbishment of MEP and PV systems (life cycle stages B3-B5)
 
-### EPIC is customizable and extensible
-
-EPIC's model is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
-
-Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available \[HERE].&#x20;
+## Units in EPIC
 
 Units describe data. When we compare 2 kilograms to 2 square feet, the units help us to understand which is a measure of mass and which of area. In EPIC, where data are used both to calculate and present the result of carbon reduction measures, the interpretation of units is essential to the evaluation and comparison of carbon reduction strategies. EPIC uses a set of units specific to the tool's objectives. The units included in EPIC, and the consequences of their inclusion, are described below.
-
-<details>
-
-<summary>Area</summary>
-
-### /asdf
-
-</details>
-
-## Units in EPIC
 
 #### Area Units
 
@@ -109,25 +93,17 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 * **Years.** EPIC evaluates emissions on an annual basis. The choice of an annual basis means that EPIC cannot describe intra-annual variations in carbon emissions from electricity, such as seasonal or daily variations. This approach is standard practice, but precludes inclusion of important carbon reduction measures such as demand response or battery storage in EPIC.
 
-**Energy and Power**
+**Energy and Power Units**
 
 * **kBtu/sf/yr.** This unit describes Energy Use Intensity (EUI), the quantity of energy required by a building per square foot per year. 1 kBtu is equivalent to 1,000 British thermal units and 293 Watt-hours. In EPIC, energy use is measured at the project site (site EUI) and not at the generation source.
 * **kW.** The nameplate capacity of a solar array is described in kilowatts (kW), a unit of power.
 
-#### Carbon Emissions
+#### Carbon Emissions Units
 
-* **Metric tons of CO2-equivalent.** Following conventions across the literature, carbon emissions are described in metric units. One metric ton is equal to 1000 kilograms and 2,204 pounds. EPIC measures emissions of "carbon dioxide equivalents," using emission factors published by the IPCC to include emissions of extremely potent greenhouse gases (such as methane and nitrous oxide) based on their comparability to carbon dioxide emissions.
+* **Metric tons of CO2-equivalent.** Following conventions across the literature, carbon emissions are described in metric units. One metric ton is equal to 1000 kilograms and 2,204 pounds. EPIC measures emissions of "carbon dioxide equivalents," using emission factors published by the IPCC to include emissions of extremely potent greenhouse gases (such as methane and nitrous oxide) based on their comparability to carbon dioxide emissions. &#x20;
 
+## EPIC is customizable and extensible
 
+EPIC's model is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
 
-
-
-
-
-
-
-
-
-
-
-&#x20;&#x20;
+Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available \[HERE]. To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;

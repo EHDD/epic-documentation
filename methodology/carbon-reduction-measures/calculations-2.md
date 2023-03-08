@@ -1,8 +1,16 @@
 # Calculating Stored and Avoided Carbon
 
-The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](carbon-reduction-measures.md#calculating-operational-carbon) page. Below is further detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
+The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](./#calculating-operational-carbon) page. Below is further detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
 
-### Storage of Carbon in Timber Structural Systems
+### Avoided carbon from excess onsite energy generation
+
+
+
+### Storage of carbon in the landscape
+
+
+
+### Storage of carbon in timber structural systems
 
 Living systems present a particular challenge for carbon emission accounting. Static emission factors are sufficient for manmade or mineral materials, but biogenic materials—those materials, such as forest products, originating from living systems—can’t be as easily summarized. Through photosynthesis, living materials remove carbon from the atmosphere as they grow; the removal of carbon dioxide from the atmosphere and its storage in biogenic materials is called referred to in EPIC as "carbon storage." But there are also emissions associated with the processing and maintenance of biogenic materials. And, eventually, biogenic materials are stored in landfills where they continue to store carbon, are recycled, or are combusted for energy and release their stored carbon back into the atmosphere.
 
