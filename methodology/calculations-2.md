@@ -1,4 +1,4 @@
-# Biogenic Carbon Calculation
+# Calculating Stored and Avoided Carbon
 
 ### Embodied Carbon Emissions
 
