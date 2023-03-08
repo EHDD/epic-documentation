@@ -50,13 +50,13 @@ $$
 
 Where $$x_i$$ is the amount of carbon-sequestering timber structural material $$i$$, $$C_i$$ is the carbon sequestration per unit $$i$$,$$A_k$$ is the area A of carbon-sequestering planting type k, and $$C_k$$ is the carbon sequestration in year $$t$$ per area of planting $$k$$. For more information on how biogenic carbon sequestration is treated within EPIC, refer to the appendix on [Biogenic Carbon](broken-reference).
 
-Avoided emissions from the the excess generation of energy by an onsite solar photovoltaic array assumes that there is no curtailment and all energy generated onsite displaces the generation an equivalent amount of electricity from the utility grid. This is calculated as follows:
+The generation of excess energy by an onsite solar photovoltaic array displaces the generation an equivalent amount of electricity from the utility grid. This is calculated as follows:
 
 $$
 Avoided\ carbon\ emissions=\ \sum_{t=1}^{m}\ e_{t}\ast c_{t}
 $$
 
-Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{n}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$. &#x20;
+Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{n}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$.  This method assumes that there is no curtailment of PV production, and that the carbon emissions of grid electricity when solar energy is produced is substantially similar to the annual average emissions. In locations with a high proportion of solar on the grid, _these assumptions will not hold_ and skepticism of EPIC's calculation of avoided emissions is warranted.
 
 ## EPIC is a time series model
 
@@ -100,7 +100,7 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 #### Carbon Emissions Units
 
-* **Metric tons of CO2-equivalent.** Following conventions across the literature, carbon emissions are described in metric units. One metric ton is equal to 1000 kilograms and 2,204 pounds. EPIC measures emissions of "carbon dioxide equivalents," using emission factors published by the IPCC to include emissions of extremely potent greenhouse gases (such as methane and nitrous oxide) based on their comparability to carbon dioxide emissions. &#x20;
+* **Metric tons of CO2-equivalent**  (tCO2e)**.** Following conventions across the literature, carbon emissions are described in metric units. One metric ton is equal to 1000 kilograms and 2,204 pounds. EPIC measures emissions of "carbon dioxide equivalents," using emission factors published by the IPCC to include emissions of extremely potent greenhouse gases (such as methane and nitrous oxide) based on their comparability to carbon dioxide emissions. &#x20;
 
 ## EPIC is customizable and extensible
 
