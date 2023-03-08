@@ -2,9 +2,13 @@
 
 ## Goal
 
-EPIC is a design tool that integrates assessments of embodied, operational, and sequestered carbon in a data model to support low-carbon design at the earliest stages of a project.
+EPIC is a design tool that integrates assessments of embodied, operational, and landscape carbon in a data model to support low-carbon design in when data is scarce.
 
-EPIC is designed for use during site and feasibility studies, requests for proposals, pre-design, and in other early-phase activities where quantitative support is needed for low-carbon design decisions and a whole-building life cycle assessment is not practicable. EPIC is not comprehensive: the tool uses a data model to assess the carbon emissions associated with, and the effects of carbon reduction measures on, some components of a project for some stages of a project’s life cycle. EPIC's scope is designed to maximize a designer's ability to assess low-carbon design strategies in early project phases within the limitations of currently available data. EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology.
+EPIC is designed for use during site and feasibility studies, requests for proposals, pre-design, and in other situations where quantitative support is needed for low-carbon design decisions and completing a whole-building life cycle assessment and/or energy model is not practicable.&#x20;
+
+The goal of EPIC is _not_ to provide exact estimates for specific buildings. EPIC provides directionally accurate guidance for specific projects by helping to identify which carbon reduction strategies a project should pursue, and helps to guide decarbonization of portfolios and portions of the building stock where EPIC's model assumptions have been tested (i.e., in the continental United States).&#x20;
+
+EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology. We're always seeking [feedback](mailto:epic@ehdd.com?subject=Feedback).
 
 ## Scope
 
