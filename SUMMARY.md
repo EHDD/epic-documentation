@@ -12,7 +12,7 @@
     * [Save and Load Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
   * [Scenario Comparison](users-guide/scenario-comparison.md)
 * [Methodology](methodology/README.md)
-  * [Scope](methodology/scope.md)
+  * [Goal and Scope](methodology/scope.md)
   * [Calculations](methodology/calculations.md)
   * [Model Structure](methodology/carbon-reduction-measures.md)
 * [Backmatter](backmatter/README.md)
