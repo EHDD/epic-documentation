@@ -8,7 +8,7 @@ $$
 {Assessed\ emissions}_i=\ A\ast x_i\ast c_i
 $$
 
-Where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, and $$c_i$$ is the carbon intensity per unit of the contributor $$i$$.&#x20;
+Where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, and $$c_i$$ is the carbon intensity per unit of the contributor $$i$$.
 
 For example, a 10,000 square foot building may use 4 pounds of reinforcing steel per square foot of floor area, and the reinforcing steel may have a carbon intensity of 500 grams (0.5 kilograms) of carbon dioxide-equivalent emissions per pound of steel (values for illustrative purposes only). Taking the product of these three hypothetical quantities yields the contribution of reinforcing steel to that building’s embodied carbon emission:
 
@@ -66,4 +66,4 @@ $$
 
 Where $$x_i$$ is the amount of carbon-sequestering timber structural material $$i$$, $$C_i$$ is the carbon sequestration per unit $$i$$,$$A_k$$ is the area A of carbon-sequestering planting type k, and $$C_k$$ is the carbon sequestration in year $$t$$ per area of planting $$k$$.
 
-For more information on how biogenic carbon sequestration is treated within EPIC, refer to the appendix on [Biogenic Carbon](../appendices/biogenic-carbon.md).
+For more information on how biogenic carbon sequestration is treated within EPIC, refer to the appendix on [Biogenic Carbon](../backmatter/biogenic-carbon.md).
