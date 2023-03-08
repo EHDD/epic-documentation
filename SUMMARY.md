@@ -24,6 +24,7 @@
   * [Data Confidentiality Statement](backmatter/data-confidentiality-statement.md)
   * [Credits](backmatter/credits.md)
   * [Changelog](backmatter/changelog.md)
+* [Access EPIC via API](access-epic-via-api.md)
 * [Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 * [Get Updates](http://eepurl.com/h2AQkP)
-* [Access EPIC](http://epic.ehdd.com)
+* [Access EPIC on the web](http://epic.ehdd.com)
