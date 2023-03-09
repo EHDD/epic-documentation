@@ -1,6 +1,6 @@
 # Goal and Scope
 
-## Goal
+Goal
 
 EPIC is a design tool that integrates assessments of embodied, operational, and landscape carbon in a data model to support low-carbon design in when data is scarce.
 
@@ -20,7 +20,7 @@ EPIC can accommodate time horizons of 30 or 60 years. Currently, the web applica
 
 EPIC integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C3-C4) are assessed during the product phase (see appendix [Biogenic Carbon](broken-reference)).
 
-<figure><img src="../.gitbook/assets/EPIC Life Cycle Stages.png" alt=""><figcaption><p>Highlighted life cycle stages are included in EPIC.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EPIC - Included LIfe Cycle Stages.png" alt=""><figcaption><p>Highlighted stages are included in the EPIC model.</p></figcaption></figure>
 
 ### Embodied Carbon Scope
 
