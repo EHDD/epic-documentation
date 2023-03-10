@@ -25,4 +25,4 @@ A video tutorial that walks through the use of EPIC is available [here](https://
 
 Tips for interpreting results and figures are located throughout this guide. If something remains unclear after reading the guide, please [send feedback](https://forms.gle/2Hy6SEdkEJj4WMVr6) to guide us as we improve the tool and its documentation.
 
-EPIC is a data-driven tool and some fluency in data and units is necessary to interpret the tool's results. To aid in this interpretation, a [brief note on units](broken-reference) is included as an appendix below.
+EPIC's methodology for calculating carbon emissions is documented [here](../methodology/). &#x20;
