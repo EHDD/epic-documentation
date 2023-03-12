@@ -20,15 +20,19 @@ EPIC includes estimates of carbon emissions from demand for electricity from now
 
 * **Fill temporal gaps in Cambium data from 2024-2050** with geometric interpolation for all years between two years reported in Cambium.
   * I.e. for 2025 between the reported values in 2024 and 2026, or for 2041-2044 between the reported values in 2040 and 2045.&#x20;
-* **Extend data to 2110**, assuming the electricity grid continue to decarbonize at the same average rate that it decarbonized from 2024-2050. Note that the end date of 2110 has no basis in the data; 2110 is only chosen so that EPIC can model a 60 year reference period for buildings completed up to the year 2050.&#x20;
+* **Extend data to 2110** assuming the electricity grid continue to decarbonize at the same average rate that it decarbonized from 2024-2050. Note that the end date of 2110 has no basis in the data; 2110 is only chosen so that EPIC can model a 60 year reference period for buildings completed up to the year 2050.&#x20;
 * **Fill geographic gaps** to give wall-to-wall coverage of United States.&#x20;
   * EPIC assumes the average emission rate in Washington, DC, is the same as in Virginia (highly interconnected grids, both PJM).&#x20;
   * For Alaska and Hawaii, we assume exponential reductions that allow them to meet their climate goals (in the mid-case scenario) or get to 95% decarb by 2045. We don’t make an assumption to approximate a scenario like High Cost of Renewable Energy for either of these two states.
+
+#### Electrical grid emission metrics
 
 EPIC includes two metrics for grid emissions.
 
 * **Average emission rates (AER)**. The average emission rate of the generation mix in the selected location in the selected year.&#x20;
 * **Long run marginal emission rates (LRMER)**. The emissions rate that would be induced by a long-term change in electrical demand. An example of a long-term change in electrical demand is the demand incurred by a building.&#x20;
+
+#### Electrical grid projections
 
 The future of the electrical grid is uncertain. To account for this uncertainty, EPIC includes three NREL Cambium scenarios for the future evolution of the electrical grid. Portions of the text below are quoted from the description of these scenarios and their derivation published by NREL [here](https://www.nrel.gov/docs/fy23osti/84916.pdf) (pdf).
 
