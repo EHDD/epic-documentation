@@ -30,11 +30,11 @@ EPIC includes two metrics for grid emissions.
 * **Average emission rates (AER)**. The average emission rate of the generation mix in the selected location in the selected year.&#x20;
 * **Long run marginal emission rates (LRMER)**. The emissions rate that would be induced by a long-term change in electrical demand. An example of a long-term change in electrical demand is the demand incurred by a building.&#x20;
 
-The future of the electrical grid is uncertain. To account for this uncertainty, EPIC includes three NREL Cambium scenarios for the future evolution of the electrical grid.&#x20;
+The future of the electrical grid is uncertain. To account for this uncertainty, EPIC includes three NREL Cambium scenarios for the future evolution of the electrical grid. Portions of the text below are quoted from the description of these scenarios and their derivation published by NREL [here](https://www.nrel.gov/docs/fy23osti/84916.pdf) (pdf).
 
-* **Midcase**.
-* **95% decarbonization by 2045**.
-* **High Cost of Renewable Energy**.&#x20;
+* **Mid-case**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. No inclusion of nascent technologies. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out.
+* **95% decarbonization by 2050**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. Nascent technologies are included. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out. High-level assumption that the national electricity grid's carbon emissions in 2050 are 5% of their 2005 level.&#x20;
+* **High Cost of Renewable Energy**. Average estimates as in the mid-case scenario, but with an assumption that battery and renewable energy costs are high. This scenario assumes that the thresholds set by the Inflation Reduction Act’s Production and Investment Tax Credits are not met and, as such, they do not phase out.
 
-
+<figure><img src="../.gitbook/assets/EPIC - LRMER and AER.png" alt=""><figcaption><p>Carbon emissions from electricity demand, from 2023-2110 for two metrics and three scenarios.</p></figcaption></figure>
 
