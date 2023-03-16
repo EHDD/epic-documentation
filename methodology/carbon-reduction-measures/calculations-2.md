@@ -20,7 +20,7 @@ In EPIC, this has a few ramifications:
 
 ### Carbon storage in landscapes and green roofs
 
-As plants grow, they remove carbon dioxide from the air by photosynthesis and store it in their tissues. EPIC measures the annual storage of growing plants. We assume that all plantings will achieve maturity across the building project's reference period. Carbon storage in the landscape is accrued year over year by amortizing the total carbon storage in mature landscapes over the model's reference period.&#x20;
+EPIC measures the annual carbon storage of in living and growing landscape. We assume that all plantings will achieve maturity across the building project's reference period. Carbon storage in the landscape is accrued year over year by amortizing the total carbon storage in mature landscapes over the model's reference period.&#x20;
 
 Globally, the storage of carbon in plants is a major carbon sink. There are a number of imperatives for greening our built environment—[addressing a history of racist redlining](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP7495), [reducing urban heat island](https://www.sciencedirect.com/science/article/abs/pii/S1618866718306411), [contributing to mental wellness](https://www.sciencedirect.com/science/article/abs/pii/S0033350613002862)—that add positive co-benefits to the provision of greenspace.&#x20;
 
