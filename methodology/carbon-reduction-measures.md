@@ -48,7 +48,7 @@ $$
 Carbon\ Storage=x_i\ast C_i+\sum_{t=1}^{m}\ \sum_{t=1}^{m}\ A_k\ast C_k
 $$
 
-Where $$x_i$$ is the amount of carbon-sequestering timber structural material $$i$$, $$C_i$$ is the carbon sequestration per unit $$i$$,$$A_k$$ is the area A of carbon-sequestering planting type k, and $$C_k$$ is the carbon sequestration in year $$t$$ per area of planting $$k$$. For more information on how biogenic carbon sequestration is treated within EPIC, refer to the appendix on [Biogenic Carbon](broken-reference).
+Where $$x_i$$ is the amount of carbon-sequestering timber structural material $$i$$, $$C_i$$ is the carbon sequestration per unit $$i$$,$$A_k$$ is the area A of carbon-sequestering planting type k, and $$C_k$$ is the carbon sequestration in year $$t$$ per area of planting $$k$$.&#x20;
 
 The generation of excess energy by an onsite solar photovoltaic array displaces the generation an equivalent amount of electricity from the utility grid. This is calculated as follows:
 
