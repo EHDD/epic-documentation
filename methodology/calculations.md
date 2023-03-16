@@ -54,6 +54,18 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 
 <figure><img src="../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
 
+| Structural Material    | Low Carbon     | Best Practices | Conservative   |
+| ---------------------- | -------------- | -------------- | -------------- |
+| **Concrete, 3-4 kSI**  | Local data     | Local data     | Local data     |
+| **Concrete, 5-6 kSI**  | Local data     | Local data     | Local data     |
+| **Concrete, 7-10 kSI** | 0.16 kgCO2e/kg | 0.2 kgCO2e/kg  | 0.3 kgCO2e/kg  |
+| **Reinforcing Steel**  | 0.9 kgCO2e/kg  | 1.1 kgCO2e/kg  | 0.16 kgCO2e/kg |
+| **Structural Steel**   | 0.9 kgCO2e/kg  | 1.1 kgCO2e/kg  | 1.2 kgCO2e/kg  |
+| **Steel Deck**         | 1.7 kgCO2e/kg  | 2.2 kgCO2e/kg  | 2.4 kgCO2e/kg  |
+| **Lumber**             | 0.09 kgCO2e/kg | 0.11 kgCO2e/kg | 0.18 kgCO2e/kg |
+| **Plywood**            | 0.36 kgCO2e/kg | 0.42 kgCO2e/kg | 0.73 kgCO2e/kg |
+| **Engineered Wood**    | 0.19 kgCO2e/kg | 0.25 kgCO2e/kg | 0.36 kgCO2e/kg |
+
 ### Embodied Carbon in Building Assembles
 
 Building assemblies in EPIC are evaluated on a per-area basis.&#x20;
@@ -85,6 +97,8 @@ For each of the three envelope categories, the carbon intensity is determined by
 | **Cladding** | 3.0 kgCO2e/sf  | 8.8 kgCO2e/sf  | 14.3 kgCO2e/sf |
 | **Glazing**  | 11.4 kgCO2e/sf | 13.6 kgCO2e/sf | 19.0 kgCO2e/sf |
 | **Roofing**  | 5.3 kgCO2e/sf  | 7.7 kgCO2e/sf  | 14.0 kgCO2e/sf |
+
+Additional data on envelope assemblies can be accessed via EPIC's API. For access to these data, [please reach out](mailto:epic@ehdd.com?subject=API).
 
 #### Embodied Carbon in Interior Fit Out
 
