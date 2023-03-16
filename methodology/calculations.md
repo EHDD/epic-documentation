@@ -16,20 +16,7 @@ EPIC uses a set of statistical regression models to estimate quantities of major
 
 Input data was weighted by trustworthiness to minimize incomplete or spurious data from having too large an affect on our models. Validated data was given a full weight, incomplete data weighted at 50%, and poorly documented or partially modeled data at 30%.&#x20;
 
-There are nine materials currently modeled in EPIC:
-
-* Concrete, 3-4 kSI
-* Concrete, 5-6 kSI
-* Concrete, 7-10 kSI
-* Reinforcing Steel
-  * Reinforcing steel is modeled in proportion to concrete quantity (kg steel / m3 concrete).
-* Structural Steel
-* Steel Deck
-* Lumber
-* Plywood
-* Engineered Wood Products
-
-A statistical model is trained for each structural material in each structural system. These models are trained on four predictors:
+These weighted data is used to train a statistical model for each structural material in each structural system. These models are trained on four predictors:
 
 * Use category (one-hot encoded)
 * Total GFA
