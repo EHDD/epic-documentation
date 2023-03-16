@@ -78,6 +78,8 @@ $$
 Roof  \ area = Above \ Ground \ Floor \ Area
 $$
 
+For each of the three envelope categories, the carbon intensity is determined by sampling the distribution of GWP values from typical assemblies at the 20th, 50th, and 80th percentile.&#x20;
+
 #### Embodied Carbon in Interior Fit Out
 
 
