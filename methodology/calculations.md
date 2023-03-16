@@ -42,7 +42,7 @@ These methods for calculating a structural bill of materials have been reviewed 
 
 #### Carbon Intensities of Structural Materials
 
-C**arbon intensity is the amount of CO2-equivalent emissions per unit of material**. For structural materials, carbon intensity information is drawn from a variety of sources. These sources are documented in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.&#x20;
+**Carbon intensity is the amount of CO2-equivalent emissions per unit of material**. For structural materials, carbon intensity information is drawn from a variety of sources. These sources are documented in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.&#x20;
 
 The three specifications available in EPIC—low carbon, best practices, and conservative—correspond to the 20th, 50th, and 80th percentile of emissions for that material. These estimates _do not_ correspond to a specific EPD, as there are many options for achieving a certain level of performance. Most carbon intensities for structural materials in EPIC are national averages, as material supply chains for major structural materials are typically national (or global) in coverage.&#x20;
 
@@ -54,27 +54,27 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 
 <figure><img src="../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
 
-### Embodied Carbon in the Envelope
+### Embodied Carbon in Building Assembles
 
 
 
-### Embodied Carbon in Interior Fit Out
+#### Embodied Carbon in Interior Fit Out
 
 
 
-### Embodied Carbon in MEP
+#### Embodied Carbon in MEP
 
 
 
-### Embodied Carbon in Solar Photovoltaic Arrays
+#### Embodied Carbon in Solar Photovoltaic Arrays
 
 
 
-### Embodied Carbon in Hardscape
+#### Embodied Carbon in Hardscape
 
 
 
-### Emissions from Landscape Maintenance
+#### Emissions from Landscape Maintenance
 
 
 
