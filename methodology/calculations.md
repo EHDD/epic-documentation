@@ -100,6 +100,8 @@ For each of the three envelope categories, the carbon intensity is determined by
 | **Glazing**  | 11.4 kgCO2e/sf | 13.6 kgCO2e/sf | 19.0 kgCO2e/sf |
 | **Roofing**  | 5.3 kgCO2e/sf  | 7.7 kgCO2e/sf  | 14.0 kgCO2e/sf |
 
+All three parameters can be customized for a scenario in the scenario customization screen.
+
 Additional data on envelope assemblies can be accessed via EPIC's API. For access to these data, [please reach out](mailto:epic@ehdd.com?subject=API).
 
 #### Embodied Carbon in Interior Fit Out
@@ -109,6 +111,8 @@ Interior fit out is calculated on a per area basis for a proportion of the build
 | Assembly           | Low Carbon    | Best Practices | Conservative   |
 | ------------------ | ------------- | -------------- | -------------- |
 | **Tenant Fit Out** | 4.0 kgCO2e/sf | 7.6 kgCO2e/sf  | 13.3 kgCO2e/sf |
+
+This parameter can be customized for a scenario in the scenario customization screen.
 
 #### Embodied Carbon in MEP
 
@@ -122,6 +126,8 @@ Embodied carbon in mechanical systems in evaluated at two specification levelsâ€
 | > 300,000 sf        | 4.83  kgCO2e/sf      | 6.79  kgCO2e/sf  |
 
 Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+
+This parameter can be customized for a scenario in the scenario customization screen.
 
 #### Embodied Carbon in Solar Photovoltaic Arrays
 
@@ -137,7 +143,10 @@ All site area not designated as planted is assumed to be hardscaped. Hardscape e
 
 #### Emissions from Landscape Maintenance
 
+Emissions from landscape maintenance is calculated per planted area using values from the literature. A citation to the current data source is available in in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.
 
+### Construction Emissions
 
+Emissions from the construction of the building are estimated as a proportion of A1-A3 emissions. Our expert review process established below ground construction as the major driver of A4-A5 emission. EPIC estimates A4-A5 emissions as 10% of A1-A3 emissions when there is no below ground construction, and conservatively estimates the same at 18% when there is below ground construction.&#x20;
 
-
+This parameter can be customized for a scenario in the scenario customization screen.
