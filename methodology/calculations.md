@@ -8,11 +8,11 @@ Every attempt has been made to ensure that EPIC's results describe a typical bui
 
 Embodied carbon in building structure is calculated in two stages: a bill of structural materials is estimated and carbon intensities are applied to those materials.&#x20;
 
+EPIC's estimation of embodied carbon in a building's structure is modeled based on statistical analysis of completed buildings. This approach is preferable to a first-principles approach—i.e. assuming an optimized structural grid for a given geometry—because it greatly reduces truncation error and better describes the variation present in real buildings.&#x20;
+
 #### Calculating a Bill of Materials
 
-EPIC uses a set of statistical regression models to estimate quantities of major structural materials in typical buildings. These models were trained from an EHDD database of data from multiple sources. Input data was weighted by trustworthiness to prevent incomplete or spurious data from having too large an affect on our models.&#x20;
-
-A model is trained for each structural material in each structural system. These models are trained on four predictors:
+EPIC uses a set of statistical regression models to estimate quantities of major structural materials in typical buildings. These models were trained from an EHDD database of data from multiple sources. Input data was weighted by trustworthiness to prevent incomplete or spurious data from having too large an affect on our models. A model is trained for each structural material in each structural system. These models are trained on four predictors:
 
 * Use category (one-hot encoded)
 * Total GFA
