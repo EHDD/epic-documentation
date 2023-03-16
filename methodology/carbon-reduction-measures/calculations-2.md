@@ -22,7 +22,11 @@ In EPIC, this has a few ramifications:
 
 As plants grow, they remove carbon dioxide from the air by photosynthesis and store it in their tissues. EPIC measures the annual storage of growing plants. We assume that all plantings will achieve maturity across the building project's reference period. Carbon storage in the landscape is accrued year over year by amortizing the total carbon storage in mature landscapes over the model's reference period.&#x20;
 
-The storage potential of a landscape or green roof depends on its area, its specification (low, moderate, or high storage), and the location of the project.&#x20;
+Globally, the storage of carbon in plants is a major carbon sink. There are a number of imperatives for greening our built environment—[addressing a history of racist redlining](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP7495), [reducing urban heat island](https://www.sciencedirect.com/science/article/abs/pii/S1618866718306411), [contributing to mental wellness](https://www.sciencedirect.com/science/article/abs/pii/S0033350613002862)—that add positive co-benefits to the provision of greenspace.&#x20;
+
+In EPIC, landscaped area is assumed to approach its maximum storage potential over a 30 year period. The amount of carbon that a landscape can store is location-dependent (i.e., a landscape in Miami can store more carbon than one of a similar size in Arizona). Maintaining carbon storage in landscape requires maintenance. Emissions from the maintenance of carbon-storing landscape are assessed as embodied emissions. The storage potential of a landscape or green roof depends on its area, its specification (low, moderate, or high storage), and the location of the project.&#x20;
+
+Note that there is no option in EPIC to describe turfgrass, as turfgrass is a net emitter.
 
 ## Avoided carbon from surplus energy generation
 
@@ -35,15 +39,6 @@ The assumption of displacement generation will not hold true in all locations, a
 * Daytime (i.e., when solar is available) emissions from the electrical grid are significantly lower than the national average.
 * Surplus energy generation is expected to be curtailed by the utility.  For an overview of curtailment in the United States, we recommend [this report from NREL](https://www.nrel.gov/docs/fy14osti/60983.pdf) (pdf).
 
-To evaluate whether these situations affect your project, reference the figure below. If you are interested in looking closer at hourly emissions, [please reach out](mailto:epic@ehddd.com).&#x20;
+To evaluate whether these situations affect your project, reference the figure below. If you are interested in further analysis of hourly emissions, [please reach out](mailto:epic@ehddd.com).&#x20;
 
 <figure><img src="../../.gitbook/assets/Hourly Carbon Intensity.jpg" alt=""><figcaption><p>Hourly carbon intensity of electricity production in each of the 48 contiguous states. The Y axis of each graph is the time of day, and the X axis is the day of the year. In states where the graph shows a horizontal band, there is a diurnal swing in carbon emissions  associated with electricity. Data: NREL Cambium.</p></figcaption></figure>
-
-Globally, the storage of carbon in plants is a major carbon sink. There are a number of imperatives for greening our built environment—[addressing a history of racist redlining](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP7495), [reducing urban heat island](https://www.sciencedirect.com/science/article/abs/pii/S1618866718306411), [contributing to mental wellness](https://www.sciencedirect.com/science/article/abs/pii/S0033350613002862)—that add positive co-benefits to the provision of greenspace.&#x20;
-
-In EPIC, landscaped area is assumed to approach its maximum storage potential over a 30 year period. The amount of carbon that a landscape can store is location-dependent (i.e., a landscape in Miami can store more carbon than one of a similar size in Arizona). Maintaining carbon storage in landscape requires maintenance. Emissions from the maintenance of carbon-storing landscape are assessed as embodied emissions.&#x20;
-
-Note that there is no option in EPIC to describe turfgrass, as turfgrass is a net emitter.
-
-Building materials extracted from living systems present a particular challenge for carbon emission accounting. Static emission factors are sufficient for manmade or mineral materials, but biogenic materials—those materials, such as forest products, originating from living systems—can’t be as easily summarized. Through photosynthesis, living materials remove carbon from the atmosphere as they grow; the removal of carbon dioxide from the atmosphere and its storage in biogenic materials is called referred to in EPIC as "carbon storage." But there are also emissions associated with the processing and maintenance of biogenic materials. And, eventually, biogenic materials are stored in landfills where they continue to store carbon, are recycled, or are combusted for energy and release their stored carbon back into the atmosphere.
-
