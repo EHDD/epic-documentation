@@ -1,6 +1,6 @@
 # Stored and Avoided Carbon
 
-The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](carbon-reduction-measures.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
+The overview of how EPIC calculated stored and avoided carbon is detailed on the [model structure](../carbon-reduction-measures.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a project's stored and avoided carbon.
 
 ## Biogenic Carbon
 
@@ -41,4 +41,4 @@ The assumption of displacement generation will not hold true in all locations, a
 
 To evaluate whether these situations affect your project, reference the figure below. If you are interested in further analysis of hourly emissions, [please reach out](mailto:epic@ehddd.com).&#x20;
 
-<figure><img src="../.gitbook/assets/Hourly Carbon Intensity.jpg" alt=""><figcaption><p>Hourly carbon intensity of electricity production in each of the 48 contiguous states. The Y axis of each graph is the time of day, and the X axis is the day of the year. In states where the graph shows a horizontal band, there is a diurnal swing in carbon emissions  associated with electricity. Data: NREL Cambium.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Hourly Carbon Intensity.jpg" alt=""><figcaption><p>Hourly carbon intensity of electricity production in each of the 48 contiguous states. The Y axis of each graph is the time of day, and the X axis is the day of the year. In states where the graph shows a horizontal band, there is a diurnal swing in carbon emissions  associated with electricity. Data: NREL Cambium.</p></figcaption></figure>
