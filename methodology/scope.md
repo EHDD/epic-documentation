@@ -1,6 +1,6 @@
 # Goal and Scope
 
-Goal
+## Goal
 
 EPIC is a design tool that integrates assessments of embodied, operational, and landscape carbon in a data model to support low-carbon design in when data is scarce.
 
