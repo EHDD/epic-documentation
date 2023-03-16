@@ -78,7 +78,13 @@ $$
 Roof  \ area = Above \ Ground \ Floor \ Area
 $$
 
-For each of the three envelope categories, the carbon intensity is determined by sampling the distribution of GWP values from typical assemblies at the 20th, 50th, and 80th percentile.&#x20;
+For each of the three envelope categories, the carbon intensity is determined by sampling the distribution of GWP values from typical assemblies at the 20th, 50th, and 80th percentile. These data are summarized in the table below.
+
+| Assembly     | Low Carbon     | Best Practices | Conservative   |
+| ------------ | -------------- | -------------- | -------------- |
+| **Cladding** | 3.0 kgCO2e/sf  | 8.8 kgCO2e/sf  | 14.3 kgCO2e/sf |
+| **Glazing**  | 11.4 kgCO2e/sf | 13.6 kgCO2e/sf | 19.0 kgCO2e/sf |
+| **Roofing**  | 5.3 kgCO2e/sf  | 7.7 kgCO2e/sf  | 14.0 kgCO2e/sf |
 
 #### Embodied Carbon in Interior Fit Out
 
