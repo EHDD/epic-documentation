@@ -56,7 +56,27 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 
 ### Embodied Carbon in Building Assembles
 
+Building assemblies in EPIC are evaluated on a per-area basis.&#x20;
 
+#### Embodied Carbon in the Building Envelope
+
+The building envelope in divided into three components: opaque cladding, glazing, and roofing. The area of each is calculated based on user inputs for building floor area, number of floors, floor-to-floor height window-to-wall ratio (WWR), and building perimeter. EPIC makes a preliminary estimate of floor-to-floor height, WWR, and building perimeter (assuming a square building) which the user can refine in the "overrides" panel in the base case tab.&#x20;
+
+$$
+Envelope  \ area = Perimeter \ * \ Floor  \ Height \ * \ Number  \ of \ floors
+$$
+
+$$
+Glazing  \ area = WWR \ * \ Perimeter \ * \ Floor  \ Height \ * \ Number  \ of \ floors
+$$
+
+$$
+Cladding  \ area = (1-WWR) \ * \ Perimeter \ * \ Floor  \ Height \ * \ Number  \ of \ floors
+$$
+
+$$
+Roof  \ area = Above \ Ground \ Floor \ Area
+$$
 
 #### Embodied Carbon in Interior Fit Out
 
