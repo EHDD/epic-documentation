@@ -104,6 +104,12 @@ Additional data on envelope assemblies can be accessed via EPIC's API. For acces
 
 #### Embodied Carbon in Interior Fit Out
 
+Interior fit out is calculated on a per area basis for a proportion of the building's total area. Note that the dataset used to generate the quantities used in EPIC is not sensitive to use type and is biased toward commercial interiors. These data include internal EHDD data and data from the CLF study on tenant fit outs in commercial office buildings.&#x20;
+
+| Assembly           | Low Carbon    | Best Practices | Conservative   |
+| ------------------ | ------------- | -------------- | -------------- |
+| **Tenant Fit Out** | 4.0 kgCO2e/sf | 7.6 kgCO2e/sf  | 13.3 kgCO2e/sf |
+
 
 
 #### Embodied Carbon in MEP
@@ -115,8 +121,6 @@ Additional data on envelope assemblies can be accessed via EPIC's API. For acces
 
 
 #### Embodied Carbon in Hardscape
-
-
 
 #### Emissions from Landscape Maintenance
 
