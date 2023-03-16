@@ -4,7 +4,7 @@ The overview of how EPIC calculated operational carbon is detailed on the [model
 
 ### Energy Use
 
-EPIC uses energy use intensity (EUI) in kBtu/sf/yr as its metric for energy use in buildings. EPIC is designed to give accurated feedback on the carbon emissions associated with energy use, but is not an energy modeling tool for determining how a particular EUI can be achieved.
+EPIC uses energy use intensity (EUI) in kBtu/sf/yr as its metric for energy use in buildings. EPIC is designed to give accurate feedback on the carbon emissions associated with a declared energy use, but is not an energy modeling tool for determining how a declared energy use can be achieved.
 
 Baseline EUIs are set in EPIC using a direct API connection with Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/), with a failover to a subset of cached Zero Tool results. Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum EUI, enter a custom value in the "Benchmark EUI" [override](../users-guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
 
