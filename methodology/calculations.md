@@ -110,11 +110,20 @@ Interior fit out is calculated on a per area basis for a proportion of the build
 | ------------------ | ------------- | -------------- | -------------- |
 | **Tenant Fit Out** | 4.0 kgCO2e/sf | 7.6 kgCO2e/sf  | 13.3 kgCO2e/sf |
 
-
-
 #### Embodied Carbon in MEP
 
+Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.&#x20;
 
+| Building Area       | Standard Performance | High Performance |
+| ------------------- | -------------------- | ---------------- |
+| < 25,000 sf         | 4.11 kgCO2e/sf       | 6.17  kgCO2e/sf  |
+| 25,000 - 79,999 sf  | 4.58  kgCO2e/sf      | 5.76  kgCO2e/sf  |
+| 80,000 - 300,000 sf | 5.93  kgCO2e/sf      | 6.02  kgCO2e/sf  |
+| > 300,000 sf        | 4.83  kgCO2e/sf      | 6.79  kgCO2e/sf  |
+
+Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system.&#x20;
+
+The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
 
 #### Embodied Carbon in Solar Photovoltaic Arrays
 
