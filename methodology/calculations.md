@@ -121,15 +121,19 @@ Embodied carbon in mechanical systems in evaluated at two specification levelsâ€
 | 80,000 - 300,000 sf | 5.93  kgCO2e/sf      | 6.02  kgCO2e/sf  |
 | > 300,000 sf        | 4.83  kgCO2e/sf      | 6.79  kgCO2e/sf  |
 
-Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system.&#x20;
-
-The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
 
 #### Embodied Carbon in Solar Photovoltaic Arrays
 
-
+Embodied carbon in solar photovoltaics arrays is calculated using values from the peer-reviewed literature. A citation to the current data source is available in in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.
 
 #### Embodied Carbon in Hardscape
+
+All site area not designated as planted is assumed to be hardscaped. Hardscape emissions were calculated by EHDD using a parameterized streamlined LCA model of built from standard hardscape details. The 20th, 50th, and 80th percentile of the resulting distribution was sampled and used to define the specification levels in EPIC.
+
+| Assembly      | Low Carbon    | Best Practices | Conservative  |
+| ------------- | ------------- | -------------- | ------------- |
+| **Hardscape** | 4.4 kgCO2e/sf | 5.9 kgCO2e/sf  | 7.2 kgCO2e/sf |
 
 #### Emissions from Landscape Maintenance
 
