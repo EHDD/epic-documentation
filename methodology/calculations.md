@@ -54,17 +54,19 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 
 <figure><img src="../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
 
-| Structural Material    | Low Carbon     | Best Practices | Conservative   |
-| ---------------------- | -------------- | -------------- | -------------- |
-| **Concrete, 3-4 kSI**  | Local data     | Local data     | Local data     |
-| **Concrete, 5-6 kSI**  | Local data     | Local data     | Local data     |
-| **Concrete, 7-10 kSI** | 0.16 kgCO2e/kg | 0.2 kgCO2e/kg  | 0.3 kgCO2e/kg  |
-| **Reinforcing Steel**  | 0.9 kgCO2e/kg  | 1.1 kgCO2e/kg  | 0.16 kgCO2e/kg |
-| **Structural Steel**   | 0.9 kgCO2e/kg  | 1.1 kgCO2e/kg  | 1.2 kgCO2e/kg  |
-| **Steel Deck**         | 1.7 kgCO2e/kg  | 2.2 kgCO2e/kg  | 2.4 kgCO2e/kg  |
-| **Lumber**             | 0.09 kgCO2e/kg | 0.11 kgCO2e/kg | 0.18 kgCO2e/kg |
-| **Plywood**            | 0.36 kgCO2e/kg | 0.42 kgCO2e/kg | 0.73 kgCO2e/kg |
-| **Engineered Wood**    | 0.19 kgCO2e/kg | 0.25 kgCO2e/kg | 0.36 kgCO2e/kg |
+| Structural Material    | Low Carbon          | Best Practices      | Conservative        |
+| ---------------------- | ------------------- | ------------------- | ------------------- |
+| **Concrete, 3-4 kSI**  | _Location-specific_ | _Location-specific_ | _Location-specific_ |
+| **Concrete, 5-6 kSI**  | _Location-specific_ | _Location-specific_ | _Location-specific_ |
+| **Concrete, 7-10 kSI** | 0.16 kgCO2e/kg      | 0.2 kgCO2e/kg       | 0.3 kgCO2e/kg       |
+| **Reinforcing Steel**  | 0.9 kgCO2e/kg       | 1.1 kgCO2e/kg       | 0.16 kgCO2e/kg      |
+| **Structural Steel**   | 0.9 kgCO2e/kg       | 1.1 kgCO2e/kg       | 1.2 kgCO2e/kg       |
+| **Steel Deck**         | 1.7 kgCO2e/kg       | 2.2 kgCO2e/kg       | 2.4 kgCO2e/kg       |
+| **Lumber**             | 0.09 kgCO2e/kg      | 0.11 kgCO2e/kg      | 0.18 kgCO2e/kg      |
+| **Plywood**            | 0.36 kgCO2e/kg      | 0.42 kgCO2e/kg      | 0.73 kgCO2e/kg      |
+| **Engineered Wood**    | 0.19 kgCO2e/kg      | 0.25 kgCO2e/kg      | 0.36 kgCO2e/kg      |
+
+For access to EPIC's location-specific data or BoM datasets, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
 
 ### Embodied Carbon in Building Assembles
 
