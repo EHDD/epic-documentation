@@ -21,7 +21,7 @@ A model is trained for each structural material in each structural system. These
 
 Where the model explains more than 70% of variation in the underlying data, it is included in EPIC and the model-specific uncertainty value is included in the uncertainty calculation. Where the model explains less than 70% of the variation in the underlying data, a per-area measure of center is included in EPIC and the uncertainty is the standard error of the sample.&#x20;
 
-These methods for calculating a structural bill of materials have been reviewed by colleagues at [MKA](https://www.mka.com/) and [Carbon Leadership Forum](https://carbonleadershipforum.org/), with additional comment from collaborators at [Arup](https://www.arup.com/). If you are interested in providing further review of our models, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
+These methods for calculating a structural bill of materials have been reviewed by colleagues at [MKA](https://www.mka.com/) and [Carbon Leadership Forum](https://carbonleadershipforum.org/), with additional comment from collaborators at [Arup](https://www.arup.com/). If you are a structural engineer interested in providing further review of our models, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
 
 #### Carbon Intensities of Structural Materials
 
