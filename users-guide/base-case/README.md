@@ -14,13 +14,31 @@ When the base case form is filled, click the "Save Base Case" button at the bott
 
 ### Building Structure
 
-**Primary structural system.** The base case structural system, selected from the following:
+**Primary structural system.** The base case structural system.
+
+<details>
+
+<summary>Structural Systems included in EPIC</summary>
 
 * _Steel frame_. A structural system comprised of columns, beams, girders, and decking constructed from steel structural members connected with rigid or pin joints.
+
+<!---->
+
 * _Reinforced concrete_. A structural system comprised of columns, beams, and slabs of concrete reinforced with steel that provides tensile strength.
+
+<!---->
+
 * _Hybrid concrete/steel (high-rise)_. A structural system that combines rigid steel frames with concrete columns, beams, and slabs. These hybrid structures are more materially intensive and may be used when there are significant seismic loads, in high-rise buildings, or for programs with very high live or environmental loads.
+
+<!---->
+
 * _Wood frame_. A structural system comprised of dimensional lumber, plywood sheathing, and reinforced concrete cores and podiums.
+
+<!---->
+
 * _Comprehensive mass timber_. A structural system comprised of massive beams, panels, and columns, often assembled by aggregating many smaller timber elements. This approach assumes that timber elements are aggressively substituted for other structural materials.
+
+</details>
 
 ### Building Use
 
@@ -79,8 +97,20 @@ When the base case form is filled, click the "Save Base Case" button at the bott
 
 **Planted Area.** The planted area located outside the building's footprint. This input cannot be less than the site area less the average aboveground floor area.
 
-### Donut Chart
+### Base Case Chart
 
-The base case is summarized with a donut chart showing the proportion of embodied, operational, and sequestered carbon emissions over 30 years.
+The base case is summarized with a donut chart showing the proportion of embodied, operational, and stored carbon emissions over the reference period.
 
-![The base case donut chart summarizes the emissions associated with the base case building.](<../../.gitbook/assets/2022-06-01 16\_54\_08-EPIC Assessment.png>)
+**Total Emissions**. The sum of carbon emissions (in metric tons CO2e) from the project across the reference period.&#x20;
+
+**Embodied Emissions**. The sum of all emissions (in metric tons CO2e) within the [project scope](refine-project-scope.md) from material inputs, construction process, material replacement, maintenance, and (where applicable) end-of-life.
+
+**Operational Emissions**. The sum of all emissions (in metric tons CO2e) across the reference period from onsite combustion, electricity use, and fossil fuel leakage in mixed-fuel buildings.
+
+**Carbon Storage**. Carbon stored in mature and maintained landscaping on the project site.
+
+**Energy Use Intensity (EUI)**. Base case energy use by the building per square foot per year.&#x20;
+
+**Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](refine-project-scope.md).
+
+<figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption></figcaption></figure>
