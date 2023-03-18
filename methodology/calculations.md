@@ -39,8 +39,6 @@ Where concrete EPDs are not available, the specification levels in EPIC are set 
 
 In locations where concrete EPDs are available, EPIC sets the specification levels for concrete by sampling the distribution of GWP values from available concrete EPDs at the 20th, 50th, and 80th percentile. Data on concrete are queried via the [OpenEPD API](https://openepd.buildingtransparency.org/) and compiled in a GIS.&#x20;
 
-<figure><img src="../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
-
 | Structural Material    | Low Carbon          | Best Practices      | Conservative        |
 | ---------------------- | ------------------- | ------------------- | ------------------- |
 | **Concrete, 3-4 kSI**  | _Location-specific_ | _Location-specific_ | _Location-specific_ |
@@ -52,6 +50,8 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 | **Lumber**             | 0.09 kgCO2e/kg      | 0.11 kgCO2e/kg      | 0.18 kgCO2e/kg      |
 | **Plywood**            | 0.36 kgCO2e/kg      | 0.42 kgCO2e/kg      | 0.73 kgCO2e/kg      |
 | **Engineered Wood**    | 0.19 kgCO2e/kg      | 0.25 kgCO2e/kg      | 0.36 kgCO2e/kg      |
+
+<figure><img src="../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
 
 For access to EPIC's location-specific data or BoM datasets, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
 

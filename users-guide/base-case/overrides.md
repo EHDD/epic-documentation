@@ -29,3 +29,11 @@ The user-declared perimeter of the building. In the absence of a user input, EPI
 #### Solar ground coverage
 
 For any solar array entered as a carbon reduction measure, this ratio describes the ratio of total array (ground) area to active solar cells. EPIC's assumption is 0.7, representing a fairly efficient solar layout.&#x20;
+
+#### Grid Metric
+
+text
+
+#### Grid Scenario
+
+text

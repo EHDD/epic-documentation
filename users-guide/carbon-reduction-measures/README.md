@@ -5,8 +5,8 @@ To determine a project target, a set of carbon reduction measures can be applied
 Carbon reduction measures in EPIC are generally divided into three categories:
 
 * [**Reduction and reuse**](reduction-and-reuse.md)**.** These measures deal with the reduction of the building area and the savings from reuse of existing building elements.
-* [**Embodied carbon**](embodied-carbon.md)**.** These measures pertain to the materials in a building, structural and nonstructural, their amounts, their carbon intensities, and their replacement periods.
-* [**Operational carbon**](operational-carbon.md)**.** These measures pertain to energy use in the building and its sources.
+* [**Embodied carbon**](broken-reference)**.** These measures pertain to the materials in a building, structural and nonstructural, their amounts, their carbon intensities, and their replacement periods.
+* [**Operational carbon**](broken-reference)**.** These measures pertain to energy use in the building and its sources.
 * [**Site landscaping**](landscaping.md). These measures pertain to the landscape surrounding the building and assess its potential to sequester carbon.
 
 ### Cumulative Emissions Over Time
@@ -24,7 +24,7 @@ The cumulative emissions over time chart has a number of elements:
 * **Net emissions after reductions**. Operational and embodied emissions less sequestered and avoided emissions.
 * **Climate Positive Threshold**. When the net emissions of a project crosses the zero line, the crossing point is marked as the Climate Positive threshold.
 
-Hovering over a bar gives the summary of cumulative emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Note that these numbers are rounded to the nearest hundred and may not sum to net emissions in all cases.
+Hovering over a bar gives the summary of emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Note that these numbers are rounded to the nearest hundred and may not sum to net emissions in all cases.
 
 ![Hovering over a bar gives the summary of cumulative emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Pictured here, hovering over the final year in the chart gives the total emissions across the 30 year period.](<../../.gitbook/assets/2022-06-01 13\_48\_24-EPIC Assessment.png>)
 
