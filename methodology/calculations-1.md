@@ -40,5 +40,7 @@ The future of the electrical grid is uncertain. To account for this uncertainty,
 * **95% decarbonization by 2050**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. Nascent technologies are included. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out. High-level assumption that the national electricity grid's carbon emissions in 2050 are 5% of their 2005 level.&#x20;
 * **High Cost of Renewable Energy**. Average estimates as in the mid-case scenario, but with an assumption that battery and renewable energy costs are high. This scenario assumes that the thresholds set by the Inflation Reduction Act’s Production and Investment Tax Credits are not met and, as such, they do not phase out.
 
+EPIC evaluates energy use on an annual basis. The carbon emissions from electricity, however, vary hour by hour. Depending on the use type and location, this can lead to a difference of as much as +/- 20% between annual (modeled) and hourly (measured) estimates of operational emissions.&#x20;
+
 <figure><img src="../.gitbook/assets/EPIC - LRMER and AER.png" alt=""><figcaption><p>Carbon emissions from electricity demand from 2023-2110 for two metrics and three scenarios.</p></figcaption></figure>
 

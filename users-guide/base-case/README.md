@@ -1,6 +1,6 @@
 # Base Case
 
-EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a base case building. The base case building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The base case provides a means of comparison for evaluating carbon reduction measures. The building's form is not parameterized; the building is assumed to be an extruded square.&#x20;
+EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a base case building. The base case building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The base case provides a means of comparison for evaluating carbon reduction measures. The building's form is not parameterized; the building is assumed to be an extruded square.
 
 When the base case form is filled, click the "Save Base Case" button at the bottom of the form to save the base case and generate the base case figure and table.
 
@@ -24,9 +24,42 @@ When the base case form is filled, click the "Save Base Case" button at the bott
 
 ### Building Use
 
-**Primary Use.** The CBECS category most reflective of the project’s main use. This is used to determine the building's energy use and its structural requirements.
+**Primary Use.** The CBECS category most reflective of the project’s main use. This is used to determine the building's energy use and its structural requirements.&#x20;
 
 **Secondary Use.** If the primary use comprises less than 100% of the program, a secondary program may be selected for the remainder. This program will affect the EUI (resulting in a ‘blended EUI’) but will not affect the building’s structural system.
+
+<details>
+
+<summary>Use Categories included in EPIC</summary>
+
+* Aquarium&#x20;
+* Convention Center&#x20;
+* Distribution Center&#x20;
+* Dormitory&#x20;
+* Fitness Center&#x20;
+* Hospital&#x20;
+* Hotel&#x20;
+* K-12 School&#x20;
+* Laboratory&#x20;
+* Library&#x20;
+* Medical Clinic&#x20;
+* Multifamily Housing&#x20;
+* Museum Office&#x20;
+* Performing Arts&#x20;
+* Post Office&#x20;
+* Pre-school / Day Care&#x20;
+* Restaurant&#x20;
+* Retail Store&#x20;
+* Senior Care Facility&#x20;
+* ~~Single Family Home~~ _<mark style="color:green;">(only available via API)</mark>_
+* Stadium&#x20;
+* Transit Station&#x20;
+* University/College&#x20;
+* Worship Facility&#x20;
+* Warehouse&#x20;
+* Zoo
+
+</details>
 
 ### Building Floor Area
 
@@ -48,7 +81,6 @@ When the base case form is filled, click the "Save Base Case" button at the bott
 
 ### Donut Chart
 
-The base case is summarized with a donut chart showing the proportion of embodied, operational, and sequestered carbon emissions over 30 years.&#x20;
+The base case is summarized with a donut chart showing the proportion of embodied, operational, and sequestered carbon emissions over 30 years.
 
 ![The base case donut chart summarizes the emissions associated with the base case building.](<../../.gitbook/assets/2022-06-01 16\_54\_08-EPIC Assessment.png>)
-
