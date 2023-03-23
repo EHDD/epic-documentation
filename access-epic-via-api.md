@@ -4,6 +4,7 @@
 
 In addition to the open access version of EPIC available, the data model behind EPIC is accessible as an API. By directly integration of EPIC into their own platforms and workflows, our API has allowed our partners to:
 
+* Perform higher-resolution analysis of specific buildings.
 * Analyze "look-ahead" scenarios for the construction or acquisition of large portfolios of buildings.
 * Perform sensitivity testing of carbon reduction measures.
 * Stress-test planning and policy decisions at the municipal, regional, or national scale.
