@@ -1,6 +1,6 @@
 # Model Structure
 
-## EPIC calculates "whole carbon" emissions
+## EPIC calculates _whole carbon_ emissions
 
 EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, EPIC prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
 
@@ -106,4 +106,4 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 EPIC's model is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
 
-Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available \[HERE]. To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
+Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available [here](../users-guide/carbon-reduction-measures/customize-scenario.md). To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
