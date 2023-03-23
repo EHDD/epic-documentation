@@ -2,7 +2,7 @@
 
 ## Goal
 
-EPIC is a design tool that integrates assessments of embodied, operational, and landscape carbon in a data model to support low-carbon design in when data is scarce.
+EPIC is a design tool that integrates assessments of embodied, operational, and landscape carbon in a data model to support low-carbon design when data is scarce.
 
 EPIC is designed for use during site and feasibility studies, requests for proposals, pre-design, and in other situations where quantitative support is needed for low-carbon design decisions and completing a whole-building life cycle assessment and/or energy model is not practicable.&#x20;
 
