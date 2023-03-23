@@ -39,6 +39,4 @@ The assumption of displacement generation will not hold true in all locations, a
 * Daytime (i.e., when solar is available) emissions from the electrical grid are significantly lower than the national average.
 * Surplus energy generation is expected to be curtailed by the utility.  For an overview of curtailment in the United States, we recommend [this report from NREL](https://www.nrel.gov/docs/fy14osti/60983.pdf) (pdf).
 
-To evaluate whether these situations affect your project, reference the figure below. If you are interested in further analysis of hourly emissions, [please reach out](mailto:epic@ehddd.com).&#x20;
-
-<figure><img src="../../.gitbook/assets/Hourly Carbon Intensity.jpg" alt=""><figcaption><p>Hourly carbon intensity of electricity production in each of the 48 contiguous states. The Y axis of each graph is the time of day, and the X axis is the day of the year. In states where the graph shows a horizontal band, there is a diurnal swing in carbon emissions  associated with electricity and some curtailment can be expected. Data: NREL Cambium.</p></figcaption></figure>
+If you are interested in further analysis of hourly emissions, [please reach out](mailto:epic@ehddd.com).&#x20;
