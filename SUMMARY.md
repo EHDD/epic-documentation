@@ -20,7 +20,6 @@
   * [Model Structure](methodology/carbon-reduction-measures.md)
 * [Backmatter](backmatter/README.md)
   * [Data Confidentiality Statement](backmatter/data-confidentiality-statement.md)
-  * [Credits and Changelog](backmatter/credits.md)
 * [Access EPIC via API](access-epic-via-api.md)
 * [Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 * [Get Updates](http://eepurl.com/h2AQkP)
