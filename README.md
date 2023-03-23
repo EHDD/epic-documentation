@@ -1,3 +1,7 @@
+---
+description: EPIC v2.0.0
+---
+
 # What is EPIC?
 
 The Early Phase Integrated Carbon (EPIC) assessment was built by EHDD to support climate-positive design decisions in early project phases when data is scarce but the potential for carbon reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.&#x20;
@@ -18,6 +22,6 @@ _EPIC is not a whole-building life cycle assessment (wbLCA) tool_.
 
 Some lifecycle phases are included in the model, others are not. Our decisions about what to include or exclude are geared towards the most impactful decisions made during a project’s early phases that can be supported by available data. These choices are based on our experience, our conversations with experts, and available data. A wbLCA is generally assessed against a 60-year time horizon, but EPIC looks at emissions over 30 years to focus on meeting time-based climate targets. As EPIC develops, we hope to expand the range of data that it integrates and, as a consequence, the range of decisions it can support.
 
-_EPIC is not able to predict the future._&#x20;
+_No one can predict the future._&#x20;
 
-EPIC contains estimates of future emissions, but the future is inherently uncertain. In 2021, for instance, our models did not predict the passage of the IRA or the continued operation of the Diablo Canyon Nuclear Power Plant—two events which have since come to pass and have significantly affected our model's estimates of emissions from buildings. As a corollary, we are not in the business of predicting which low-carbon concrete technology will achieve the greatest market share, which timber supply chain will be most disrupted by climate change, etc. and so on. To the extent that trusted data sources make these predictions, we follow their lead. [Documentation of these data sources](backmatter/data-sources.md) in included in this guide.
+EPIC contains estimates of future emissions, but the future is inherently uncertain. In 2021, for instance, our models did not predict the passage of the IRA or the continued operation of California's Diablo Canyon Nuclear Power Plant—two events which have since come to pass and have significantly affected our model's estimates of electricity-related emissions from buildings. As a corollary, we are not in the business of predicting which low-carbon concrete technology will achieve the greatest market share, which timber supply chain will be most disrupted by climate change, and so on. To the extent that trusted data sources make these predictions, we follow their lead. [Documentation of these data sources](backmatter/data-sources.md) in included in this guide.
