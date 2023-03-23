@@ -6,7 +6,7 @@ EPIC is a design tool that integrates assessments of embodied, operational, and 
 
 EPIC is designed for use during site and feasibility studies, requests for proposals, pre-design, and in other situations where quantitative support is needed for low-carbon design decisions and completing a whole-building life cycle assessment and/or energy model is not practicable.&#x20;
 
-The goal of EPIC is _not_ to provide exact estimates for specific buildings. EPIC provides directionally accurate guidance for specific projects by helping to identify which carbon reduction strategies a project should pursue, and helps to guide decarbonization of portfolios and portions of the building stock where EPIC's model assumptions have been tested (i.e., in the continental United States).&#x20;
+EPIC provides directionally accurate guidance for specific projects by helping to identify which carbon reduction strategies a project should pursue, and helps to guide decarbonization of portfolios and portions of the building stock where EPIC's model assumptions have been tested (i.e., in the continental United States).&#x20;
 
 EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology. We're always seeking [feedback](mailto:epic@ehdd.com?subject=Feedback).
 
