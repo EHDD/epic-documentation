@@ -1,6 +1,6 @@
 # Model Structure
 
-## EPIC calculates _whole carbon_ emissions
+## EPIC calculates whole carbon emissions
 
 EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, EPIC prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
 
@@ -39,6 +39,8 @@ $$
 For m total years between the building’s completion and the target year and across o fuel types, where A is the total building area, $$e_{tj}$$ is the energy use per building area (EUI) in year $$t$$ of fuel $$j$$, and $$c_{tj}$$ is the carbon intensity per energy unit in year $$t$$ of fuel $$j$$.
 
 Carbon emissions associated with electricity are derived from NREL's Cambium model. Onsite fossil fuel use is assumed to be natural gas. The carbon emissions of natural gas are assessed with a 2.4% leakage rate. Fuel oil emissions account for N20 and CH4 emissions. Characterization of non-CO2 emissions is determined with the GWP100 factors published in IPCC AR6.
+
+_<mark style="color:green;">Future versions of EPIC will also include refrigerant emissions.</mark>_&#x20;
 
 ### [Calculating Stored and Avoided Carbon](carbon-reduction-measures/calculations-2.md)
 
