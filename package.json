@@ -1,6 +1,6 @@
 {
   "name": "@chiester/epic-documentation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Documentation for EPIC - Early Phase Integrated Carbon Assessment by EHDD",
   "main": "README.md",
   "scripts": {
