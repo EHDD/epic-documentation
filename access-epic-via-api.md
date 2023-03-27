@@ -19,7 +19,7 @@ API access can be tailored to meet your organization's specific needs. If you ar
 
 ## Overview of EPIC API <a href="#overview" id="overview"></a>
 
-EPIC is a stateless API for calculating whole carbon footprints from buildings. EPIC has the ability to calculate embodied, operational, and landscape emissions at various levels of resolution. A description of EPIC's methodology for calculating carbon emissions is available in our [public-facing documentation](https://epic-documentation.gitbook.io/epic/) and additional information about our methods is available [upon request](mailto:epic@ehdd.com?subject=Methods) .EPIC's API is [RESTful](http://en.wikipedia.org/wiki/Representational\_State\_Transfer), has predictable URLs, accepts [JSON-encoded](http://www.json.org/) request bodies, returns [JSON-encoded](http://www.json.org/) responses, and uses standard HTTP response codes, authentication, and verbs.
+EPIC is a stateless API for calculating whole carbon footprints from buildings. EPIC has the ability to calculate embodied, operational, and landscape emissions at various levels of resolution. A description of EPIC's methodology for calculating carbon emissions is available in our [public-facing documentation](https://epic-documentation.gitbook.io/epic/) and additional information about our methods is available [upon request](mailto:epic@ehdd.com?subject=Methods). EPIC's API is [RESTful](http://en.wikipedia.org/wiki/Representational\_State\_Transfer), accepts [JSON-encoded](http://www.json.org/) request bodies, returns [JSON-encoded](http://www.json.org/) responses, and uses standard HTTP response codes, authentication, and verbs.
 
 ### Data Dictionary <a href="#data-dictionary" id="data-dictionary"></a>
 
