@@ -1,6 +1,6 @@
 # Operational Carbon
 
-The overview of how EPIC calculated operational carbon is detailed on the [model structure](carbon-reduction-measures.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a proejct's operational carbon.
+The overview of how EPIC calculated operational carbon is detailed on the [model structure](carbon-reduction-measures.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a proejct's operational carbon.  In all cases, EPIC uses GWP-100 characterization factors.&#x20;
 
 ### Energy Use
 
@@ -29,16 +29,16 @@ EPIC includes estimates of carbon emissions from demand for electricity from now
 
 EPIC includes two metrics for grid emissions.
 
-* **Average emission rates (AER)**. The average emission rate of the generation mix in the selected location in the selected year.&#x20;
-* **Long run marginal emission rates (LRMER)**. The emissions rate that would be induced by a long-term change in electrical demand. An example of a long-term change in electrical demand is the demand incurred by a building.&#x20;
+* **Average Emission Rate (AER)**. By default, EPIC measures annual emission factors by summing the total generation of all resources in a given year and putting them on a MWh basis. This average emission rate also includes 'precombustion emissions from the leakage of fossil gas in the energy supply chain. This metric is described in NREL's Cambium model as "AER Load: Combustion + Precombustion."&#x20;
+* **Long-Run Marginal Emission Rates (LRMER)**. LRMER emissions are described by NREL as emission rates for “of the next unit of electricity considering the grid’s structure as variable.” This emission metric is preferable to a simple average emission rate because buildings are long-lived assets whose demand for energy has a marginal influence on the evolution of the energy grid. This metric is described in NREL's Cambium model as "LRMER: Combustion + Precombustion."&#x20;
 
 #### Electrical grid projections
 
 The future of the electrical grid is uncertain. To account for this uncertainty, EPIC includes three NREL Cambium scenarios for the future evolution of the electrical grid. Portions of the text below are quoted from the description of these scenarios and their derivation published by NREL [here](https://www.nrel.gov/docs/fy23osti/84916.pdf) (pdf).
 
-* **Mid-case**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. No inclusion of nascent technologies. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out.
-* **95% decarbonization by 2050**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. Nascent technologies are included. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out. High-level assumption that the national electricity grid's carbon emissions in 2050 are 5% of their 2005 level.&#x20;
-* **High Cost of Renewable Energy**. Average estimates as in the mid-case scenario, but with an assumption that battery and renewable energy costs are high. This scenario assumes that the thresholds set by the Inflation Reduction Act’s Production and Investment Tax Credits are not met and, as such, they do not phase out.
+* **Expected decarbonization**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. No inclusion of nascent technologies. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out. This metric is described in NREL's Cambium model as "Midcase."
+* **Slow Decarbonization**. Average estimates as in the mid-case scenario, but with an assumption that battery and renewable energy costs are high. This scenario assumes that the thresholds set by the Inflation Reduction Act’s Production and Investment Tax Credits are not met and, as such, they do not phase out. This metric is described in NREL's Cambium model as "High Cost of Renewable Energy."
+* **Rapid Decarbonization**. Average estimates for inputs such as technology costs, fuel prices, and demand growth. Nascent technologies are included. Electric sector policies as they existed in September 2022, with the assumption that the Inflation Reduction Act’s Production and Investment Tax Credits do not phase out. High-level assumption that the national electricity grid's carbon emissions in 2050 are 5% of their 2005 level. This metric is described in NREL's Cambium model as "95% decarbonization by 2050."
 
 EPIC evaluates energy use on an annual basis. The carbon emissions from electricity, however, vary hour by hour. Depending on the use type and location, this can lead to a difference of as much as +/- 20% between annual (modeled) and hourly (measured) estimates of operational emissions.&#x20;
 
