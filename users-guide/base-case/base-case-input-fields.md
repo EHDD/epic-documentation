@@ -89,17 +89,17 @@ If the primary use comprises less than 100% of the program, a secondary program 
 
 ### Building Floor Area
 
-**Number of aboveground floors**
+**Number of above ground floors**
 
 The number of building floors above grade. These floors will be assessed using the selected structural system.
-
-**Number of belowground floors**
-
-The number of building floors below grade. These floors will be assessed as having a reinforced concrete structural system.
 
 **Floor area per above ground floor**
 
 The area, in square feet, of the average aboveground floor. To determine cladding and roof area, the floor is always assumed to be square.
+
+**Number of below ground floors**
+
+The number of building floors below grade. These floors will be assessed as having a reinforced concrete structural system.
 
 **Floor area per below ground floor**
 
