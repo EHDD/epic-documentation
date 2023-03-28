@@ -20,8 +20,8 @@ The base case is summarized with a donut chart showing the proportion of embodie
 
 **Carbon Storage**. Carbon stored in mature and maintained landscaping on the project site.
 
-**Energy Use Intensity (EUI)**. Base case energy use by the building per square foot per year.&#x20;
+**Energy Use Intensity (EUI)**. Base case energy use by the building per square foot per year. If the you have not entered a benchmark EUI, the EUI is estimated via [ZeroTool](https://zerotool.org/).&#x20;
 
 **Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](refine-project-scope.md).
 
-<figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>
