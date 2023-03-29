@@ -2,7 +2,7 @@
 
 ## Reduction and Reuse
 
-#### Reduced building area
+#### Reduction in building Area
 
 A reduction to the overall floor area, distributed evenly across the building's floors.
 
@@ -10,9 +10,13 @@ A reduction to the overall floor area, distributed evenly across the building's 
 
 The reuse of a pre-existing structural system for a given percentage of the building's floor area.
 
-#### Cladding and glazing reuse
+#### Envelope reuse
 
-The reuse of façade or glazing material for a given percentage of the building’s exterior surface area.
+The reuse of opaque envelope for a given percentage of the building’s total envelope.
+
+#### Glazing reuse
+
+The reuse of glazing units for a given percentage of the building’s total envelope.
 
 ## Embodied Carbon Measures - Structure
 
@@ -48,25 +52,25 @@ Specification of a structural system other than the system modeled in the base c
 
 The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../methodology/calculations.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
-* **Conservative.** Typical concrete mix, no effort made to lower carbon emissions.
-* **Best practices.** Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.
-* **Low-carbon.** Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.
+* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
+* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.&#x20;
 
 #### Steel specification
 
 The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../methodology/calculations.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
-* **Conservative.** Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.
-* **Best practices.** Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification.
-* **Low-carbon.** Steel from electric arc furnaces powered with renewable energy sources, potentially with biomass reductants, with high-recycled content, and structural design to minimize overspecification and maximize reusability.
+* **Conservative.** GWP in the 80th percentile of nationally available steel. Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.&#x20;
+* **Best practices.** GWP in the 50th percentile of nationally available steel. Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification. &#x20;
+* **Low-carbon.** GWP in the 20th percentile of nationally available steel. Steel from electric arc furnaces powered with renewable energy sources, potentially with biomass reductants, with high-recycled content, and structural design to minimize overspecification and maximize reusability.&#x20;
 
 #### Timber specification
 
 The specification of lumber, plywood/OSB, and engineered timber elements with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../methodology/calculations.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
-* **Conservative.** text
-* **Best practices.** text
-* **Low-carbon.** text
+* **Conservative.** GWP in the 80th percentile of nationally available timber. The highest GWP forest products may come from value chains where fossil gas is used for process heat at the mill, forestry and nursery practices require high levels of chemical inputs, and transportation is over long distances by truck. Typically, forest products from forests in the American Southeast have higher GWP than those from the Northeast or Northwest.&#x20;
+* **Best practices.** GWP in the 50th percentile of nationally available timber. Lowering the GWP of wood products can be achieved by using wood waste instead of natural gas for process heat at the mill, limiting chemical inputs such as fertilizer, and transportation by efficient means such as rail. Typically, forest products from forests in the American Northwest have GWP values lower than those from the Southeast and higher than those in th Northeast.&#x20;
+* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Wood products with the lowest GWP may come from value chains where wood waste is reused to make durable goods, electricity is used for process heat where possible, chemical inputs such as fertilizer are mostly avoided, and the forest is near the mill and construction sites. Typically, forest products from forests in the American Northeast have lower GWP than those from the Southeast or Northwest.&#x20;
 
 #### Responsibly sourced timber
 
