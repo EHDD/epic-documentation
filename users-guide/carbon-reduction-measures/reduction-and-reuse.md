@@ -158,7 +158,7 @@ Some operational emissions (20%) will persist after the clean power purchase to 
 
 This set of measures describes potential carbon storage in the landscape as well as annual emissions associated with the landscape's upkeep.
 
-#### Reduced hardscape area
+#### Convert hardscape area to planted area
 
 Converts hardscape area to planted area, up to the maximum of site area less building footprint.&#x20;
 
@@ -167,30 +167,16 @@ Converts hardscape area to planted area, up to the maximum of site area less bui
 Definition of the proportion of total planted area that is low, moderate, or high carbon storage.
 
 * **Low carbon storage planted area.** Example of a low carbon storage landscape is no-mow turfgrass or other herbaceous perennials. This is the assumption for all planted areas in the base case.
-* **Moderate carbon storage planted area.** An example of a moderate carbon storage landscape is low shrubs and small trees in a matrix of no-mow turfgrass or herbaceous perennials.
 * **High carbon storage planted area.** An example of a high carbon storage landscape is one composed of dense broadleaf shrubs and trees in a matrix of no-mow turfgrass or herbaceous perennials.
-
-#### Hardscape specification
-
-Text
-
-* **Conservative.** Text
-* **Best practices.** Text
-* **Low-carbon.** Text
-
-#### Hardscape refurbishment period
-
-The length of time over which a majority of the interior fit-out will be replaced.
 
 #### Planted roof area
 
-The length of time over which a majority of the interior fit-out will be replaced.
+The percentage of roof area planted with a green roof.
 
 #### Planted roof specification
 
-Text
+There are two levels of specification available in EPIC for green roofs.&#x20;
 
-* **Conservative.** Text
-* **Best practices.** Text
-* **Low-carbon.** Text
+* **Low Carbon Storage (extensive).** An extensive green roof has a thin layer of soil that can only support shallowly rooted plants. An example of an extensive green roof is sedum mat or low turfgrass.
+* **High Carbon Storage (intensive).** An intensive green roof has a deeper layer of soil that can support plants such as larger perennial grasses and small shrubs.
 
