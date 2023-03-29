@@ -98,9 +98,9 @@ The specification of the fittings, furniture, and fixtures required for the use 
 
 The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details. The three options for this measure and their general description:
 
-* **Conservative.** Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.
-* **Best practices.** Address "hot spots" (flooring, acoustic panels, casework, etc.).
-* **Low-carbon.** Comprehensive low-carbon design and specification of tenant fit-out.
+* **Conservative.** 80th percentile of GWP for hardscape.&#x20;
+* **Best practices.** 50th percentile of GWP for hardscape.&#x20;
+* **Low-carbon.** 20th percentile of GWP for hardscape.&#x20;
 
 #### Envelope refurbishment period
 
@@ -110,9 +110,13 @@ The length of time over which a majority of the exterior envelope will be replac
 
 The length of time over which a majority of the interior fit-out will be replaced.
 
-#### Systems refurbishment period
+#### MEP and PV refurbishment period
 
-The length of time over which a majority of the building systems (MEP and solar PV) will be replaced.
+The length of time over which a majority of the building systems will be replaced.
+
+#### Hardscape refurbishment period
+
+The length of time over which a majority of the site's hardscape will be replaced.
 
 ## Operational Carbon
 
