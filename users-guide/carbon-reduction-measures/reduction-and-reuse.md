@@ -18,7 +18,7 @@ The reuse of opaque envelope for a given percentage of the building’s total en
 
 The reuse of glazing units for a given percentage of the building’s total envelope.
 
-## Embodied Carbon Measures - Structure
+## Embodied Carbon | Structure
 
 #### New primary structural system
 
@@ -76,7 +76,7 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to the appendix on [Biogenic Carbon](https://epic-documentation.gitbook.io/epic/appendices/biogenic-carbon) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
 
-## Embodied Carbon Measures - Non-structure <a href="#embodied-carbon-measures-nonstructure" id="embodied-carbon-measures-nonstructure"></a>
+## Embodied Carbon | Assemblies <a href="#embodied-carbon-measures-nonstructure" id="embodied-carbon-measures-nonstructure"></a>
 
 #### Envelope specification
 
@@ -86,17 +86,25 @@ The specification of the roofing, glazing, and opaque envelope assemblies. These
 * **Best practices.** 50th percentile of GWP for envelope assemblies. Reduce redundancies and select low-carbon materials with high levels of recycled content.
 * **Low-carbon.** 20th percentile of GWP for envelope assemblies. Maximize biogenic materials, innovate efficient assemblies, and reduce material use.
 
-#### Envelope refurbishment period
+#### Interior fitout specification
 
-The length of time over which a majority of the exterior envelope will be replaced.
+The specification of the fittings, furniture, and fixtures required for the use of the building by its tenants. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs. The three options for this measure and their general description:
 
-#### Interior fit-out specification
+* **Conservative.** 80th percentile of GWP for interior fitouts. Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.
+* **Best practices.** 50th percentile of GWP for interior fitouts. Address "hot spots" (flooring, acoustic panels, casework, etc.).
+* **Low-carbon.** 20th percentile of GWP for interior fitouts. Comprehensive low-carbon design and specification of tenant fit-out.
 
-The specification of the fittings, furniture, and fixtures required for tenants by tenants who inhabit and use the building. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs. The three options for this measure and their general description:
+#### Hardscape specification
+
+The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details. The three options for this measure and their general description:
 
 * **Conservative.** Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.
 * **Best practices.** Address "hot spots" (flooring, acoustic panels, casework, etc.).
 * **Low-carbon.** Comprehensive low-carbon design and specification of tenant fit-out.
+
+#### Envelope refurbishment period
+
+The length of time over which a majority of the exterior envelope will be replaced.
 
 #### Interior fit-out refurbishment period
 
