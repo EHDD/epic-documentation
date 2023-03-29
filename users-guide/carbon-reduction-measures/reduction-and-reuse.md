@@ -82,9 +82,9 @@ In accordance with ISO 21930, the carbon content of biogenic materials can only 
 
 The specification of the roofing, glazing, and opaque envelope assemblies. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options. The three options for this measure and their general description:
 
-* **Conservative.** Standard materials and assemblies, no effort made to lower carbon emissions.
-* **Best practices.** Reduce redundancies and select low-carbon materials with high levels of recycled content.
-* **Low-carbon.** Maximize biogenic materials, innovate efficient assemblies, and reduce material use.
+* **Conservative.** 80th percentile of GWP for envelope assemblies. Standard materials and assemblies, no effort made to lower carbon emissions.
+* **Best practices.** 50th percentile of GWP for envelope assemblies. Reduce redundancies and select low-carbon materials with high levels of recycled content.
+* **Low-carbon.** 20th percentile of GWP for envelope assemblies. Maximize biogenic materials, innovate efficient assemblies, and reduce material use.
 
 #### Envelope refurbishment period
 
