@@ -2,7 +2,7 @@
 
 ## Why use our API?
 
-In addition to the open access version of EPIC available, the data model behind EPIC is accessible as an API. By directly integration of EPIC into their own platforms and workflows, our API has allowed our partners to:
+In addition to the open access version of EPIC, an expanded version of the data model behind EPIC is accessible as an API. By directly integrating EPIC into their own platforms and workflows, our API has allowed our partners to:
 
 * Perform higher-resolution analysis of specific buildings.
 * Analyze "look-ahead" scenarios for the construction or acquisition of large portfolios of buildings.
@@ -23,7 +23,7 @@ EPIC is a stateless API for calculating whole carbon footprints from buildings. 
 
 ### Data Dictionary <a href="#data-dictionary" id="data-dictionary"></a>
 
-A full data dictionary for the 100+ parameters in EPIC is available to our partners. To learn more or preview the data structure, [please reach out](mailto:epic@ehdd.com?subject=API).
+A full data dictionary for the 100+ parameters in our data model is available to our partners. To learn more or preview the data structure, [please reach out](mailto:epic@ehdd.com?subject=API).
 
 ### Simple API Calls <a href="#minimum-parameters" id="minimum-parameters"></a>
 
@@ -37,7 +37,7 @@ At each of its endpoints, EPIC can calculate the emissions from a building from 
 * `above_floor_sqf` : The average area per floor for all above ground floors.
 * `above_floors` : The number of floors above ground.
 
-{% swagger method="post" path="/summary" baseUrl="https://epic-py.vercel.app" summary="Summary | Basic Parameters" %}
+{% swagger method="post" path="/summary" baseUrl="https://epic-py.ehdd-epic.app" summary="Summary | Basic Parameters" %}
 {% swagger-description %}
 Returns a summary of model results.
 {% endswagger-description %}

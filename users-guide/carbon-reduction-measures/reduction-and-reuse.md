@@ -74,7 +74,13 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 #### Responsibly sourced timber
 
-In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to the appendix on [Biogenic Carbon](https://epic-documentation.gitbook.io/epic/appendices/biogenic-carbon) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
+In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to our methodology for [stored and avoided carbon](../../methodology/carbon-reduction-measures/calculations-2.md) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
+
+In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list below is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage:&#x20;
+
+* **Transparent supply chain**. Claims can be made about the environmental attributes of timber are impossible to verify without transparency in the supply chain. This means that a project team should be able to identify 1) the source forest or region, 2) the sawmill, and 3) the fabrication shop (for engineered timber).&#x20;
+* I**ncreasing forest carbon stocks**. Carbon storage in wood products can only be claimed if the carbon stock of the source forest is increasing. This means that the forest area is growing (afforestation), that selective logging is used to keep carbon stocks in place, and that afforestation does not come at the cost of converting ecologically sensitive or agricultural land.&#x20;
+* **Certified, recycled, or reclaimed wood**. The use of recycled or reclaimed wood prolongs its storage of carbon and can displace the use of virgin timber. Certification by the Forest Stewardship Council (FSC) ensures that sound forestry, audit, and reporting practices are used.&#x20;
 
 ## Embodied Carbon | Assemblies <a href="#embodied-carbon-measures-nonstructure" id="embodied-carbon-measures-nonstructure"></a>
 
