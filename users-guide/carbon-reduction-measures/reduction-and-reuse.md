@@ -177,7 +177,7 @@ Definition of the proportion of total planted area that is low, moderate, or hig
 
 #### Planted roof area
 
-The percentage of roof area planted with a green roof.
+The percentage of roof area planted.
 
 #### Planted roof specification
 
