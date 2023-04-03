@@ -1,4 +1,4 @@
-# Base Case
+# 1. Define a Base Case
 
 EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a base case building. The base case building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The base case provides a means of comparison for evaluating carbon reduction measures.&#x20;
 
@@ -24,4 +24,4 @@ The base case is summarized with a donut chart showing the proportion of embodie
 
 **Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](refine-project-scope.md).
 
-<figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>
