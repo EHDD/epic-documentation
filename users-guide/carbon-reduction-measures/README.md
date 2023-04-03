@@ -13,7 +13,7 @@ Carbon reduction measures in EPIC are generally divided into three categories:
 
 This figure describes the cumulative carbon emissions of a building over time. As a chart of cumulative emissions, the height of the bar in each year is the total emissions associated with the building up to and including that year rather than only the emissions associated with that year.
 
-![This figure shows cumulative emissions over time. Looking at effects over time facilitates an understanding of how different carbon emission reduction strategies perform over a building's lifetime.](<../../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment.png>)
+![This figure shows cumulative emissions over time. Looking at effects over time facilitates an understanding of how different carbon emission reduction strategies perform over a building's lifetime.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment.png>)
 
 The cumulative emissions over time chart has a number of elements:
 
@@ -26,10 +26,10 @@ The cumulative emissions over time chart has a number of elements:
 
 Hovering over a bar gives the summary of emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Note that these numbers are rounded to the nearest hundred and may not sum to net emissions in all cases.
 
-![Hovering over a bar gives the summary of cumulative emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Pictured here, hovering over the final year in the chart gives the total emissions across the 30 year period.](<../../../.gitbook/assets/2022-06-01 13\_48\_24-EPIC Assessment.png>)
+![Hovering over a bar gives the summary of cumulative emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Pictured here, hovering over the final year in the chart gives the total emissions across the 30 year period.](<../../.gitbook/assets/2022-06-01 13\_48\_24-EPIC Assessment.png>)
 
 ### Embodied Carbon by Category
 
 This chart breaks down the contributions to embodied carbon emissions by category. This figure represents the total cumulative emissions associated with the project scenario after 30 years.
 
-![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01 (1).png>)
+![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01 (1).png>)

@@ -37,7 +37,7 @@ At each of its endpoints, EPIC can calculate the emissions from a building from 
 * `above_floor_sqf` : The average area per floor for all above ground floors.
 * `above_floors` : The number of floors above ground.
 
-{% swagger method="post" path="/summary" baseUrl="https://epic-py.ehdd-epic.app" summary="Summary | Basic Parameters" %}
+{% swagger method="post" path="/summary" baseUrl="https://epic-model.ehdd.com" summary="Summary | Basic Parameters" %}
 {% swagger-description %}
 Returns a summary of model results.
 {% endswagger-description %}
@@ -85,7 +85,7 @@ XXXX-XXXX-XXXX-XXXX
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="post" path="/timeseries" baseUrl="https://epic-py.vercel.app" summary="Time Series | Basic Parameters" %}
+{% swagger method="post" path="/timeseries" baseUrl="https://epic-model.ehdd.com" summary="Time Series | Basic Parameters" %}
 {% swagger-description %}
 Returns results as time series data. Set verbose to "True" for a full list of parameters.
 {% endswagger-description %}
@@ -142,7 +142,7 @@ XXXX-XXXX-XXXX-XXXX
 
 While only seven parameters are necessary to calculate a preliminary estimate with EPIC, almost 100 additional parameters are available in the API to tune that estimate to better describe your specific case.
 
-{% swagger method="post" path="/summary" baseUrl="https://epic-py.vercel.app" summary="Summary | Custom EC data, custom scope" %}
+{% swagger method="post" path="/summary" baseUrl="https://epic-model.ehdd.com" summary="Summary | Custom EC data, custom scope" %}
 {% swagger-description %}
 Summary results with custom embodied carbon data entered for the building envelope.
 
@@ -201,7 +201,7 @@ XXXX-XXXX-XXXX-XXXX
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="post" path="/timeseries" baseUrl="https://epic-py.vercel.app" summary="Time series | all-electric building, decarbonizing grid" %}
+{% swagger method="post" path="/timeseries" baseUrl="https://epic-model.ehdd.com" summary="Time series | all-electric building, decarbonizing grid" %}
 {% swagger-description %}
 Using NREL's LRMER metrics for electricity-related emissions.
 

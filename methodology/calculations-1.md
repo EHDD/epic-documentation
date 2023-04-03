@@ -6,11 +6,11 @@ The overview of how EPIC calculated operational carbon is detailed on the [model
 
 EPIC uses energy use intensity (EUI) in kBtu/sf/yr as its metric for energy use in buildings. EPIC is designed to give accurate feedback on the carbon emissions associated with a declared energy use, but is not an energy modeling tool for determining how a declared energy use can be achieved.
 
-Baseline EUIs are set in EPIC using a direct API connection with Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/), with a failover to a subset of cached Zero Tool results. Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum EUI, enter a custom value in the "Benchmark EUI" [override](../../epic-web-application/guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
+Baseline EUIs are set in EPIC using a direct API connection with Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/), with a failover to a subset of cached Zero Tool results. Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum EUI, enter a custom value in the "Benchmark EUI" [override](../users-guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
 
 ### Fuel Mix
 
-Benchmark buildings are assumed to be "mixed fuel," using energy from both electricity and onsite combustion. The fuel mix of buildings is calculated to align with assumptions in Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/). Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum fossil fuel use, enter a custom value in the "% Onsite Fossil Fuel Combustion" [override](../../epic-web-application/guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
+Benchmark buildings are assumed to be "mixed fuel," using energy from both electricity and onsite combustion. The fuel mix of buildings is calculated to align with assumptions in Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/). Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum fossil fuel use, enter a custom value in the "% Onsite Fossil Fuel Combustion" [override](../users-guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
 
 EPIC assumes a 2.4% upstream leakage rate for all fossil fuel combusted in a building. The carbon intensity of this leakage is calculated with characterization factors from the IPCC's AR6.&#x20;
 
@@ -42,5 +42,5 @@ The future of the electrical grid is uncertain. To account for this uncertainty,
 
 EPIC evaluates energy use on an annual basis. The carbon emissions from electricity, however, vary hour by hour. Depending on the use type and location, this can lead to a difference of as much as +/- 20% between annual (modeled) and hourly (measured) estimates of operational emissions.&#x20;
 
-<figure><img src="../../.gitbook/assets/EPIC - LRMER and AER.png" alt=""><figcaption><p>Carbon emissions from electricity demand from 2023-2110 for two metrics and three scenarios.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EPIC - LRMER and AER.png" alt=""><figcaption><p>Carbon emissions from electricity demand from 2023-2110 for two metrics and three scenarios.</p></figcaption></figure>
 
