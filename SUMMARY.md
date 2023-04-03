@@ -15,7 +15,8 @@
   * [3. Compare Scenarios](users-guide/scenario-comparison.md)
 * [Data Confidentiality Statement](backmatter/data-confidentiality-statement.md)
 * [Backmatter](backmatter/README.md)
-* [Access EPIC on the web](http://epic.ehdd.com)
+* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
+* [🌐 EPIC Web App](http://epic.ehdd.com)
 
 ## EPIC Data Model
 
@@ -26,10 +27,9 @@
   * [Operational Carbon](methodology/calculations-1.md)
   * [Stored and Avoided Carbon](methodology/carbon-reduction-measures/calculations-2.md)
   * [Reference Data Sources](backmatter/data-sources.md)
-* [Access EPIC via API](access-epic-via-api.md)
+* [📡 Access EPIC via API](access-epic-via-api.md)
 
 ## Resources
 
-* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
-* [📬 Mailing List](http://eepurl.com/h2AQkP)
 * [🗞 Additional Resources](resources/additional-resources.md)
+* [📬 Mailing List](http://eepurl.com/h2AQkP)
