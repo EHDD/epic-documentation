@@ -22,7 +22,7 @@ Lalyn Yu
 
 Portions of the EPIC model has been reviewed by colleagues at [MKA](https://www.mka.com/), [Carbon Leadership Forum](https://carbonleadershipforum.org/), and others.&#x20;
 
-The project team owes a heartfelt thanks to the group of over 80 firms that participated in our closed beta, the input of whom was essential to EPIC's EARLY development, and the countless users who have since offered feedback, critique, and use cases.
+The project team owes a heartfelt thanks to the group of over 80 firms that participated in our closed beta, the input of whom was essential to EPIC's early development, and the countless users who have since offered feedback, critique, and use cases.
 
 Despite this review, errors may persist. If you are interested in providing additional review and have the expertise to do so, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
 

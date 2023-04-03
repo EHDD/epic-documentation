@@ -13,8 +13,8 @@
     * [Customize Scenario](users-guide/carbon-reduction-measures/customize-scenario.md)
     * [Save, Load, and Delete Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
   * [3. Compare Scenarios](users-guide/scenario-comparison.md)
-* [Data Confidentiality Statement](epic-web-application/data-confidentiality-statement.md)
-* [Backmatter](epic-web-application/backmatter.md)
+* [Data Confidentiality Statement](backmatter/data-confidentiality-statement.md)
+* [Backmatter](backmatter/README.md)
 * [Access EPIC on the web](http://epic.ehdd.com)
 
 ## EPIC Data Model
