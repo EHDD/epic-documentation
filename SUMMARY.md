@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is EPIC?](README.md)
-* [User's Guide - Start here!](users-guide/README.md)
+* [Welcome to EPIC!](users-guide/README.md)
   * [Base Case](users-guide/base-case/README.md)
     * [Base Case Input Fields](users-guide/base-case/base-case-input-fields.md)
     * [Overrides](users-guide/base-case/overrides.md)
@@ -11,7 +11,7 @@
     * [Customize Scenario](users-guide/carbon-reduction-measures/customize-scenario.md)
     * [Save, Load, and Delete Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
   * [Scenario Comparison](users-guide/scenario-comparison.md)
-* [Methodology](methodology/README.md)
+* [EPIC's Methodology](methodology/README.md)
   * [Goal and Scope](methodology/scope.md)
   * [Model Structure](methodology/carbon-reduction-measures.md)
   * [Embodied Carbon](methodology/calculations.md)
