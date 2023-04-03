@@ -1,4 +1,4 @@
-# Additional Resources
+# 🗞 Additional Resources
 
 ### Free **AIA California CEU course focused on EPIC**
 
