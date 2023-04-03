@@ -3,7 +3,7 @@
 ## EPIC Web Application
 
 * [What is EPIC?](README.md)
-* [Getting Started](users-guide/README.md)
+* [Get Started with EPIC](users-guide/README.md)
   * [1. Define a Base Case](users-guide/base-case/README.md)
     * [Base Case Input Fields](users-guide/base-case/base-case-input-fields.md)
     * [Overrides](users-guide/base-case/overrides.md)
@@ -13,9 +13,8 @@
     * [Customize Scenario](users-guide/carbon-reduction-measures/customize-scenario.md)
     * [Save, Load, and Delete Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
   * [3. Compare Scenarios](users-guide/scenario-comparison.md)
-* [Backmatter](backmatter/README.md)
-  * [Data Confidentiality Statement](backmatter/data-confidentiality-statement.md)
-* [Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
+* [Data Confidentiality Statement](epic-web-application/data-confidentiality-statement.md)
+* [Backmatter](epic-web-application/backmatter.md)
 * [Access EPIC on the web](http://epic.ehdd.com)
 
 ## EPIC Data Model
@@ -29,6 +28,7 @@
   * [Reference Data Sources](backmatter/data-sources.md)
 * [Access EPIC via API](access-epic-via-api.md)
 
-***
+## Resources
 
-* [💌 Stay in touch](http://eepurl.com/h2AQkP)
+* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
+* [📬 Stay in touch](http://eepurl.com/h2AQkP)
