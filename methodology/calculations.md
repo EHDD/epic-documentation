@@ -47,7 +47,7 @@ Concrete emissions, on the other hand, as assessed at the zip code level. Concre
 
 Where concrete EPDs are not available, the specification levels in EPIC are set using NRMCA published minimum, average, and maximum values in line with the method outlined in the CLF's [2021 Material Baseline Report](https://carbonleadershipforum.org/2021-material-baseline-report/), included the use of the uncertainty method put forward by Building Transparency.
 
-In locations where concrete EPDs are available, EPIC sets the specification levels for concrete by sampling the distribution of GWP values from available concrete EPDs at the 20th, 50th, and 80th percentile. Data on concrete are queried via the [OpenEPD API](https://openepd.buildingtransparency.org/) and compiled in a GIS.&#x20;
+In locations where concrete EPDs are available, EPIC sets the specification levels for concrete by sampling the distribution of GWP values from available concrete EPDs at the 20th, 50th, and 80th percentile. Data on concrete are queried via the [OpenEPD API](https://openepd.buildingtransparency.org/) and compiled in a GIS platform.&#x20;
 
 | Structural Material    | Low Carbon          | Best Practices      | Conservative        |
 | ---------------------- | ------------------- | ------------------- | ------------------- |
