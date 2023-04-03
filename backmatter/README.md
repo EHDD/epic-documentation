@@ -1,7 +1,3 @@
----
-description: EPIC Public Beta v2.0.0
----
-
 # Backmatter
 
 **EPIC** is an early-phase low-carbon design tool.
@@ -33,6 +29,8 @@ Despite this review, errors may persist. If you are interested in providing addi
 ## Contact
 
 Questions regarding the tool, its use, or the public beta web application can be directed to [epic@ehdd.com](<mailto:epic@ehdd.com >).
+
+## Copyright
 
 The content of this site is licensed under the Creative Commons Attribution 4.0.
 
