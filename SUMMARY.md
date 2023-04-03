@@ -32,3 +32,4 @@
 
 * [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 * [📬 Stay in touch](http://eepurl.com/h2AQkP)
+* [Additional Resources](resources/additional-resources.md)
