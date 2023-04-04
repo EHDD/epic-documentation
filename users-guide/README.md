@@ -10,7 +10,7 @@ In EPIC, the basic workflow is:
 
 1. Define a project and set a baseline the [**Base Case** tab](base-case/)
 2. Create decarbonization scenarios in the [**Reduce Emissions** tab](carbon-reduction-measures/)
-3. Compare between decarbonization scenarios in the [**Compare Scenarios** tab](../epic-web-application/guide/compare-scenarios.md)
+3. Compare between decarbonization scenarios in the [**Compare Scenarios** tab](scenario-comparison.md)
 
 #### Important definitions:
 

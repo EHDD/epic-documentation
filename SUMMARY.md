@@ -12,7 +12,7 @@
     * [Carbon Reduction Input Fields](users-guide/carbon-reduction-measures/reduction-and-reuse.md)
     * [Customize Scenario](users-guide/carbon-reduction-measures/customize-scenario.md)
     * [Save, Load, and Delete Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
-  * [3. Compare Scenarios](epic-web-application/guide/compare-scenarios.md)
+  * [3. Compare Scenarios](users-guide/scenario-comparison.md)
 * [Backmatter](backmatter/README.md)
 
 ## EPIC Data Model
@@ -24,7 +24,7 @@
   * [Operational Carbon](methodology/calculations-1.md)
   * [Stored and Avoided Carbon](methodology/carbon-reduction-measures/calculations-2.md)
   * [Reference Data Sources](backmatter/data-sources.md)
-* [📡 Access EPIC via API](epic-data-model/api.md)
+* [📡 Access EPIC via API](access-epic-via-api.md)
 
 ## Resources
 
