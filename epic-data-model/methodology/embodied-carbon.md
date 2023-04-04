@@ -1,6 +1,6 @@
 # Embodied Carbon
 
-The overview of how EPIC calculated embodied carbon is detailed on the [model structure](carbon-reduction-measures.md) page. Below, we give additional detail about how EPIC calculates emissions from all the assemblies and processes counted as part of a project's embodied carbon.  In all cases, EPIC uses GWP-100 characterization factors.&#x20;
+The overview of how EPIC calculated embodied carbon is detailed on the [model structure](model-structure.md) page. Below, we give additional detail about how EPIC calculates emissions from all the assemblies and processes counted as part of a project's embodied carbon.  In all cases, EPIC uses GWP-100 characterization factors.&#x20;
 
 Every attempt has been made to ensure that EPIC's results describe a typical building (i.e. a building similar to those in our database) whose characteristics match those you enter in the tool. However, unreported characteristics may make a particular building atypical in ways that it is beyond the scope of EPIC to describe. For instance, the use of particularly high-carbon and high-cost finish materials (e.g., a building where all the millwork is in gold leaf) is not covered by EPIC. It is impossible to pre-emptively describe all cases where EPIC might deviate from a particular building (the possibilities are literally endless) but, as your project progresses, we recommend that your project team remains aware of how any deviation from "typical" design is aligned with the project's climate goals. &#x20;
 

@@ -18,11 +18,11 @@
 
 ## EPIC Data Model
 
-* [🏗 Methodology](epic-data-model/scope/README.md)
-  * [Model Structure](epic-data-model/scope/carbon-reduction-measures.md)
-  * [Embodied Carbon](epic-data-model/scope/calculations.md)
-  * [Operational Carbon](epic-data-model/scope/calculations-1.md)
-  * [Stored and Avoided Carbon](epic-data-model/scope/calculations-2.md)
+* [🏗 Methodology](epic-data-model/methodology/README.md)
+  * [Model Structure](epic-data-model/methodology/model-structure.md)
+  * [Embodied Carbon](epic-data-model/methodology/embodied-carbon.md)
+  * [Operational Carbon](epic-data-model/methodology/operational-carbon.md)
+  * [Stored and Avoided Carbon](epic-data-model/methodology/stored-avoided-carbon.md)
 * [📡 Access EPIC via API](access-epic-via-api.md)
 
 ## Resources

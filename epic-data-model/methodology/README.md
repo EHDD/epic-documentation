@@ -44,7 +44,7 @@ EPIC considers operational emissions from the following sources:
 
 ### Stored Carbon Scope
 
-EPIC includes an estimate of carbon storage in timber structural systems and site landscaping. Carbon storage in planting is calculated over the time horizon then annualized. Carbon storage in building structure is assigned to the first year of the project. EPIC's method for calculating carbon storage in timber structural systems is detailed in the section on [stored and avoided carbon](calculations-2.md).
+EPIC includes an estimate of carbon storage in timber structural systems and site landscaping. Carbon storage in planting is calculated over the time horizon then annualized. Carbon storage in building structure is assigned to the first year of the project. EPIC's method for calculating carbon storage in timber structural systems is detailed in the section on [stored and avoided carbon](stored-avoided-carbon.md).
 
 ### Refining EPIC's Scope
 

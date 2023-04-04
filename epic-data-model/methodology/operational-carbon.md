@@ -1,6 +1,6 @@
 # Operational Carbon
 
-The overview of how EPIC calculated operational carbon is detailed on the [model structure](carbon-reduction-measures.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a proejct's operational carbon.  In all cases, EPIC uses GWP-100 characterization factors.&#x20;
+The overview of how EPIC calculated operational carbon is detailed on the [model structure](model-structure.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a proejct's operational carbon.  In all cases, EPIC uses GWP-100 characterization factors.&#x20;
 
 ### Energy Use
 

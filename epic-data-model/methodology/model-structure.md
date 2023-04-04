@@ -4,7 +4,7 @@
 
 EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, EPIC prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
 
-### [Calculating Embodied Carbon](calculations.md)
+### [Calculating Embodied Carbon](embodied-carbon.md)
 
 For each contributor $$i$$, embodied emissions are assessed with the following expression:
 
@@ -28,7 +28,7 @@ $$
 
 For n number of contributors to the embodied emissions, where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, $$c_i$$ is the carbon intensity per unit of the contributor $$i$$, and $$r_i$$ is the number of replacements of the contributor $$i$$ before the target date.
 
-### [Calculating Operational Carbon](calculations-1.md)
+### [Calculating Operational Carbon](operational-carbon.md)
 
 The operational emissions of the project are assessed annually and summed across all years before the target date. The equation is similar to the equation for embodied emissions, with two key differences: first, the quantity x is substituted for the energy use intensity (EUI) e; second, the equation is a double summation, once across all the fuel types in the building and again across all years between the building’s completion and the target year. The total operational emissions assessed by EPIC are represented by this expression:
 
@@ -42,7 +42,7 @@ Carbon emissions associated with electricity are derived from NREL's Cambium mod
 
 _<mark style="color:green;">Future versions of EPIC will also include refrigerant emissions.</mark>_&#x20;
 
-### [Calculating Stored and Avoided Carbon](calculations-2.md)
+### [Calculating Stored and Avoided Carbon](stored-avoided-carbon.md)
 
 In EPIC, landscaping and the use of structural timber contribute to biogenic carbon storage. Carbon storage in structural materials is assessed once in the first year of the project, and landscape sequestration is assessed each year. Biogenic carbon sequestration is evaluated with the following expression:
 
