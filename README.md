@@ -6,7 +6,7 @@ description: EPIC Public Beta v2.0.0
 
 The Early Phase Integrated Carbon (EPIC) assessment was built by EHDD to support climate-positive design decisions in early project phases when data is scarce but the potential for carbon reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.&#x20;
 
-Aggressive time-based targets have been set for AEC projects as part of a society-wide strategy to combat the climate crisis. To meet these targets, quantification of the project’s carbon footprint cannot wait until later project stages, at which point many impactful decisions have already been made. EPIC is designed as the first step in an iterative low-carbon design process, setting out strategies and project-level targets that can be refined throughout the project lifecycle.
+Aggressive time-based targets have been set for the built environment as part of a society-wide strategy to combat the climate crisis. To meet these targets, quantification of the project’s carbon footprint cannot wait until later project stages, at which point many impactful decisions have already been made. EPIC is designed as the first step in an iterative low-carbon design process, setting out strategies and project-level targets that can be refined throughout the project lifecycle.
 
 <figure><img src=".gitbook/assets/EPIC Project Lifecycle.png" alt=""><figcaption></figcaption></figure>
 
