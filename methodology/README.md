@@ -2,7 +2,7 @@
 description: EPIC Public Beta v2.0.0
 ---
 
-# Model Methodology
+# 🏗 Model Methodology
 
 EPIC compares a base case against a set of carbon reduction measures. User-defined sets of carbon reduction measures can be saved as scenarios and compared.
 
