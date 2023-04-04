@@ -16,11 +16,11 @@ EPIC is designed to allow a user to enter a strict minimum of project parameters
 
 _EPIC is not a high-resolution design tool_.
 
-EPIC is designed to accurately represent the effects of low-carbon strategies, not precisely model individual design parameters. EPIC can help your team compare a net-zero energy renovation with mass timber new construction, but is not designed to capture differences in, say, efficiency gains from changing structural bay sizes or specifying a particular mechanical system over another.
+EPIC is designed to accurately represent the overall effects of decarbonizationstrategies, not precisely model individual design parameters. EPIC can help your team compare a net-zero energy renovation with mass timber new construction, but is not designed to capture differences in, say, efficiency gains from changing structural bay sizes or specifying a particular mechanical system over another.
 
 _EPIC is not a whole-building life cycle assessment (wbLCA) tool_.
 
-Some lifecycle phases are included in the model, others are not. Our decisions about what to include or exclude are geared towards the most impactful decisions made during a project’s early phases that can be supported by available data. These choices are based on our experience, our conversations with experts, and available data. A wbLCA is generally assessed against a 60-year time horizon, but EPIC looks at emissions over 30 years to focus on meeting time-based climate targets. As EPIC develops, we hope to expand the range of data that it integrates and, as a consequence, the range of decisions it can support.
+Some wbLCA phases are included in the web application, others are not. A wbLCA is generally assessed against a 60- or 80-year time horizon, but EPIC looks at emissions over 30 years to focus on meeting time-based climate targets. Our decisions about what to include or exclude are geared towards the most impactful decisions made during a project’s early phases.
 
 _EPIC is not a fortune teller._&#x20;
 
