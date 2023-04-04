@@ -39,7 +39,7 @@ These methods for calculating a structural bill of materials have been reviewed 
 
 #### Carbon Intensities of Structural Materials
 
-**Carbon intensity is the amount of CO2-equivalent emissions per unit of material**. For structural materials, carbon intensity information is drawn from a variety of sources. In all cases, EPIC uses GWP-100 characterization factors. These sources are documented in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.&#x20;
+**Carbon intensity is the amount of CO2-equivalent emissions per unit of material**. For structural materials, carbon intensity information is drawn from a variety of sources. In all cases, EPIC uses GWP-100 characterization factors. These sources are documented in the [Reference Data Sources](broken-reference) section of this guide.&#x20;
 
 The three specifications available in EPIC—low carbon, best practices, and conservative—correspond to the 20th, 50th, and 80th percentile of emissions for that material. These estimates _do not_ correspond to a specific EPD, as there are many options for achieving a certain level of performance. Most carbon intensities for structural materials in EPIC are national averages, as material supply chains for major structural materials are typically national (or global) in coverage.&#x20;
 
@@ -61,7 +61,7 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 | **Plywood**            | 0.36 kgCO2e/kg      | 0.42 kgCO2e/kg      | 0.73 kgCO2e/kg      |
 | **Engineered Wood**    | 0.19 kgCO2e/kg      | 0.25 kgCO2e/kg      | 0.36 kgCO2e/kg      |
 
-<figure><img src="../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
 
 For access to EPIC's location-specific data or BoM datasets, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
 
@@ -128,7 +128,7 @@ This parameter can be customized for a scenario in the scenario customization sc
 
 #### Embodied Carbon in Solar Photovoltaic Arrays
 
-Embodied carbon in solar photovoltaics arrays is calculated using values from the peer-reviewed literature. A citation to the current data source is available in in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.
+Embodied carbon in solar photovoltaics arrays is calculated using values from the peer-reviewed literature. A citation to the current data source is available in in the [Reference Data Sources](broken-reference) section of this guide.
 
 #### Embodied Carbon in Hardscape
 
@@ -140,7 +140,7 @@ All site area not designated as planted is assumed to be hardscaped. Hardscape e
 
 #### Emissions from Landscape Maintenance
 
-Emissions from landscape maintenance is calculated per planted area using values from the literature. A citation to the current data source is available in in the [Reference Data Sources](../backmatter/data-sources.md) section of this guide.
+Emissions from landscape maintenance is calculated per planted area using values from the literature. A citation to the current data source is available in in the [Reference Data Sources](broken-reference) section of this guide.
 
 ### Construction Emissions
 

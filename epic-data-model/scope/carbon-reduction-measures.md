@@ -42,7 +42,7 @@ Carbon emissions associated with electricity are derived from NREL's Cambium mod
 
 _<mark style="color:green;">Future versions of EPIC will also include refrigerant emissions.</mark>_&#x20;
 
-### [Calculating Stored and Avoided Carbon](carbon-reduction-measures/calculations-2.md)
+### [Calculating Stored and Avoided Carbon](calculations-2.md)
 
 In EPIC, landscaping and the use of structural timber contribute to biogenic carbon storage. Carbon storage in structural materials is assessed once in the first year of the project, and landscape sequestration is assessed each year. Biogenic carbon sequestration is evaluated with the following expression:
 
@@ -64,7 +64,7 @@ Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{t}
 
 ## EPIC is a time series model
 
-In the built environment, it is essential to understand the [time value of carbon](https://carbonleadershipforum.org/the-time-value-of-carbon/). To this end, EPIC uses time series data to analyze carbon emissions across a building's life. For each year in the analysis period (defined by the project's [time horizon](scope.md#time-horizon)), EPIC estimates all emissions occurring in that year.&#x20;
+In the built environment, it is essential to understand the [time value of carbon](https://carbonleadershipforum.org/the-time-value-of-carbon/). To this end, EPIC uses time series data to analyze carbon emissions across a building's life. For each year in the analysis period (defined by the project's [time horizon](./#time-horizon)), EPIC estimates all emissions occurring in that year.&#x20;
 
 **In the first year**, the following emissions are always calculated:
 
@@ -110,4 +110,4 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 EPIC's model is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
 
-Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available [here](../users-guide/carbon-reduction-measures/customize-scenario.md). To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
+Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available [here](../../users-guide/carbon-reduction-measures/customize-scenario.md). To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
