@@ -1,6 +1,6 @@
-# Data Confidentiality Statement
+# 🔓 Data Privacy Statement
 
-EHDD is committed to protecting the privacy of EPIC’s users and the confidentiality of their data. However, by using this service you agree that EHDD has no liability whatsoever for damage caused by the disclosure of information entered into the site, whether due to a software error or any other reason. We sincerely intend and make our best effort to implement the policy below, but ultimately this service is offered as-is and without warranties or guarantees of any kind.
+EHDD is committed to protecting the privacy of those using the open access EPIC web application (hereafter, "EPIC") and the confidentiality of their data. However, by using this service you agree that EHDD has no liability whatsoever for damage caused by the disclosure of information entered into the site, whether due to a software error or any other reason. We sincerely intend and make our best effort to implement the policy below, but ultimately this service is offered as-is and without warranties or guarantees of any kind.
 
 This agreement covers the two kinds of data provided by EPIC users: user data and project data. “User data” refers to information that identifies a user and their account. “Project data” refers to the information entered by a user related to a specific project, its base case parameters, and its carbon reduction scenarios. All project and user data entered into EPIC are presumed to be proprietary and confidential. Project and user data in EPIC are not shared publicly, not available for purchase, and not accessible internally within EHDD.
 
@@ -36,3 +36,6 @@ We may make occasional updates to this data confidentiality statement. Any mater
 May 27, 2022 - Data confidentiality statement published.
 
 March 8, 2023 - Reformatted statement with no changes to content.
+
+April 4, 2023 - Renamed "Data Privacy Statement" and clarified reference to the open access EPIC web application.
+
