@@ -6,7 +6,7 @@ EPIC integrates embodied, operational, and landscape carbon emission assessment 
 
 ### [Calculating Embodied Carbon](calculations.md)
 
-For each contributor i, embodied emissions assessed by EPIC are evaluated with the following expression:
+For each contributor $$i$$, embodied emissions are assessed with the following expression:
 
 $$
 {Assessed\ emissions}_i=\ A\ast x_i\ast c_i

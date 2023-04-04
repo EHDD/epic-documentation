@@ -48,7 +48,7 @@ EPIC includes an estimate of carbon storage in timber structural systems and sit
 
 ### Refining EPIC's Scope
 
-In EPIC, you can add or remove some life cycle modules and building components from the scope of a project. When comparing results between EPIC models, between EPIC and wbLCA, or between any estimates of carbon emissions, _the scopes of each result must be identical._&#x20;
+In EPIC, you can add or remove some life cycle modules and building components from the scope of an assessment. When comparing results between EPIC models, between EPIC and wbLCA, or between any estimates of carbon emissions, _the scopes of each result must be identical._&#x20;
 
 When EPIC's scope is defined for a given project, that same definition of scope will be used in each of the project's scenarios. More information on how to define the scope of analysis within EPIC is available in the user's guide [here](../../users-guide/base-case/refine-project-scope.md).
 
