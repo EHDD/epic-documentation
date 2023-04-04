@@ -17,7 +17,7 @@
 
 ## EPIC Data Model
 
-* [Model Methodology](methodology/README.md)
+* [🏗 Model Methodology](methodology/README.md)
   * [Goal and Scope](methodology/scope.md)
   * [Model Structure](methodology/carbon-reduction-measures.md)
   * [Embodied Carbon](methodology/calculations.md)

@@ -32,7 +32,7 @@ Questions regarding the tool, its use, or the public beta web application can be
 
 ## Copyright
 
-The content of this site is licensed under the Creative Commons Attribution 4.0.
+The content of user's guide is licensed under the Creative Commons Attribution 4.0.
 
 EPIC © 2021-2023 EHDD
 
