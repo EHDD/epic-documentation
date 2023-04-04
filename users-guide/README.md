@@ -8,9 +8,9 @@ description: EPIC Public Beta v2.0.0
 
 In EPIC, the basic workflow is:
 
-1. Define a project and set a baseline the [**Base Case** tab](https://www.epic-docs.dev/epic-web-application/guide/base-case){:target="_blank"}
-2. Create decarbonization scenarios in the [**Reduce Emissions** tab](https://www.epic-docs.dev/epic-web-application/guide/carbon-reduction-measures){:target="_blank"}
-3. Compare between decarbonization scenarios in the [**Compare Scenarios** tab](https://www.epic-docs.dev/epic-web-application/guide/compare-scenarios){:target="_blank"}
+1. Define a project and set a baseline the [**Base Case** tab](https://www.epic-docs.dev/epic-web-application/guide/base-case)
+2. Create decarbonization scenarios in the [**Reduce Emissions** tab](https://www.epic-docs.dev/epic-web-application/guide/carbon-reduction-measures)
+3. Compare between decarbonization scenarios in the [**Compare Scenarios** tab](https://www.epic-docs.dev/epic-web-application/guide/compare-scenarios)
 
 #### Important definitions:
 
@@ -20,6 +20,6 @@ In EPIC, the basic workflow is:
 
 ### EPIC's Methodology
 
-EPIC's methodology for calculating carbon emissions is documented [here](https://www.epic-docs.dev/epic-data-model/methodology){:target="_blank"}. &#x20;
+EPIC's methodology for calculating carbon emissions is documented [here](https://www.epic-docs.dev/epic-data-model/methodology). &#x20;
 
-If something remains unclear after reading the guide, please [send feedback](https://forms.gle/2Hy6SEdkEJj4WMVr6){:target="_blank"} to guide us as we improve the tool and its documentation.
+If something remains unclear after reading the guide, please [send feedback](https://forms.gle/2Hy6SEdkEJj4WMVr6) to guide us as we improve the tool and its documentation.
