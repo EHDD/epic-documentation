@@ -1,12 +1,12 @@
 # 🗞 Additional Resources
 
-### **CEU-Eligible AIA CA Course on EPIC:**
+### AIA **CEU-Eligible Course on EPIC:**
 
 {% embed url="https://www.aecknowledge.com/courses/199" %}
 **Free** [2-hour Zero Net Carbon Design Seminar ](https://www.aecknowledge.com/courses/199)focused on EPIC (2 CEUs).
 {% endembed %}
 
-### Media Coverage of EPIC
+### EPIC in the News
 
 * **Architectural Record,** [How the AIA Plans to Deliver a Zero-Carbon Headquarters](https://www.architecturalrecord.com/articles/15651-how-the-aia-plans-to-deliver-a-zero-carbon-headquarters)
 * **BuildingGreen**, [Free Tool Estimates Embodied and Operational Carbon](https://www.buildinggreen.com/newsbrief/free-tool-estimates-embodied-and-operational-carbon)
