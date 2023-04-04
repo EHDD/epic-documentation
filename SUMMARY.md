@@ -3,7 +3,7 @@
 ## EPIC Web Application
 
 * [What is EPIC?](README.md)
-* [Get Started with EPIC](users-guide/README.md)
+* [📍 Get Started with EPIC](users-guide/README.md)
   * [1. Define a Base Case](users-guide/base-case/README.md)
     * [Base Case Input Fields](users-guide/base-case/base-case-input-fields.md)
     * [Overrides](users-guide/base-case/overrides.md)
