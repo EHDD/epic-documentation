@@ -13,7 +13,8 @@
     * [Customize Scenario](users-guide/carbon-reduction-measures/customize-scenario.md)
     * [Save, Load, and Delete Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
   * [3. Compare Scenarios](users-guide/scenario-comparison.md)
-* [Backmatter](backmatter/README.md)
+* [🔓 Data Privacy Statement](epic-web-application/data-confidentiality-statement.md)
+* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 
 ## EPIC Data Model
 
@@ -28,8 +29,7 @@
 
 ## Resources
 
+* [📃 Backmatter](resources/backmatter.md)
 * [🗞 Additional Resources](resources/additional-resources.md)
-* [🔓 Data Privacy Statement](resources/data-confidentiality-statement.md)
-* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 * [📬 Mailing List](http://eepurl.com/h2AQkP)
 * [🌐 EPIC Web App](http://epic.ehdd.com)
