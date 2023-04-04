@@ -2,7 +2,12 @@
 
 EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a base case building. The base case building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The base case provides a means of comparison for evaluating carbon reduction measures.&#x20;
 
-When the base case form is filled, click the "Save Base Case" button at the bottom of the form to save the base case and generate the base case figure and table.
+* The base case in EPIC is always new construction.&#x20;
+* In many municipalities, code requirements (e.g. California’s Title 24 energy codes) will mean that the EPIC base case is not equivalent to a code baseline.&#x20;
+* Option in the [Overrides](overrides.md) panel can adjust EPIC's internal assumptions to better match the model to a particular project. Any overrides to these will be applied to the base case and all scenarios in the project.
+* Options in the [Refine Scope](refine-project-scope.md) panel can include or exclude parts of the EPIC model to match your desired scope of analysis. This selected scope will be applied to the base case and all scenarios in the project.
+
+When the required forms in the  base case form is filled, click the "Save Base Case" button at the bottom of the form to save the base case and generate the base case figure and table.
 
 ### [Base Case Input Fields](base-case-input-fields.md)
 
