@@ -23,6 +23,6 @@ In EPIC, the basic workflow is:
 
 ### EPIC's Methodology
 
-EPIC's methodology for calculating carbon emissions is documented <a href="https://www.epic-docs.dev/epic-data-model/methodology" target="_blank" rel="noopener nofollow noreferrer">**here**</a>
+EPIC's methodology for calculating carbon emissions is documented <a href="https://www.epic-docs.dev/epic-data-model/methodology" target="_blank" rel="noopener nofollow noreferrer">**here**</a>.
 
 If something remains unclear after reading the guide, please <a href="https://forms.gle/2Hy6SEdkEJj4WMVr6" target="_blank" rel="noopener nofollow noreferrer">**send feedback**</a> to guide us as we improve the tool and its documentation.
