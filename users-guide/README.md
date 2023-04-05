@@ -9,6 +9,8 @@ description: EPIC Public Beta v2.0.0
 In EPIC, the basic workflow is:
 
 1. Define a project and set a baseline the [**Base Case** tab](https://www.epic-docs.dev/epic-web-application/guide/base-case)
+<a href="https://www.epic-docs.dev/epic-web-application/guide/base-case" target="_blank" rel="noopener nofollow noreferrer">**Base Case** tab</a>
+
 2. Create decarbonization scenarios in the [**Reduce Emissions** tab](https://www.epic-docs.dev/epic-web-application/guide/carbon-reduction-measures)
 3. Compare between decarbonization scenarios in the [**Compare Scenarios** tab](https://www.epic-docs.dev/epic-web-application/guide/compare-scenarios)
 
