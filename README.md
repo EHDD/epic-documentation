@@ -18,9 +18,9 @@ _EPIC is not a high-resolution design tool_.
 
 EPIC is designed to accurately represent the overall effects of decarbonization strategies, not precisely model individual design parameters. EPIC can help your team compare a net-zero energy renovation with mass timber new construction, but is not designed to capture differences in, say, efficiency gains from changing structural bay sizes or specifying a particular mechanical system over another.
 
-_EPIC is not a whole-building life cycle assessment (wbLCA) tool_.
+_EPIC is not a reporting tool_.
 
-Some wbLCA phases are included in the web application, others are not. A wbLCA is generally assessed against a 60- or 80-year time horizon, but EPIC looks at emissions over 30 years to focus on meeting time-based climate targets. Our decisions about what to include or exclude are geared towards the most impactful decisions made during a project’s early phases.
+EPIC is meant to support decisions about the future, not report on past efforts. The open access application is designed to highlight the most impactful decisions. EPIC is complementary to but distinct from GHG reporting and wbLCA. For instance, EPIC uses a 30 year time horizon to support planning toward time-based climate targets, but wbLCA often requires a 60- or 80-year time horizon.
 
 _EPIC is not a fortune teller._&#x20;
 
