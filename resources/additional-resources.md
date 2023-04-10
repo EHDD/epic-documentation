@@ -1,6 +1,6 @@
 # 🗞 Additional Resources
 
-### AIA **CEU-Eligible Course on EPIC:**
+### AIA **CEU Course on EPIC**
 
 {% embed url="https://www.aecknowledge.com/courses/199" %}
 **Free** [2-hour Zero Net Carbon Design Seminar ](https://www.aecknowledge.com/courses/199)focused on EPIC (2 CEUs).

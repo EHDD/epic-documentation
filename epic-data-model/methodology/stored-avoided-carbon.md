@@ -27,9 +27,13 @@ EPIC measures the annual carbon storage of in living and growing landscape. We a
 
 Globally, the storage of carbon in plants is a major carbon sink. There are a number of imperatives for greening our built environment—such as [addressing a history of racist redlining](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP7495), [reducing urban heat island](https://www.sciencedirect.com/science/article/abs/pii/S1618866718306411), or [contributing to mental wellness](https://www.sciencedirect.com/science/article/abs/pii/S0033350613002862)—that add positive co-benefits to the carbon storage potential of green space.&#x20;
 
-In EPIC, landscaped area is assumed to approach its maximum storage potential over a 30 year period. The amount of carbon that a landscape can store is location-dependent (i.e., a landscape in Miami can store more carbon than one of a similar size in Arizona). Maintaining carbon storage in landscape requires maintenance. Emissions from the maintenance of carbon-storing landscape are assessed as embodied emissions. The storage potential of a landscape or green roof depends on its area, its specification (low, moderate, or high storage), and the location of the project.&#x20;
+In EPIC, landscaped area is assumed to approach its maximum storage potential (its "carrying capacity") over a 40 year period. The amount of carbon that a landscape can store is location-dependent (i.e., a landscape in Miami can store more carbon than one of a similar size in Arizona).&#x20;
+
+Maintaining carbon storage in landscape requires maintenance. Emissions from the maintenance of carbon-storing landscape are assessed as embodied emissions. The storage potential of a landscape or green roof depends on its area, its specification (low, moderate, or high storage), and the location of the project.&#x20;
 
 Note that there is no option in EPIC to describe turfgrass, as turfgrass is a net emitter.
+
+Developing a "greenfield" site (one that has not been previously developed) will release carbon dioxide into the atmosphere. How EPIC calculates these emissions is described in the [Embodied Carbon](embodied-carbon.md#emissions-from-greenfield-development) section of the methodology.&#x20;
 
 ## Avoided carbon from surplus energy generation
 

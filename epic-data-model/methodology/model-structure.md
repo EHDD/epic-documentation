@@ -4,6 +4,8 @@
 
 EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, EPIC prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
 
+&#x20;EPIC uses GWP-100 characterization factors.&#x20;
+
 ### [Calculating Embodied Carbon](embodied-carbon.md)
 
 For each contributor $$i$$, embodied emissions are assessed with the following expression:

@@ -8,9 +8,15 @@ The Early Phase Integrated Carbon (EPIC) assessment was built by EHDD to support
 
 Aggressive time-based targets have been set for the built environment as part of a society-wide strategy to combat the climate crisis. To meet these targets, quantification of the project’s carbon footprint cannot wait until later project stages, at which point many impactful decisions have already been made. EPIC is designed as the first step in an iterative low-carbon design process, setting out strategies and project-level targets that can be refined throughout the project lifecycle.
 
+#### **EPIC is useful to project teams:**
+
+* in setting a 'carbon budget' for a project.
+* to evaluate the most impactful strategies for reducing carbon emissions at the very beginning of a project, when data is scarce but the potential for reducing emissions is high.&#x20;
+* to rougly approximate "whole life carbon" emissions from a project when completing an energy model and a wbLCA is not practical _(though EPIC is not intended for use as a direct replacement for an energy model and/or wbLCA)_
+
 <figure><img src=".gitbook/assets/EPIC Project Lifecycle.png" alt=""><figcaption></figcaption></figure>
 
-EPIC is designed to allow a user to enter a strict minimum of project parameters and to test the effects of some of the most meaningful carbon reduction strategies on some crucial parts of a project’s carbon footprint. The input parameters are very basic—floor area, site area, location, and typology—to allow for maximum flexibility. These parameters are insufficient, of course, to describe the complexity of any real project. In rough terms, EPIC is designed as a conceptual parallel to ‘shoebox’ energy or daylight models—the results do not correspond directly to a real building but can help us to understand which strategies could perform well, are unlikely to succeed, or are worthy of more attention.
+EPIC is designed to allow a user to enter a strict minimum of project parameters and to test the effects of some of the most meaningful carbon reduction strategies on some crucial parts of a project’s carbon footprint. The input parameters are very basic—floor area, site area, location, and typology—to allow for maximum flexibility. These parameters are insufficient, of course, to describe the complexity of any real project. In rough terms, EPIC is designed as a conceptual parallel to ‘shoebox’ energy or daylight models—the results do not correspond directly to a specific building but can help us to understand which strategies could perform well, are unlikely to succeed, or are worthy of more attention.
 
 ### What is EPIC not?
 

@@ -1,6 +1,6 @@
 # Operational Carbon
 
-The overview of how EPIC calculated operational carbon is detailed on the [model structure](model-structure.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a proejct's operational carbon.  In all cases, EPIC uses GWP-100 characterization factors.&#x20;
+The overview of how EPIC calculated operational carbon is detailed on the [model structure](model-structure.md#calculating-operational-carbon) page. Below, we give additional detail about how EPIC calculates emissions from all the sources contributing to a proejct's operational carbon.
 
 ### Energy Use
 
@@ -43,4 +43,10 @@ The future of the electrical grid is uncertain. To account for this uncertainty,
 EPIC evaluates energy use on an annual basis. The carbon emissions from electricity, however, vary hour by hour. Depending on the use type and location, this can lead to a difference of as much as +/- 20% between annual (modeled) and hourly (measured) estimates of operational emissions.&#x20;
 
 <figure><img src="../../.gitbook/assets/EPIC - LRMER and AER.png" alt=""><figcaption><p>Carbon emissions from electricity demand from 2023-2110 for two metrics and three scenarios.</p></figcaption></figure>
+
+### Energy Generation from Onsite Renewables
+
+EPIC calculates energy generation from onsite solar photovoltaic arrays using an API connection to Version 8 of NREL's [PVWatts](https://pvwatts.nrel.gov/) tool. This energy is assumed to displace an equivalent amount of energy demand from the electrical grid and, by doing so, displace a corresponding quantity of emissions (calculated using the Cambium data detailed above).&#x20;
+
+The  array area returned by the EPIC is the total area of the array (i.e., inclusive of the space between the panels). The ratio of solar panels to total array area is the Ground Coverage Ratio (GCR). This ratio can be adjusted in the [Overrides](../../users-guide/base-case/overrides.md#solar-ground-coverage-ratio) panel of the Base Case tab.&#x20;
 
