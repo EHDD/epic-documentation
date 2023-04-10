@@ -23,6 +23,7 @@
   * [Embodied Carbon](epic-data-model/methodology/embodied-carbon.md)
   * [Operational Carbon](epic-data-model/methodology/operational-carbon.md)
   * [Stored and Avoided Carbon](epic-data-model/methodology/stored-avoided-carbon.md)
+  * [Reference Data](epic-data-model/methodology/reference-data.md)
 * [📡 Access EPIC via API](access-epic-via-api.md)
 
 ## Resources
