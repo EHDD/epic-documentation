@@ -5,9 +5,9 @@ To determine a project target, a set of carbon reduction measures can be applied
 Carbon reduction measures in EPIC are generally divided into three categories:
 
 * [**Reduction and reuse**](reduction-and-reuse.md)**.** These measures deal with the reduction of the building area and the savings from reuse of existing building elements.
-* ****[**Embodied carbon**](reduction-and-reuse.md#embodied-carbon-or-structure)**.** These measures pertain to the materials in a building, structural and nonstructural, their amounts, their carbon intensities, and their replacement periods.
-* ****[**Operational carbon**](reduction-and-reuse.md#operational-carbon)**.** These measures pertain to energy use in the building and its sources.
-* ****[**Site and Landscape**](reduction-and-reuse.md#site-and-landscape). These measures pertain to the landscape surrounding the building and assess its potential to sequester carbon.
+* [**Embodied carbon**](reduction-and-reuse.md#embodied-carbon-or-structure)**.** These measures pertain to the materials in a building, structural and nonstructural, their amounts, their carbon intensities, and their replacement periods.
+* [**Operational carbon**](reduction-and-reuse.md#operational-carbon)**.** These measures pertain to energy use in the building and its sources.
+* [**Site and Landscape**](reduction-and-reuse.md#site-and-landscape). These measures pertain to the landscape surrounding the building and assess its potential to sequester carbon.
 
 ### Cumulative Emissions Over Time
 
@@ -32,4 +32,4 @@ Hovering over a bar gives the summary of emissions in that year. This is useful 
 
 This chart breaks down the contributions to embodied carbon emissions by category. This figure represents the total cumulative emissions associated with the project scenario after 30 years.
 
-![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01 (1).png>)
+![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01.png>)
