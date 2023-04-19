@@ -1,5 +1,5 @@
 ---
-description: Panel for customizing scenario parameters
+description: Customize Scenario Parameters
 ---
 
 # Refine Data
