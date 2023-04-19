@@ -10,7 +10,7 @@
     * [Refine Project Scope](users-guide/base-case/refine-project-scope.md)
   * [2. Reduce Emissions](users-guide/carbon-reduction-measures/README.md)
     * [Carbon Reduction Input Fields](users-guide/carbon-reduction-measures/reduction-and-reuse.md)
-    * [Customize Scenario](users-guide/carbon-reduction-measures/customize-scenario.md)
+    * [Refine Data](users-guide/carbon-reduction-measures/customize-scenario.md)
     * [Save, Load, and Delete Scenarios](users-guide/carbon-reduction-measures/scenarios.md)
   * [3. Compare Scenarios](users-guide/scenario-comparison.md)
 * [🔓 Data Privacy Statement](epic-web-application/data-confidentiality-statement.md)
