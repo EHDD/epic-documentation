@@ -6,7 +6,7 @@ Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that
 
 **Reduction in building Area**
 
-A reduction to the overall floor area, distributed evenly across the building's floors.
+A reduction to the overall floor area, distributed evenly across the building's floors. Typically, this can be achieved on projects by maximizing use of existing assets and through clever program design.&#x20;
 
 #### Building structure reuse
 
