@@ -1,8 +1,10 @@
 # Carbon Reduction Input Fields
 
-## Reduction and Reuse
+## Sufficiency and Reuse
 
-#### Reduction in building Area
+Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that "measures and daily practices that avoid demand for energy, materials, land and water while delivering human well-being." Examples of sufficiency include building less, and reusing existing buildings instead of building new.
+
+**Reduction in building Area**
 
 A reduction to the overall floor area, distributed evenly across the building's floors.
 

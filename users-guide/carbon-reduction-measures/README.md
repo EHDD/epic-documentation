@@ -4,7 +4,7 @@ To determine a project target, a set of carbon reduction measures can be applied
 
 Carbon reduction measures in EPIC are generally divided into three categories:
 
-* [**Reduction and reuse**](reduction-and-reuse.md)**.** These measures deal with the reduction of the building area and the savings from reuse of existing building elements.
+* [**Sufficiency and Reuse**](reduction-and-reuse.md#reduction-and-reuse)**.** These measures deal with the reduction of the building area and the savings from reuse of existing building elements.
 * [**Embodied carbon**](reduction-and-reuse.md#embodied-carbon-or-structure)**.** These measures pertain to the materials in a building, structural and nonstructural, their amounts, their carbon intensities, and their replacement periods.
 * [**Operational carbon**](reduction-and-reuse.md#operational-carbon)**.** These measures pertain to energy use in the building and its sources.
 * [**Site and Landscape**](reduction-and-reuse.md#site-and-landscape). These measures pertain to the landscape surrounding the building and assess its potential to sequester carbon.
