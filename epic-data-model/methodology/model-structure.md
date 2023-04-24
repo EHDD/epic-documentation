@@ -74,7 +74,7 @@ In the built environment, it is essential to understand the [time value of carbo
 * Construction site emissions (life cycle stages A4-A5)
 * Storage of biogenic carbon in timber structural components (life cycle stage D)
 
-**In the each year**, the following emissions are always calculated:
+**In each year**, the following emissions are always calculated:
 
 * Operational carbon emissions from onsite fossil fuel use (life cycle stages B6)
 * Operational carbon emissions from onsite electricity use (life cycle stages B6)
