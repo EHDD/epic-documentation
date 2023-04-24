@@ -62,7 +62,7 @@ $$
 Avoided\ carbon\ emissions=\ \sum_{t=1}^{m}\ e_{t}\ast c_{t}
 $$
 
-Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{t}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$.  This method assumes that there is no curtailment of PV production, and that the carbon emissions of grid electricity when solar energy is produced is substantially similar to the annual average emissions. In locations with a high proportion of solar on the grid, _these assumptions will not hold_ and skepticism of EPIC's calculation of avoided emissions is warranted.
+Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{t}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$.  This method assumes that there is no curtailment of PV production, and that the carbon emissions of grid electricity when solar energy is produced is substantially similar to the annual average emissions. In locations with a high proportion of solar on the grid, curtailment is likely and skepticism of EPIC's calculation of avoided emissions is warranted.
 
 ## EPIC is a time series model
 
@@ -76,9 +76,9 @@ In the built environment, it is essential to understand the [time value of carbo
 
 **In each year**, the following emissions are always calculated:
 
-* Operational carbon emissions from onsite fossil fuel use (life cycle stages B6)
-* Operational carbon emissions from onsite electricity use (life cycle stages B6)
-* Emissions from landscape maintenance, when applicable  (life cycle stages B2)
+* Operational carbon emissions from onsite fossil fuel use (life cycle stage B6)
+* Operational carbon emissions from onsite electricity use (life cycle stage B6)
+* Emissions from landscape maintenance, when applicable  (life cycle stage B2)
 
 **In only some years,** the following emissions are always calculated:
 
@@ -112,4 +112,4 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 EPIC's model is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
 
-Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. More information about the set of customizations available in the open access web app is available [here](../../users-guide/carbon-reduction-measures/customize-scenario.md). To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
+Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. The customizations available in the open access web app are described [here](../../users-guide/carbon-reduction-measures/customize-scenario.md). To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
