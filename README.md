@@ -20,7 +20,7 @@ EPIC is designed to allow a user to enter a strict minimum of project parameters
 
 ### What is EPIC not?
 
-_EPIC is not a high-resolution design tool_.
+_EPIC is not a high-resolution wbLCA tool_.
 
 EPIC is designed to accurately represent the overall effects of decarbonization strategies, not precisely model individual design parameters. EPIC can help your team compare a net zero energy retrofit with mass timber new construction, for instance, but is not designed to capture differences in, say, efficiency gains from changing structural bay sizes or specifying one brand of heat pump versus another.
 
