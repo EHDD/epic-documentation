@@ -45,15 +45,15 @@ The three specifications available in EPIC—low carbon, best practices, and con
 
 Concrete emissions, on the other hand, as assessed at the zip code level. Concrete is a regional material, rarely traveling more than 25 miles between production and use. Additionally, the relatively large number of concrete EPDs available in the United States ([80,000+](https://buildingtransparency.org/ec3) at time of writing) supports a regional approach to measuring concrete emissions.&#x20;
 
-Where concrete EPDs are not available, the specification levels in EPIC are set using NRMCA published minimum, average, and maximum values in line with the method outlined in the CLF's [2021 Material Baseline Report](https://carbonleadershipforum.org/2021-material-baseline-report/), included the use of the uncertainty method put forward by Building Transparency.
+Where concrete EPDs are not available, the specification levels in EPIC are set using NRMCA published minimum, average, and maximum values in line with the method outlined in the CLF's [2021 Material Baseline Report](https://carbonleadershipforum.org/2021-material-baseline-report/), included the use of the uncertainty method put forward by Building Transparency. _<mark style="color:green;">(Coming soon: background concrete data alignment with CLF's 2023 Material Baseline Report)</mark>_
 
-In locations where concrete EPDs are available, EPIC sets the specification levels for concrete by sampling the distribution of GWP values from available concrete EPDs at the 20th, 50th, and 80th percentile. Data on concrete are queried via the [OpenEPD API](https://openepd.buildingtransparency.org/) and compiled in a GIS platform.&#x20;
+In locations where concrete EPDs are available, EPIC sets the specification levels for concrete by sampling the distribution of GWP values from available concrete EPDs at the 20th, 50th, and 80th percentile. Location specific data on concrete are collected via the [OpenEPD API](https://openepd.buildingtransparency.org/) and compiled in a GIS platform. High-strength concrete (7-10 kSI) carbon intensities correspond to Building Transparency's [OpenImpact](https://www.buildingtransparency.org/programs/openimpact/) data on 55.2 MPa concrete.&#x20;
 
 | Structural Material    | Low Carbon          | Best Practices      | Conservative        |
 | ---------------------- | ------------------- | ------------------- | ------------------- |
 | **Concrete, 3-4 kSI**  | _Location-specific_ | _Location-specific_ | _Location-specific_ |
 | **Concrete, 5-6 kSI**  | _Location-specific_ | _Location-specific_ | _Location-specific_ |
-| **Concrete, 7-10 kSI** | 0.16 kgCO2e/kg      | 0.2 kgCO2e/kg       | 0.3 kgCO2e/kg       |
+| **Concrete, 7-10 kSI** | 0.16 kgCO2e/kg      | 0.18 kgCO2e/kg      | 0.19 kgCO2e/kg      |
 | **Reinforcing Steel**  | 0.9 kgCO2e/kg       | 1.1 kgCO2e/kg       | 0.16 kgCO2e/kg      |
 | **Structural Steel**   | 0.9 kgCO2e/kg       | 1.1 kgCO2e/kg       | 1.2 kgCO2e/kg       |
 | **Steel Deck**         | 1.7 kgCO2e/kg       | 2.2 kgCO2e/kg       | 2.4 kgCO2e/kg       |
