@@ -57,8 +57,8 @@ In locations where concrete EPDs are available, EPIC sets the specification leve
 | **Reinforcing Steel**  | 0.9 kgCO2e/kg       | 1.1 kgCO2e/kg       | 0.16 kgCO2e/kg      |
 | **Structural Steel**   | 0.9 kgCO2e/kg       | 1.1 kgCO2e/kg       | 1.2 kgCO2e/kg       |
 | **Steel Deck**         | 1.7 kgCO2e/kg       | 2.2 kgCO2e/kg       | 2.4 kgCO2e/kg       |
-| **Lumber**             | 0.09 kgCO2e/kg      | 0.11 kgCO2e/kg      | 0.18 kgCO2e/kg      |
-| **Plywood**            | 0.36 kgCO2e/kg      | 0.42 kgCO2e/kg      | 0.73 kgCO2e/kg      |
+| **Lumber**             | 0.09 kgCO2e/kg      | 0.16 kgCO2e/kg      | 0.21 kgCO2e/kg      |
+| **Plywood/OSB**        | 0.36 kgCO2e/kg      | 0.51 kgCO2e/kg      | 0.73 kgCO2e/kg      |
 | **Engineered Wood**    | 0.19 kgCO2e/kg      | 0.25 kgCO2e/kg      | 0.36 kgCO2e/kg      |
 
 <figure><img src="../../.gitbook/assets/concrete regionalization-01.png" alt=""><figcaption><p>EPD regionalization. Note that EPDs are typically concentrated in metro areas, and the background NRMCA data for that region may have either a higher or a lower carbon intensity. </p></figcaption></figure>
