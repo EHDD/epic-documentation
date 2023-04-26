@@ -16,7 +16,7 @@ Aggressive time-based targets have been set for the built environment as part of
 
 EPIC is designed to allow a user to enter a strict minimum of project parameters and to test the effects of some of the most meaningful carbon reduction strategies on some crucial parts of a project’s carbon footprint. The input parameters are very basic—floor area, site area, location, and typology—to allow for maximum flexibility. These parameters are insufficient, of course, to describe the complexity of any real project. In rough terms, EPIC is designed as a conceptual parallel to ‘shoebox’ energy or daylight models—the results do not correspond directly to a specific building but can help us to understand which strategies could perform well, are unlikely to succeed, or are worthy of more attention.
 
-<figure><img src=".gitbook/assets/Early Phase Decisions.jpg" alt=""><figcaption><p>Waiting until you have BIM data is waiting too long. </p></figcaption></figure>
+<figure><img src=".gitbook/assets/eary phase decisions.jpg" alt=""><figcaption><p>Waiting until you have BIM data is waiting too long. </p></figcaption></figure>
 
 ### What is EPIC not?
 
