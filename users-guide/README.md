@@ -15,8 +15,8 @@ In EPIC, the basic workflow is:
 #### Important definitions:
 
 * A **Project** includes a base case and one or more decarbonization scenarios.
-* A **Base Case** is a description of the project where no attempts have been made to decarbonize. To calculate the base case emissions, EPIC makes a set of "business as usual" assumptions. When EPIC's "business as usual" assumptions are not appropriate, they can be overridden in the **Overrides** menu in the base case tab.
-* A **Scenario** is a set of strategies to lower the carbon emissions from a given project. Scenarios are constructed individually in the decarbonization measures tab, and compared against one another in the scenario comparison tab.
+* A [**Base Case**](base-case/) is a description of the project where no attempts have been made to decarbonize. To calculate the base case emissions, EPIC makes a set of "business as usual" assumptions. When EPIC's "business as usual" assumptions are not appropriate, they can be overridden in the **Overrides** menu in the base case tab.
+* A **Scenario** is a set of strategies to lower a project's carbon emissions. Scenarios are constructed individually in the [Reduce Emissions](carbon-reduction-measures/) tab and compared against one another in the [scenario comparison](scenario-comparison.md) tab.
 
 ### EPIC's Methodology
 
