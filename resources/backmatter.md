@@ -2,6 +2,8 @@
 
 **EPIC** is an early-phase low-carbon design tool.
 
+**c.scale** is a lightweight data model for carbon footprinting in the built environment.
+
 **EHDD** creates transformative places of belonging and impact. Learn more about our work at [ehdd.com](http://ehdd.com).
 
 ## Project Team
@@ -20,7 +22,7 @@ Lalyn Yu
 
 ## **Peer Review and Feedback**
 
-The EPIC model has been reviewed in whole or part by colleagues at [MKA](https://www.mka.com/), [Carbon Leadership Forum](https://carbonleadershipforum.org/), and others.&#x20;
+Iterations of **c.scale** have been reviewed in whole or part by colleagues at [MKA](https://www.mka.com/), [Carbon Leadership Forum](https://carbonleadershipforum.org/), and others.&#x20;
 
 The project team owes a heartfelt thanks to the group of over 80 firms that participated in our initial closed beta, the input of whom was essential to EPIC's early development, and the countless users who have since offered feedback, critique, and unique use cases.
 
@@ -34,7 +36,9 @@ Questions regarding the tool, its use, or the public beta web application can be
 
 The content of the EPIC user's guide is licensed under the Creative Commons Attribution 4.0.
 
-EPIC © 2021-2023 EHDD
+The EPIC web application and its interface © 2021-2023 EHDD
+
+The c.scale data model © 2023 EHDD
 
 ## Changelog
 
