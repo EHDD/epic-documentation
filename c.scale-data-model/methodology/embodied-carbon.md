@@ -99,7 +99,7 @@ For each of the three envelope categories, the carbon intensity is determined by
 
 All three parameters can be customized for a scenario in the scenario customization screen.
 
-Additional data on envelope assemblies are accessible via EPIC's [API](../../access-epic-via-api.md). For access to these data, [please reach out](mailto:epic@ehdd.com?subject=API).
+Additional data on envelope assemblies are accessible via EPIC's [API](../access-epic-via-api.md). For access to these data, [please reach out](mailto:epic@ehdd.com?subject=API).
 
 #### Embodied Carbon in Interior Fit Out
 

@@ -16,15 +16,15 @@
 * [🔓 Data Privacy Statement](epic-web-application/data-confidentiality-statement.md)
 * [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 
-## EPIC Data Model
+## c.scale Data Model
 
-* [🏗 Methodology](epic-data-model/methodology/README.md)
-  * [Model Structure](epic-data-model/methodology/model-structure.md)
-  * [Embodied Carbon](epic-data-model/methodology/embodied-carbon.md)
-  * [Operational Carbon](epic-data-model/methodology/operational-carbon.md)
-  * [Stored and Avoided Carbon](epic-data-model/methodology/stored-avoided-carbon.md)
-  * [Reference Data](epic-data-model/methodology/reference-data.md)
-* [📡 Access EPIC via API](access-epic-via-api.md)
+* [🏗 Methodology](c.scale-data-model/methodology/README.md)
+  * [Model Structure](c.scale-data-model/methodology/model-structure.md)
+  * [Embodied Carbon](c.scale-data-model/methodology/embodied-carbon.md)
+  * [Operational Carbon](c.scale-data-model/methodology/operational-carbon.md)
+  * [Stored and Avoided Carbon](c.scale-data-model/methodology/stored-avoided-carbon.md)
+  * [Reference Data](c.scale-data-model/methodology/reference-data.md)
+* [📡 Access EPIC via API](c.scale-data-model/access-epic-via-api.md)
 
 ## Resources
 
