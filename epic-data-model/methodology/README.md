@@ -1,6 +1,6 @@
 # 🏗 Methodology
 
-EPIC is powered by c.scale, a lightweight data model for carbon footprinting in the built environment.
+
 
 ## Goal
 
@@ -10,6 +10,8 @@ EPIC is designed for use during site and feasibility studies, requests for propo
 
 EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology. We're actively seeking [feedback](mailto:epic@ehdd.com?subject=Feedback) as we continue to improve.
 
+EPIC is powered by c.scale, a lightweight data model for carbon footprinting in the built environment.
+
 ## Scope
 
 ### Whole Life Carbon
@@ -18,7 +20,7 @@ c.scale is an whole life carbon model. "Whole life carbon" means that it integra
 
 ### Time Horizon
 
-c.scale can accommodate time horizons of 30 or 60 years. Currently, the web application can only accommodate a 30 year time horizon. For analysis on a 60 year time horizon, [use our API](../access-epic-via-api.md).&#x20;
+c.scale can accommodate time horizons of 30 or 60 years. Currently, the web application can only accommodate a 30 year time horizon. For analysis on a 60 year time horizon, [use our API](../../access-epic-via-api.md).&#x20;
 
 ### Life Cycle Stages
 

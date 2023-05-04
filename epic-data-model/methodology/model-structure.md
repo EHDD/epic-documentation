@@ -1,10 +1,10 @@
 # Model Structure
 
-## EPIC calculates whole carbon emissions
+## c.scale calculates whole life carbon emissions
 
-EPIC integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, EPIC prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
+c.scale integrates embodied, operational, and landscape carbon emission assessment into a single model. By taking a 'whole carbon' view, c.scale prevents burden shifting and ensures that a project has the information necessary to target the most impactful carbon reductions.&#x20;
 
-&#x20;EPIC uses GWP-100 characterization factors.&#x20;
+&#x20;c.scale uses GWP-100 characterization factors.&#x20;
 
 ### Calculating Embodied Carbon [↗](model-structure.md#calculating-embodied-carbon)
 
@@ -22,7 +22,7 @@ $$
 10,000\ sf\ast4\ \frac{lbs\ rebar}{sf}\ast0.5\ \frac{kg\ CO_2e}{lb\ rebar}=20,000\ kg\ CO_2e
 $$
 
-In each section of its model, EPIC sums the assessed emission of many individual contributors. While simple summation is acceptable in some cases, some materials will be replaced before the target date. For these materials, the emissions are assigned to the year(s) in which they’re replaced, and a multiplier is added to the total summation. The total embodied emissions assessed by EPIC are represented by this expression:
+In each section of its model, c.scale sums the assessed emission of many individual contributors. While simple summation is acceptable in some cases, some materials will be replaced before the target date. For these materials, the emissions are assigned to the year(s) in which they’re replaced, and a multiplier is added to the total summation. The total embodied emissions assessed by c.scale are represented by this expression:
 
 $$
 Total\ embodied\ carbon\ emissions=\ \sum_{i=1}^{n}\ A\ast x_i\ast c_i\ast(1+r_i)\
@@ -32,7 +32,7 @@ For n number of contributors to the embodied emissions, where A is the total bui
 
 ### Calculating Operational Carbon [↗](model-structure.md#calculating-operational-carbon)
 
-The operational emissions of the project are assessed annually and summed across all years before the target date. The equation is similar to the equation for embodied emissions, with two key differences: first, the quantity x is substituted for the energy use intensity (EUI) e; second, the equation is a double summation, once across all the fuel types in the building and again across all years between the building’s completion and the target year. The total operational emissions assessed by EPIC are represented by this expression:
+The operational emissions of the project are assessed annually and summed across all years before the target date. The equation is similar to the equation for embodied emissions, with two key differences: first, the quantity x is substituted for the energy use intensity (EUI) e; second, the equation is a double summation, once across all the fuel types in the building and again across all years between the building’s completion and the target year. The total operational emissions assessed by c.scale are represented by this expression:
 
 $$
 Operational\ carbon\ emissions=\ \sum_{t=1}^{m}\ \sum_{j=1}^{o}\ A\ast e_{tj}\ast c_j
@@ -42,11 +42,11 @@ For m total years between the building’s completion and the target year and ac
 
 Carbon emissions associated with electricity are derived from NREL's Cambium model. Onsite fossil fuel use is assumed to be natural gas. The carbon emissions of natural gas are assessed with a 2.4% leakage rate. Fuel oil emissions account for N20 and CH4 emissions. Characterization of non-CO2 emissions is determined with the GWP100 factors published in IPCC AR6.
 
-_<mark style="color:green;">Future versions of EPIC will also include refrigerant emissions.</mark>_&#x20;
+_<mark style="color:green;">Future versions of c.scale will also include refrigerant emissions.</mark>_&#x20;
 
 ### Calculating Stored and Avoided Carbon [↗](model-structure.md#calculating-stored-and-avoided-carbon)
 
-In EPIC, landscaping and the use of structural timber contribute to biogenic carbon storage. Carbon storage in structural materials is assessed once in the first year of the project, and landscape sequestration is assessed each year. Biogenic carbon sequestration is evaluated with the following expression:
+In c.scale, landscaping and the use of structural timber contribute to biogenic carbon storage. Carbon storage in structural materials is assessed once in the first year of the project, and landscape sequestration is assessed each year. Biogenic carbon sequestration is evaluated with the following expression:
 
 $$
 Carbon\ Storage=x_i\ast C_i+\ \sum_{t=1}^{m}\ A_k\ast C_k
@@ -62,11 +62,11 @@ $$
 Avoided\ carbon\ emissions=\ \sum_{t=1}^{m}\ e_{t}\ast c_{t}
 $$
 
-Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{t}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$.  This method assumes that there is no curtailment of PV production, and that the carbon emissions of grid electricity when solar energy is produced is substantially similar to the annual average emissions. In locations with a high proportion of solar on the grid, curtailment is likely and skepticism of EPIC's calculation of avoided emissions is warranted.
+Where  $$e_{t}$$ is the excess energy in kWh generated in year $$t$$ and $$c_{t}$$ is the carbon intensity of the electrical grid per unit demand in year $$t$$.  This method assumes that there is no curtailment of PV production, and that the carbon emissions of grid electricity when solar energy is produced is substantially similar to the annual average emissions. In locations with a high proportion of solar on the grid, curtailment is likely and skepticism of c.scale's calculation of avoided emissions is warranted.
 
-## EPIC is a time series model
+## c.scale is a time series model
 
-In the built environment, it is essential to understand the [time value of carbon](https://carbonleadershipforum.org/the-time-value-of-carbon/). To this end, EPIC uses time series data to analyze carbon emissions across a building's life. For each year in the analysis period (defined by the project's [time horizon](./#time-horizon)), EPIC estimates all emissions occurring in that year.&#x20;
+In the built environment, it is essential to understand the [time value of carbon](https://carbonleadershipforum.org/the-time-value-of-carbon/). To this end, c.scale uses time series data to analyze carbon emissions across a building's life. For each year in the analysis period (defined by the project's [time horizon](./#time-horizon)), c.scale estimates all emissions occurring in that year.&#x20;
 
 **In the first year**, the following emissions are always calculated:
 
@@ -93,7 +93,7 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 #### Area Units
 
-* **Square feet.** As the geographic scope of EPIC is currently limited to the United States, area is described in square feet and emissions evaluated on a per square foot basis. In much of the literature on carbon emissions from buildings, however, emissions are compared on a per square meter basis. To compare results from EPIC to results on a per square meter basis, unit conversion is necessary.
+* **Square feet.** As the geographic scope of c.scale is currently limited to the United States, area is described in square feet and emissions evaluated on a per square foot basis. In much of the literature on carbon emissions from buildings, however, emissions are compared on a per square meter basis. To compare results from c.scale to results on a per square meter basis, unit conversion is necessary.
 
 #### Time Units
 
@@ -108,8 +108,8 @@ Units describe data. When we compare 2 kilograms to 2 square feet, the units hel
 
 * **Metric tons of CO2-equivalent**  (tCO2e)**.** Following conventions across the literature, carbon emissions are described in metric units. One metric ton is equal to 1000 kilograms and 2,204 pounds. EPIC measures emissions of "carbon dioxide equivalents," using emission factors published by the IPCC to include emissions of extremely potent greenhouse gases (such as methane and nitrous oxide) based on their comparability to carbon dioxide emissions. &#x20;
 
-## EPIC is customizable and extensible
+## EPIC and c.scale are customizable and extensible
 
-EPIC's model is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
+c.scale is built as a series of modules, each connected to the others and tasked with a specific set of calculations.  These modules are added or expanded in response to the requests of users.&#x20;
 
 Many parts of the EPIC model (in v2.0.0 and beyond) can be customized or overriden by the user. This allows for the addition of project-specific data where it is available while maintaining the EPIC model for calculating all other parts of the project's carbon footprint. The customizations available in the open access web app are described [here](../../users-guide/carbon-reduction-measures/customize-scenario.md). To request additional features, [contact us](mailto:epic@ehdd.com).&#x20;
