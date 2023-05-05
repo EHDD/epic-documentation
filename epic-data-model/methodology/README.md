@@ -8,29 +8,29 @@ EPIC provides directionally accurate guidance for specific projects by helping t
 
 EPIC is designed for use during site and feasibility studies, requests for proposals, pre-design, and in other situations where decisions affecting the whole life carbon footprint are being made and completing a whole-building life cycle assessment and/or energy model is not practicable.&#x20;
 
-EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology. We're actively seeking [feedback](mailto:epic@ehdd.com?subject=Feedback) as we continue to improve.
+EPIC is powered by **c.scale**, a lightweight data model for carbon footprinting the built environment.
 
-EPIC is powered by c.scale, a lightweight data model for carbon footprinting in the built environment.
+EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology. We're actively seeking [feedback](mailto:epic@ehdd.com?subject=Feedback) as we continue to improve.
 
 ## Scope
 
 ### Whole Life Carbon
 
-c.scale is an whole life carbon model. "Whole life carbon" means that it integrates assessments of embodied, operational, and landscape carbon in a data model to capture the entire carbon footprint of the project.&#x20;
+**c.scale** is an whole life carbon model. "Whole life carbon" means that it integrates assessments of embodied, operational, and landscape carbon in a data model to capture the entire carbon footprint of the project.&#x20;
 
 ### Time Horizon
 
-c.scale can accommodate time horizons of 30 or 60 years. Currently, the web application can only accommodate a 30 year time horizon. For analysis on a 60 year time horizon, [use our API](../../access-epic-via-api.md).&#x20;
+**c.scale** can accommodate time horizons of 30 or 60 years. Currently, the web application can only accommodate a 30 year time horizon. For analysis on a 60 year time horizon, [use our API](../../access-epic-via-api.md).&#x20;
 
 ### Life Cycle Stages
 
-c.scale integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C3-C4) are assessed during the product phase (see appendix [Biogenic Carbon](broken-reference)).
+**c.scale** integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C3-C4) are assessed during the product phase (see appendix [Biogenic Carbon](broken-reference)).
 
 <figure><img src="../../.gitbook/assets/EPIC - Included LIfe Cycle Stages.png" alt=""><figcaption><p>Highlighted stages are included in the c.scale model.</p></figcaption></figure>
 
 ### Embodied Carbon Scope
 
-c.scale includes an assessment of embodied carbon from the following sources:
+**c.scale** includes an assessment of embodied carbon from the following sources:
 
 * Building structure and foundation
 * Construction activities
@@ -42,7 +42,7 @@ c.scale includes an assessment of embodied carbon from the following sources:
 
 ### Operational Carbon Scope
 
-c.scale considers operational emissions from the following sources:
+**c.scale** considers operational emissions from the following sources:
 
 * Emissions from the combustion of methane gas in the building
 * Upstream leakage of methane gas as a proportion of methane gas combusted in the building
@@ -50,7 +50,7 @@ c.scale considers operational emissions from the following sources:
 
 ### Stored Carbon Scope
 
-c.scale includes an estimate of carbon storage in timber structural systems and site landscaping. Carbon storage in planting is calculated over the time horizon then annualized. Carbon storage in building structure is assigned to the first year of the project. c.scale's method for calculating carbon storage in timber structural systems is detailed in the section on [stored and avoided carbon](stored-avoided-carbon.md).
+**c.scale** includes an estimate of carbon storage in timber structural systems and site landscaping. Carbon storage in planting is calculated over the time horizon then annualized. Carbon storage in building structure is assigned to the first year of the project. c.scale's method for calculating carbon storage in timber structural systems is detailed in the section on [stored and avoided carbon](stored-avoided-carbon.md).
 
 ### Refining EPIC's Scope
 
