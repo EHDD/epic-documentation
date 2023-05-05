@@ -28,8 +28,10 @@ Hovering over a bar gives the summary of emissions in that year. This is useful 
 
 ![Hovering over a bar gives the summary of cumulative emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Pictured here, hovering over the final year in the chart gives the total emissions across the 30 year period.](<../../.gitbook/assets/2022-06-01 13\_48\_24-EPIC Assessment.png>)
 
-### Embodied Carbon by Category
+### Embodied Carbon Budget
 
 This chart breaks down the contributions to embodied carbon emissions by category. This figure represents the total cumulative emissions associated with the project scenario after 30 years.
+
+When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular scope or for the project as a whole.&#x20;
 
 ![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01.png>)
