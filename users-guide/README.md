@@ -24,4 +24,4 @@ EPIC is powered by the [**c.scale** data model](../epic-data-model/methodology/)
 
 ### Get in touch!
 
-If you'd like to offer feedback on EPIC, c.scale, or the documentation, please [**get in touch**](https://forms.gle/2Hy6SEdkEJj4WMVr6)**.**
+If you'd like to offer feedback on EPIC, c.scale, or the documentation, please [**get in touch**](https://forms.gle/eHYvfeqQGbfK6EQy8)**.**
