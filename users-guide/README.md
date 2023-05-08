@@ -12,14 +12,16 @@ In EPIC, the basic workflow is:
 2. Create decarbonization scenarios in the [**Reduce Emissions** tab](https://www.epic-docs.dev/epic-web-application/guide/carbon-reduction-measures)
 3. Compare between decarbonization scenarios in the [**Compare Scenarios** tab](https://www.epic-docs.dev/epic-web-application/guide/compare-scenarios)
 
-#### Important definitions:
+### Important definitions
 
 * A **Project** includes a base case and one or more decarbonization scenarios.
 * A **Base Case** is a scenario for a project where no attempts have been made to reduce carbon emissions. To [define a base case](base-case/), EPIC makes a set of "business as usual" assumptions based on user inputs. When EPIC's "business as usual" assumptions are not appropriate, they can be overridden in the [overrides](base-case/overrides.md) menu in the base case tab.
 * A **Scenario** is a set of strategies to lower a project's carbon emissions. Scenarios are constructed individually in the [Reduce Emissions](carbon-reduction-measures/) tab and compared against one another in the [Compare Scenarios](scenario-comparison.md) tab.
 
-### c.scale
+### The c.scale data model
 
 EPIC is powered by the [**c.scale** data model](../epic-data-model/methodology/).
 
-If anything remains unclear after reading the guide, please [**get in touch**](https://forms.gle/2Hy6SEdkEJj4WMVr6) to help us improve EPIC, c.scale, and their documentation.
+### Get in touch!
+
+If you'd like to offer feedback on EPIC, c.scale, or the documentation, please [**get in touch**](https://forms.gle/2Hy6SEdkEJj4WMVr6)**.**
