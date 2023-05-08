@@ -80,7 +80,7 @@ In accordance with ISO 21930, the carbon content of biogenic materials can only 
 
 In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list below is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage:&#x20;
 
-* **Transparent supply chain (required)** . Transparency and traceability in the supply chain. Claims can be made about the environmental attributes of timber are impossible to verify without transparency and traceability in the supply chain. This means that a project team should be able to identify:
+* **Transparency and traceability in the supply chain (required)**. Claims can be made about the environmental attributes of timber are impossible to verify without transparency and traceability in the supply chain. This means that a project team should be able to identify:
   1. The source forest(s) or supply area(s)
      * _This is the area from which a primary manufacturer sources most or all of its logs, typically a circle drawn around the location of the site of the mill, with the size being dictated by the maximum hauling distance of the logs._
   2. The primary manufacturer mill(s)
