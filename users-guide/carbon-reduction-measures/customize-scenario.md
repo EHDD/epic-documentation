@@ -8,7 +8,7 @@ This modal allows a user to customize the data used to calculate the current sce
 
 These quantities are entered on an area basis in units of kgCO2e/sf values. The area baseline for each quantity is as follows:
 
-| Scope                | Area Baseline             | Inputs affecting area baseline                          |
+| Scope                | Area Baseline             | Inputs Affecting Area Baseline                          |
 | -------------------- | ------------------------- | ------------------------------------------------------- |
 | Structure            | Total Floor Area          | Floor area                                              |
 | Envelope \| Cladding | Opaque Envelope Area      | WWR, floor-to-floor height, perimeter, and floor area.  |
