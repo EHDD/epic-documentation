@@ -2,7 +2,7 @@
 
 ## Why use our API?
 
-In addition to the open access version of EPIC, an expanded version of the data model behind EPIC is accessible as an API. By directly integrating EPIC into their own platforms and workflows, our API has allowed our partners to:
+In addition to the open access version of EPIC, an expanded version of the data model behind EPIC is accessible by API. By directly integrating EPIC into their own platforms and workflows, our API has allowed our partners to:
 
 * Perform higher-resolution analysis of specific buildings.
 * Analyze "look-ahead" scenarios for the construction or acquisition of large portfolios of buildings.
