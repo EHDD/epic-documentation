@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Data Confidentiality Statement
 
 EHDD is committed to protecting the privacy of EPIC’s users and the confidentiality of their data. However, by using this service you agree that EHDD has no liability whatsoever for damage caused by the disclosure of information entered into the site, whether due to a software error or any other reason. We sincerely intend and make our best effort to implement the policy below, but ultimately this service is offered as-is and without warranties or guarantees of any kind.
@@ -21,18 +25,18 @@ For security reasons, all project data are associated only with a random identif
 
 These anonymized project data are maintained in a secure MongoDB Atlas database hosted on cloud servers by Amazon Web Services (AWS). All data are protected by a dedicated firewall, all server traffic is end-to-end encrypted using TLS, and the service is SOC 2 type certified and GDPR compliant. Read more about [MongoDB Atlas’s security measures](https://www.mongodb.com/cloud/atlas/security).
 
-### Use of web cookies&#x20;
+### Use of web cookies
 
-EPIC uses web cookies as a security measure during a user session to verify a user’s identity and allow verified users to view project and user data stored within EPIC. The use of necessary first-party cookies does not require consent under GDPR. EPIC does not use any third-party cookies.&#x20;
+EPIC uses web cookies as a security measure during a user session to verify a user’s identity and allow verified users to view project and user data stored within EPIC. The use of necessary first-party cookies does not require consent under GDPR. EPIC does not use any third-party cookies.
 
-### Updates to this statement&#x20;
+### Updates to this statement
 
-We may make occasional updates to this data confidentiality statement. Any material changes to the statement will be outlined in the changelog below.&#x20;
+We may make occasional updates to this data confidentiality statement. Any material changes to the statement will be outlined in the changelog below.
 
-### Communication regarding this statement&#x20;
+### Communication regarding this statement
 
-Any communication regarding data confidentiality or this statement should be directed to epic@ehdd.com.&#x20;
+Any communication regarding data confidentiality or this statement should be directed to epic@ehdd.com.
 
-### Changelog&#x20;
+### Changelog
 
 May 27, 2022 - Data confidentiality statement published.

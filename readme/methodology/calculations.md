@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Calculations
 
 ### Embodied Carbon Emissions
@@ -8,7 +12,7 @@ $$
 {Assessed\ emissions}_i=\ A\ast x_i\ast c_i
 $$
 
-Where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, and $$c_i$$ is the carbon intensity per unit of the contributor $$i$$.&#x20;
+Where A is the total building area, $$x_i$$ is the quantity of the contributor $$i$$ per building area, and $$c_i$$ is the carbon intensity per unit of the contributor $$i$$.
 
 For example, a 10,000 square foot building may use 4 pounds of reinforcing steel per square foot of floor area, and the reinforcing steel may have a carbon intensity of 500 grams (0.5 kilograms) of carbon dioxide-equivalent emissions per pound of steel (values for illustrative purposes only). Taking the product of these three hypothetical quantities yields the contribution of reinforcing steel to that building’s embodied carbon emission:
 

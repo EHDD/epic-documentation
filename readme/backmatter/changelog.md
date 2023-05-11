@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Changelog
 
 **June 21st, 2022** - v1.0.0. Public beta release

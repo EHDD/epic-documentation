@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Embodied Carbon
 
 ## Embodied Carbon Measures - Structure

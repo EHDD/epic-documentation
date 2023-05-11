@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Credits
 
 **EPIC** is an early-phase low-carbon design tool.
@@ -18,12 +22,11 @@ Lalyn Yu
 **Web Development**\
 Christopher Hiester
 
-The project team owes a heartfelt thanks to the group of over 80 firms that participated in our closed beta, the input of whom was essential to EPIC's development.  &#x20;
+The project team owes a heartfelt thanks to the group of over 80 firms that participated in our closed beta, the input of whom was essential to EPIC's development.
 
 ### Contact
 
-Questions regarding the tool, its use, or the public beta web application can be directed to [epic@ehdd.com](<mailto:epic@ehdd.com >).&#x20;
-
+Questions regarding the tool, its use, or the public beta web application can be directed to [epic@ehdd.com](<mailto:epic@ehdd.com >).
 
 The content of this site is licensed under the Creative Commons Attribution 4.0.
 

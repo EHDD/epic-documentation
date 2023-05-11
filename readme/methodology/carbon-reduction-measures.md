@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Model Structure
 
 EPIC compares a base case against a set of carbon reduction measures. User-defined sets of carbon reduction measures can be saved as scenarios and compared.
@@ -10,7 +14,7 @@ EPIC assesses the efficacy of the carbon reduction measures in relative terms, a
 
 ### [Carbon Reduction Measures](../users-guide/carbon-reduction-measures/)
 
-Each carbon reduction measure (CRM) modifies one or more of the parameters in EPIC's data model. In almost all cases, modifying these parameters will reduce the base case carbon emissions. In some cases, however, emissions may increase (e.g. changing a wood frame structure to steel).&#x20;
+Each carbon reduction measure (CRM) modifies one or more of the parameters in EPIC's data model. In almost all cases, modifying these parameters will reduce the base case carbon emissions. In some cases, however, emissions may increase (e.g. changing a wood frame structure to steel).
 
 The measures are divided into three categories (embodied, operational, and landscape), but many measures have effects across categories: Some CRMs affect individual variables (specifying low-carbon concrete changes the carbon intensity of a single input), some affect multiple model components by changing a single variable (reducing the building’s area will lower both its operational and embodied emissions), and other change multiple variables across many model components (adding a photovoltaic array incurs embodied emissions but lower operational emissions).
 

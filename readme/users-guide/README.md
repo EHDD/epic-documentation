@@ -1,5 +1,5 @@
 ---
-description: Public beta v1.1.0
+description: '[ARCHIVE] EPIC v1 Documentation'
 ---
 
 # User's Guide - Start here!

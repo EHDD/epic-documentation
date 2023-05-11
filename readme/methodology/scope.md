@@ -1,3 +1,7 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Scope
 
 ### Time Horizon
@@ -10,7 +14,7 @@ EPIC integrates data from life cycle modules A1-A3 and B2-B6. These correspond t
 
 ### Embodied Carbon Scope
 
-EPIC considers embodied carbon from a number of sources. Its scope may be distinct from other tools.&#x20;
+EPIC considers embodied carbon from a number of sources. Its scope may be distinct from other tools.
 
 * Building structure
 * Cladding, glazing, and roofing
@@ -27,5 +31,4 @@ EPIC considers the emissions associated with a project based on averages by stat
 
 ### Stored Carbon Scope
 
-EPIC includes stored carbon from timber structural systems and site landscaping. Planting and structural storage are calculated over the 30-year time horizon then annualized.  EPIC's method for calculating carbon storage is detailed in the appendix on [biogenic carbon](../appendices/biogenic-carbon.md).
-
+EPIC includes stored carbon from timber structural systems and site landscaping. Planting and structural storage are calculated over the 30-year time horizon then annualized. EPIC's method for calculating carbon storage is detailed in the appendix on [biogenic carbon](../appendices/biogenic-carbon.md).

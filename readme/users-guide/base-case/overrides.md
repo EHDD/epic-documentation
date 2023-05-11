@@ -1,12 +1,16 @@
+---
+description: '[ARCHIVE] EPIC v1 Documentation'
+---
+
 # Overrides
 
-Overrides affect the assumptions in the base case and all scenarios within a project.&#x20;
+Overrides affect the assumptions in the base case and all scenarios within a project.
 
 #### **Base case EUI override**
 
 If the EUI required for a project will be significantly different from the CBECS average EUIs, this EUI can be entered here. The default EUI value is determined from CBECS averages and the user inputs above.
 
-#### **% onsite fossil fuel combustion**&#x20;
+#### **% onsite fossil fuel combustion**
 
 The percentage of building energy use resulting from the combustion of fossil fuel at the building site. The default values for natural gas and fuel oil consumption are determined by national averages for the building’s climate zone in the CBECS and RECS microdata.
 
