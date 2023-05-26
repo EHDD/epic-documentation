@@ -8,7 +8,7 @@ EPIC provides directionally accurate guidance for specific projects by helping t
 
 EPIC is designed for use during site and feasibility studies, requests for proposals, pre-design, and in other situations where decisions affecting the whole life carbon footprint are being made and completing a whole-building life cycle assessment and/or energy model is not practicable.&#x20;
 
-EPIC is powered by **c.scale**, a lightweight data model for carbon footprinting the built environment.
+EPIC is powered by **c.scale**™, a lightweight data model for carbon footprinting the built environment.
 
 EPIC is a work in progress; future development will respond to user feedback, incorporate improved data, and refine the tool's methodology. We're actively seeking [feedback](mailto:epic@ehdd.com?subject=Feedback) as we continue to improve.
 
@@ -20,7 +20,7 @@ EPIC is a work in progress; future development will respond to user feedback, in
 
 ### Time Horizon
 
-**c.scale** can accommodate time horizons of 30 or 60 years. Currently, the web application can only accommodate a 30 year time horizon. For analysis on a 60 year time horizon, [use our API](../../access-epic-via-api.md).&#x20;
+**c.scale** can accommodate time horizons of 30 or 60 years. Currently, the web application can only accommodate a 30 year time horizon. For analysis on a 60 year time horizon, [use our API](../access-epic-via-api.md).&#x20;
 
 ### Life Cycle Stages
 

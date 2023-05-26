@@ -8,16 +8,7 @@ This modal allows a user to customize the data used to calculate the current sce
 
 These quantities are entered on an area basis in units of kgCO2e/sf values. The area baseline for each quantity is as follows:
 
-| Scope                | Area Baseline             | Inputs Affecting Area Baseline                          |
-| -------------------- | ------------------------- | ------------------------------------------------------- |
-| Structure            | Total Floor Area          | Floor area                                              |
-| Envelope \| Cladding | Opaque Envelope Area      | WWR, floor-to-floor height, perimeter, and floor area.  |
-| Envelope \| Glazing  | Transparent Envelope Area | WWR, floor-to-floor height, perimeter, and floor area.  |
-| Envelope \| Roofing  | Roof Area                 | Floor area per above ground floor                       |
-| Tenant Fit Out       | Tenant Fit Out Area       | Floor area, % floor area with tenant fit out            |
-| MEP                  | Total Floor Area          | Floor area                                              |
-| Hardscape            | Hardscape Area            | Scenario hardscape area                                 |
-| A4-A5: Construction  | Total Floor Area          | Floor area                                              |
+<table><thead><tr><th width="212.33333333333331">Scope</th><th width="267">Area Baseline</th><th>Inputs Affecting Area Baseline</th></tr></thead><tbody><tr><td>Structure</td><td>Total Floor Area</td><td>Floor area </td></tr><tr><td>Envelope | Cladding</td><td>Opaque Envelope Area</td><td>WWR, floor-to-floor height, perimeter, and floor area. </td></tr><tr><td>Envelope | Glazing</td><td>Transparent Envelope Area</td><td>WWR, floor-to-floor height, perimeter, and floor area. </td></tr><tr><td>Envelope | Roofing</td><td>Roof Area</td><td>Floor area per above ground floor</td></tr><tr><td>Tenant Fit Out</td><td>Tenant Fit Out Area</td><td>Floor area, % floor area with tenant fit out</td></tr><tr><td>MEP</td><td>Total Floor Area</td><td>Floor area</td></tr><tr><td>Hardscape</td><td>Hardscape Area</td><td>Scenario hardscape area</td></tr><tr><td>A4-A5: Construction</td><td>Total Floor Area</td><td>Floor area</td></tr></tbody></table>
 
 
 

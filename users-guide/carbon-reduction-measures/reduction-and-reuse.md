@@ -52,7 +52,7 @@ Specification of a structural system other than the system modeled in the base c
 
 ### Concrete specification
 
-The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../epic-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
+The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
 * **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
 * **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
@@ -60,7 +60,7 @@ The specification of concrete with lower embodied carbon emissions. Choices are 
 
 ### Steel specification
 
-The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../epic-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
+The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
 * **Conservative.** GWP in the 80th percentile of nationally available steel. Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.&#x20;
 * **Best practices.** GWP in the 50th percentile of nationally available steel. Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification. &#x20;
@@ -68,7 +68,7 @@ The specification of structural steel, steel deck, and reinforcing bar with lowe
 
 ### Timber specification
 
-The specification of lumber, plywood/OSB, and engineered timber elements with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../epic-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
+The specification of lumber, plywood/OSB, and engineered timber elements with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
 * **Conservative.** GWP in the 80th percentile of nationally available timber. The highest GWP forest products may come from value chains where fossil gas is used for process heat at the mill, forestry and nursery practices require high levels of chemical inputs, forestry practices utilize intensive short-rotation harvest regimes, and transportation is over long distances by truck.
 * **Best practices.** GWP in the 50th percentile of nationally available timber. Lowering the GWP of wood products can be achieved by using wood waste instead of natural gas for process heat at the mill, limiting chemical inputs such as fertilizer, practicing forestry that increases or at minimum maintains forest carbon stocks over time and provides protection for older forests, and transportation by efficient means such as rail.
@@ -76,7 +76,7 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 ### Responsibly sourced timber
 
-In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to our methodology for [stored and avoided carbon](../../epic-data-model/methodology/stored-avoided-carbon.md) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
+In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to our methodology for [stored and avoided carbon](../../c.scale-tm-data-model/methodology/stored-avoided-carbon.md) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
 
 In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list below is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage:&#x20;
 
