@@ -26,6 +26,9 @@ Turning off this toggle will remove carbon stored in timber structural elements,
 
 ### Assemblies
 
+**Structure and Foundations**\
+Structure and Foundations are always included. &#x20;
+
 **Envelope**\
 Turning off this toggle will remove cladding, glazing, and roofing from the EPIC model, disabling the "Envelope Specification" and "Envelope Refurbishment Period" measures in the Reduce Emissions page.&#x20;
 
