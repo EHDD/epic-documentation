@@ -24,7 +24,7 @@ EPIC is a work in progress; future development will respond to user feedback, in
 
 ### Life Cycle Stages
 
-**c.scale** integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C3-C4) are assessed during the product phase (see appendix [Biogenic Carbon](broken-reference)).
+**c.scale** integrates data from life cycle stages (sometimes called "life cycle modules") A1-A5, B2-B6, and C2-C4. These correspond to the impacts of the materials used in the project, emissions from  construction, their replacement over time, and the project’s operational energy use. When biogenic carbon is counted, some end-of-life impacts (from modules C2-C4) are assessed during the product phase (see appendix [Biogenic Carbon](broken-reference)). End-of-life (C2-C4) emissions for structure are only assessed when a 60 year time horizon is selected. &#x20;
 
 <figure><img src="../../.gitbook/assets/EPIC - Included LIfe Cycle Stages.png" alt=""><figcaption><p>Highlighted stages are included in the c.scale model.</p></figcaption></figure>
 
