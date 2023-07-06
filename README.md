@@ -1,5 +1,5 @@
 ---
-description: A free tool for whole life carbon assessment of buildings
+description: EPIC is a free tool for whole life carbon assessment of buildings
 layout:
   title:
     visible: true
