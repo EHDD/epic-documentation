@@ -1,5 +1,16 @@
 ---
 description: This version of the EPIC's documentation is deprecated
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # \[Archive] EPIC v1 Documentation
