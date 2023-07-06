@@ -15,8 +15,8 @@ layout:
 
 # \[Archive] EPIC v1 Documentation
 
-<mark style="background-color:red;">**This version of the user's guide is deprecated.**</mark> \
-<mark style="background-color:red;">**Access the current documentation at**</mark> [<mark style="background-color:red;">**https://epic-docs.dev.**</mark>](https://epic-docs.dev)
+<mark style="background-color:yellow;">**This version of the user's guide is deprecated.**</mark> \
+<mark style="background-color:yellow;">**Access the current documentation at**</mark> [<mark style="background-color:yellow;">**https://epic-docs.dev.**</mark>](https://epic-docs.dev)
 
 The Early Phase Integrated Carbon (EPIC) assessment is a whole life carbon tool built by EHDD to support climate-positive design decisions in early project phases when data is scarce but the potential for emissions reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.&#x20;
 
