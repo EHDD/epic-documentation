@@ -1,5 +1,5 @@
 ---
-description: EPIC Public Beta v2.0.0
+description: EPIC Public Beta v2.0.1
 ---
 
 # 📍 Get Started with EPIC
