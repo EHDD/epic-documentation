@@ -49,3 +49,5 @@ The c.scale data model © 2023 EHDD
 **September 29th, 2022** - v1.0.2 Bug fix in emissions from greenfield development; changed all mentions of "carbon sequestration" to "carbon storage."
 
 **April 10, 2023** - v2.0.0. Connect EPIC web application with the updated API. Significant changes to data, methodology, and user interface.&#x20;
+
+**July 5, 2023** - v2.0.1. Correct error where excluding site and landscaping prevented calculation of carbon storage in timber structural systems. Update validation on "number of floors" to prevent unrealistic entry.
