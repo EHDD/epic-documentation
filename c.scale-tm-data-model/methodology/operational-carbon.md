@@ -6,11 +6,11 @@ The overview of how c.scale calculated operational carbon is detailed on the [mo
 
 EPIC uses energy use intensity (EUI) in kBtu/sf/yr as its metric for energy use in buildings. EPIC is designed to give accurate feedback on the carbon emissions associated with a declared energy use, but is not an energy modeling tool for determining how a declared energy use can be achieved.
 
-Baseline EUIs are set in c.scale using a direct API connection with Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/), with a failover to a subset of cached Zero Tool results. Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum EUI, enter a custom value in the "Benchmark EUI" [override](../../users-guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
+Baseline EUIs are set in c.scale using a direct API connection with Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/), with a failover to a subset of cached Zero Tool results. Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum EUI, enter a custom value in the "Benchmark EUI" [override](../../epic-web-application/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
 
 ### Fuel Mix
 
-Benchmark buildings are assumed to be "mixed fuel," using energy from both electricity and onsite combustion. The fuel mix of buildings is calculated to align with assumptions in Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/). Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum fossil fuel use, enter a custom value in the "% Onsite Fossil Fuel Combustion" [override](../../users-guide/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
+Benchmark buildings are assumed to be "mixed fuel," using energy from both electricity and onsite combustion. The fuel mix of buildings is calculated to align with assumptions in Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/). Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum fossil fuel use, enter a custom value in the "% Onsite Fossil Fuel Combustion" [override](../../epic-web-application/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
 
 c.scale assumes a 2.4% upstream leakage rate for all fossil fuel combusted in a building. The carbon intensity of this leakage is calculated with characterization factors from the IPCC's AR6.&#x20;
 
@@ -48,5 +48,5 @@ c.scale evaluates energy use on an annual basis. The carbon emissions from elect
 
 c.scale calculates energy generation from onsite solar photovoltaic arrays using an API connection to Version 8 of NREL's [PVWatts](https://pvwatts.nrel.gov/) tool. This energy is assumed to displace an equivalent amount of energy demand from the electrical grid and, by doing so, displace a corresponding quantity of emissions (calculated using the Cambium data detailed above).&#x20;
 
-The  array area returned by the c.scale is the total area of the array (i.e., inclusive of the space between the panels). The ratio of solar panels to total array area is the Ground Coverage Ratio (GCR). This ratio can be adjusted in the [Overrides](../../users-guide/base-case/overrides.md#solar-ground-coverage-ratio) panel of the Base Case tab.&#x20;
+The  array area returned by the c.scale is the total area of the array (i.e., inclusive of the space between the panels). The ratio of solar panels to total array area is the Ground Coverage Ratio (GCR). This ratio can be adjusted in the [Overrides](../../epic-web-application/base-case/overrides.md#solar-ground-coverage-ratio) panel of the Base Case tab.&#x20;
 
