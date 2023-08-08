@@ -32,6 +32,6 @@ Hovering over a bar gives the summary of emissions in that year. This is useful 
 
 This chart breaks down the contributions to embodied carbon emissions by category. This figure represents the total cumulative emissions associated with the project scenario after 30 years.
 
-When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular scope or for the project as a whole.&#x20;
+When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular scope or for the project as a whole.
 
 ![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01.png>)
