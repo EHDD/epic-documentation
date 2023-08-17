@@ -48,7 +48,7 @@ The base case structural system selected from the choices below:
 
 **Primary Use**
 
-The use category from the list below most reflective of the project’s main use. This is used to determine the building's energy use and its structural requirements.
+The use category from the list below most reflective of the project’s main use. This is used to determine the building's energy use and its structural requirements.&#x20;
 
 **Secondary Use**
 
@@ -58,31 +58,31 @@ If the primary use comprises less than 100% of the program, a secondary program 
 
 <summary>Use Categories included in EPIC</summary>
 
-* Aquarium
-* Convention Center
-* Distribution Center
-* Dormitory
-* Fitness Center
-* Hospital
-* Hotel
-* K-12 School
-* Laboratory
-* Library
-* Medical Clinic
-* Multifamily Housing
-* Museum Office
-* Performing Arts
-* Post Office
-* Pre-school / Day Care
-* Restaurant
-* Retail Store
-* Senior Care Facility
+* Aquarium&#x20;
+* Convention Center&#x20;
+* Distribution Center&#x20;
+* Dormitory&#x20;
+* Fitness Center&#x20;
+* Hospital&#x20;
+* Hotel&#x20;
+* K-12 School&#x20;
+* Laboratory&#x20;
+* Library&#x20;
+* Medical Clinic&#x20;
+* Multifamily Housing&#x20;
+* Museum Office&#x20;
+* Performing Arts&#x20;
+* Post Office&#x20;
+* Pre-school / Day Care&#x20;
+* Restaurant&#x20;
+* Retail Store&#x20;
+* Senior Care Facility&#x20;
 * ~~Single Family Home~~ _<mark style="color:green;">(only available via API)</mark>_
-* Stadium
-* Transit Station
-* University/College
-* Worship Facility
-* Warehouse
+* Stadium&#x20;
+* Transit Station&#x20;
+* University/College&#x20;
+* Worship Facility&#x20;
+* Warehouse&#x20;
 * Zoo
 
 </details>
@@ -107,7 +107,7 @@ The area, in square feet, of the average belowground floor. The floor is always 
 
 ### Site and Landscaping
 
-**Previously developed site?**
+**Previously developed site?**&#x20;
 
 If the site is not previously developed, it is a greenfield site and the project incurs an emissions penalty for the site disturbance. The magnitude of this penalty is equivalent to the site area’s sequestration potential with low-sequestration plantings.
 
@@ -117,4 +117,4 @@ The total site area (building and landscaping). To accommodate the base case bui
 
 **Planted Area**
 
-The planted area located outside the building's footprint. This input cannot be less than the site area less the average aboveground floor area. All unplanted area is assumed to be hardscape.
+The planted area located outside the building's footprint. This input cannot be less than the site area less the average aboveground floor area. All unplanted area is assumed to be hardscape.&#x20;

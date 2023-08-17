@@ -6,7 +6,7 @@ Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that
 
 ### **Reduction in building area**
 
-A reduction to the overall floor area, distributed evenly across the building's floors. Typically, this can be achieved on projects by maximizing use of existing assets and through clever program design.
+A reduction to the overall floor area, distributed evenly across the building's floors. Typically, this can be achieved on projects by maximizing use of existing assets and through clever program design.&#x20;
 
 ### Building structure reuse
 
@@ -24,7 +24,7 @@ The reuse of glazing units for a given percentage of the building’s total enve
 
 ### New primary structural system
 
-Specification of a structural system other than the system modeled in the base case. Note that this is not strictly a carbon _reduction_ measure, as the substitution of some structural systems with some others can lead to an increase in embodied emissions.
+Specification of a structural system other than the system modeled in the base case. Note that this is not strictly a carbon _reduction_ measure, as the substitution of some structural systems with some others can lead to an increase in embodied emissions.&#x20;
 
 <details>
 
@@ -54,17 +54,17 @@ Specification of a structural system other than the system modeled in the base c
 
 The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
-* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.
-* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.
-* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.
+* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
+* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.&#x20;
 
 ### Steel specification
 
 The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
-* **Conservative.** GWP in the 80th percentile of nationally available steel. Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.
-* **Best practices.** GWP in the 50th percentile of nationally available steel. Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification.
-* **Low-carbon.** GWP in the 20th percentile of nationally available steel. Steel from electric arc furnaces powered with renewable energy sources, potentially with biomass reductants, with high-recycled content, and structural design to minimize overspecification and maximize reusability.
+* **Conservative.** GWP in the 80th percentile of nationally available steel. Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.&#x20;
+* **Best practices.** GWP in the 50th percentile of nationally available steel. Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification. &#x20;
+* **Low-carbon.** GWP in the 20th percentile of nationally available steel. Steel from electric arc furnaces powered with renewable energy sources, potentially with biomass reductants, with high-recycled content, and structural design to minimize overspecification and maximize reusability.&#x20;
 
 ### Timber specification
 
@@ -78,7 +78,7 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to our methodology for [stored and avoided carbon](../../c.scale-tm-data-model/methodology/stored-avoided-carbon.md) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
 
-In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list below is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage:
+In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list below is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage:&#x20;
 
 * **Transparency and traceability in the supply chain (required)**. Claims can be made about the environmental attributes of timber are impossible to verify without transparency and traceability in the supply chain. This means that a project team should be able to identify:
   1. The source forest(s) or supply area(s)
@@ -111,9 +111,9 @@ The specification of the fittings, furniture, and fixtures required for the use 
 
 The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details. The three options for this measure and their general description:
 
-* **Conservative.** 80th percentile of GWP for hardscape.
-* **Best practices.** 50th percentile of GWP for hardscape.
-* **Low-carbon.** 20th percentile of GWP for hardscape.
+* **Conservative.** 80th percentile of GWP for hardscape.&#x20;
+* **Best practices.** 50th percentile of GWP for hardscape.&#x20;
+* **Low-carbon.** 20th percentile of GWP for hardscape.&#x20;
 
 ### Envelope refurbishment period
 
@@ -163,8 +163,8 @@ The purchase of clean power through Direct Ownership, Green Retail Tariffs, Powe
 Some operational emissions (20%) will persist after the clean power purchase to account for the real emissions that are still generated on an electrical grid with both intermittent renewable and carbon-emitting energy sources. There are three options for this measure:
 
 * **None.** No purchase of clean power or RECs.
-* **Low: 50% of electricity purchased from clean sources.** Purchase of clean power to cover 50% of building energy use.
-* **High: 100% of electricity purchased from clean sources.** Purchase of clean power to cover 100% of building energy use.
+* **Low: 50% of electricity purchased from clean sources.** Purchase of clean power to cover 50% of building energy use.&#x20;
+* **High: 100% of electricity purchased from clean sources.** Purchase of clean power to cover 100% of building energy use.&#x20;
 * **24/7 Clean: 100% time-matched clean power purchase**. Time matched purchase of zero-carbon power to ensure that building emissions are totally offset. Because they are not time-matched, the clean power purchase is not subject to the 20% discounting.
 
 ## Site and Landscape
@@ -173,7 +173,7 @@ This set of measures describes potential carbon storage in the landscape as well
 
 ### Convert hardscape area to planted area
 
-Converts hardscape area to planted area, up to the maximum of site area less building footprint.
+Converts hardscape area to planted area, up to the maximum of site area less building footprint.&#x20;
 
 ### Carbon Storing Landscape
 
@@ -190,7 +190,8 @@ The percentage of roof area planted.
 
 ### Planted roof specification
 
-There are two levels of specification available in EPIC for green roofs.
+There are two levels of specification available in EPIC for green roofs.&#x20;
 
 * **Low Carbon Storage (extensive).** An extensive green roof has a thin layer of soil that can only support shallowly rooted plants. An example of an extensive green roof is sedum mat or low turfgrass.
 * **High Carbon Storage (intensive).** An intensive green roof has a deeper layer of soil that can support plants such as larger perennial grasses and small shrubs.
+
