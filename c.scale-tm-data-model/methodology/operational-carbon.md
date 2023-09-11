@@ -1,6 +1,6 @@
 # Operational Carbon
 
-The overview of how c.scale calculated operational carbon is detailed on the [model structure](model-structure.md#calculating-operational-carbon) page. Below, we give additional detail about how c.scale calculates emissions from all the sources contributing to a proejct's operational carbon.
+The overview of how c.scale calculated operational carbon is detailed on the [model structure](model-structure.md#calculating-operational-carbon) page. Below, we give additional detail about how c.scale calculates emissions from all the sources contributing to a project's operational carbon.
 
 ### Energy Use
 
