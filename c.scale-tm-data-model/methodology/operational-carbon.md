@@ -10,7 +10,7 @@ Baseline EUIs are set in c.scale using a direct API connection with Architecture
 
 ### Fuel Mix
 
-Benchmark buildings are assumed to be "mixed fuel," using energy from both electricity and onsite combustion. The fuel mix of buildings is calculated to align with assumptions in Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/). Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum fossil fuel use, enter a custom value in the "% Onsite Fossil Fuel Combustion" [override](../../epic-web-application/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
+Benchmark buildings are assumed to be "mixed fuel," using energy from both electricity and onsite combustion. All onsite combustion is assumed to be natural gas. The fuel mix of buildings is calculated to align with assumptions in Architecture 2030's [Zero Tool](https://zerotool.org/zerotool/). Zero Tool estimates are used to set baselines for AIA 2030 reporting, but should not be construed as representing "code minimum" design. To set a code minimum fossil fuel use, enter a custom value in the "% Onsite Fossil Fuel Combustion" [override](../../epic-web-application/base-case/overrides.md) in EPIC's Base Case tab.&#x20;
 
 c.scale assumes a 2.4% upstream leakage rate for all fossil fuel combusted in a building. The carbon intensity of this leakage is calculated with characterization factors from the IPCC's AR6.&#x20;
 
