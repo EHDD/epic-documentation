@@ -275,13 +275,13 @@ The reduction of the building’s EUI by any of a number of strategies.
 
 ### Solar photovoltaic (PV) array
 
-The construction of a solar PV array on the project site. The size of this array can be input in three forms:
+The addition of a solar PV array on the project site. The size of this array can be input in three forms:
 
 * **Area.** The solar PV area size is input by its total area in square feet.
 * **Capacity.** The solar PV area size is input by its nameplate capacity in kW.
 * **% of load.** The solar PV area size is calculated to account for the input percentage of building energy load.
 
-### Solar PV orientation
+#### Solar PV orientation
 
 The ability of solar PV arrays to produce electricity is related to their geometry and siting. Not all projects sites, such as partially shaded sites, will have an optimal solar orientation. This toggle has two options:
 
@@ -292,26 +292,53 @@ The ability of solar PV arrays to produce electricity is related to their geomet
 
 The purchase of clean power through Direct Ownership, Green Retail Tariffs, Power Purchase Agreements (PPAs), Community Renewables or Utility Renewable Contracts (the five categories of renewables for which credit can be claimed in AIA 2030 commitment reporting) equivalent to the selected percentage of total energy use. _The purchase of unbundled RECs should not be counted as a clean power purchase in EPIC._
 
-Some operational emissions (20%) will persist after the clean power purchase to account for the real emissions that are still generated on an electrical grid with both intermittent renewable and carbon-emitting energy sources. There are three options for this measure:
+<details>
+
+<summary>Clean Power Purchase Options</summary>
 
 * **None.** No purchase of clean power or RECs.
-* **Low: 50% of electricity purchased from clean sources.** Purchase of clean power to cover 50% of building energy use.&#x20;
-* **High: 100% of electricity purchased from clean sources.** Purchase of clean power to cover 100% of building energy use.&#x20;
-* **24/7 Clean: 100% time-matched clean power purchase**. Time matched purchase of zero-carbon power to ensure that building emissions are totally offset. Because they are not time-matched, the clean power purchase is not subject to the 20% discounting.
+
+<!---->
+
+* **Low: 50% of electricity purchased from clean sources.** Purchase of clean power to cover 50% of building energy use. This option assumes that these RECs are not time-matched, and discounts their effectiveness by 20% as they don't follow patterns of emissions on the electrical grid.&#x20;
+
+<!---->
+
+* **High: 100% of electricity purchased from clean sources.** Purchase of clean power to cover 100% of building energy use. This option assumes that these RECs are not time-matched, and discounts their effectiveness by 20% as they don't follow patterns of emissions on the electrical grid.&#x20;
+
+<!---->
+
+* **24/7 Clean: 100% time-matched clean power purchase**. Time matched purchase of zero-carbon power to ensure that building emissions are totally offset. Because they are time-matched, this option is not discounted.&#x20;
+
+</details>
 
 ## Refrigerant Emissions
 
-_\*\*\*coming soon\*\*\*_
+#### Refrigerant Charge
+
+The reduction of the total quantity of refrigerants used in the buildings HVAC+R system.&#x20;
+
+<table><thead><tr><th width="469">Specification Level</th><th>kg refrigerants per 1000 sf</th></tr></thead><tbody><tr><td>Conservative</td><td>8.36</td></tr><tr><td>Best Practices </td><td>4.66</td></tr><tr><td>Low Carbon</td><td>1.86</td></tr></tbody></table>
+
+#### Refrigerant Specification
+
+The  average global warming potential (GWP) of refrigerants used in the buildings HVAC+R system.
+
+| Specification Level | Reference Refrigerant(s) | GWP Value |
+| ------------------- | ------------------------ | --------- |
+| Standard            | 60% R-410a; 40% R-134    | **1675**  |
+| Lower Carbon        | R-513                    | **573**   |
+| Lowest Carbon       | R-123                    | **79**    |
 
 ## Site and Landscape
 
 This set of measures describes potential carbon storage in the landscape as well as annual emissions associated with the landscape's upkeep.
 
-### Convert hardscape area to planted area
+#### Convert hardscape area to planted area
 
 Converts hardscape area to planted area, up to the maximum of site area less building footprint.&#x20;
 
-### Carbon Storing Landscape
+#### Carbon Storing Landscape
 
 Definition of the proportion of total planted area that is low, moderate, or high carbon storage.
 
@@ -320,11 +347,11 @@ Definition of the proportion of total planted area that is low, moderate, or hig
 
 ## Planted Roof
 
-### Planted roof area
+#### Planted roof area
 
 The percentage of roof area planted.
 
-### Planted roof specification
+#### Planted roof specification
 
 There are two levels of specification available in EPIC for green roofs.&#x20;
 
