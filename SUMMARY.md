@@ -18,7 +18,7 @@
 
 ## c.scale™ Data Model
 
-* [🏗 Methodology](c.scale-tm-data-model/methodology/README.md)
+* [🏗 The c.scale Data Model](c.scale-tm-data-model/methodology/README.md)
   * [Model Structure](c.scale-tm-data-model/methodology/model-structure.md)
   * [Embodied Carbon](c.scale-tm-data-model/methodology/embodied-carbon.md)
   * [Operational Carbon](c.scale-tm-data-model/methodology/operational-carbon.md)

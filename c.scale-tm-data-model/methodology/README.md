@@ -1,4 +1,8 @@
-# 🏗 Methodology
+---
+description: The whole life carbon model behind the EPIC tool
+---
+
+# 🏗 The c.scale Data Model
 
 
 
