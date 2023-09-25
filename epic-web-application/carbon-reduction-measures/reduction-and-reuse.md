@@ -42,13 +42,7 @@ The reuse of interior fitout materials as a percentage of the total fitout.
 
 The reuse of MEP systems as a percentage of the total system.
 
-
-
-
-
 </details>
-
-
 
 ## Embodied Carbon | Structure
 
@@ -84,9 +78,21 @@ Specification of a structural system other than the system modeled in the base c
 
 The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
+<details>
+
+<summary>Concrete specification choices</summary>
+
 * **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
+
+<!---->
+
 * **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+
+<!---->
+
 * **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+
+</details>
 
 <table><thead><tr><th width="199">Structural Material</th><th>Low Carbon</th><th width="174">Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Concrete, 3-4 kSI</strong></td><td><em>Location-specific</em></td><td><em>Location-specific</em></td><td><em>Location-specific</em></td></tr><tr><td><strong>Concrete, 5-6 kSI</strong></td><td><em>Location-specific</em></td><td><em>Location-specific</em></td><td><em>Location-specific</em></td></tr><tr><td><strong>Concrete, 7-10 kSI</strong></td><td>0.16 kgCO2e/kg</td><td>0.18 kgCO2e/kg</td><td>0.19 kgCO2e/kg</td></tr></tbody></table>
 
