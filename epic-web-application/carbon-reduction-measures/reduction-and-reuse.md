@@ -171,57 +171,97 @@ In EPIC, we identify three criteria contributing to the claim that wood products
 
 ### Envelope specification
 
-The specification of the roofing, glazing, and opaque envelope assemblies. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options. The three options for this measure and their general description:
+The specification of the roofing, glazing, and opaque envelope assemblies. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options.&#x20;
+
+<details>
+
+<summary>Envelope Specification Options</summary>
 
 * **Conservative.** 80th percentile of GWP for envelope assemblies. Standard materials and assemblies, no effort made to lower carbon emissions.
+
+<!---->
+
 * **Best practices.** 50th percentile of GWP for envelope assemblies. Reduce redundancies and select low-carbon materials with high levels of recycled content.
+
+<!---->
+
 * **Low-carbon.** 20th percentile of GWP for envelope assemblies. Maximize biogenic materials, innovate efficient assemblies, and reduce material use.
 
-| Envelope Assembly                                                       | Low Carbon     | Best Practices | Conservative   |
-| ----------------------------------------------------------------------- | -------------- | -------------- | -------------- |
-| <p><strong>Cladding</strong> <br><strong>(opaque envelope)</strong></p> | 3.0 kgCO2e/sf  | 8.8 kgCO2e/sf  | 14.3 kgCO2e/sf |
-| **Glazing (transparent envelope)**                                      | 11.4 kgCO2e/sf | 13.6 kgCO2e/sf | 19.0 kgCO2e/sf |
-| **Roofing**                                                             | 5.3 kgCO2e/sf  | 7.7 kgCO2e/sf  | 14.0 kgCO2e/sf |
+</details>
+
+<table><thead><tr><th width="203">Envelope Assembly</th><th>Low Carbon</th><th>Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Cladding</strong> <br><strong>(opaque envelope)</strong></td><td>3.0 kgCO2e/sf</td><td>8.8 kgCO2e/sf</td><td>14.3 kgCO2e/sf</td></tr><tr><td><strong>Glazing (transparent envelope)</strong></td><td>11.4 kgCO2e/sf</td><td>13.6 kgCO2e/sf</td><td>19.0 kgCO2e/sf</td></tr><tr><td><strong>Roofing</strong></td><td>5.3 kgCO2e/sf</td><td>7.7 kgCO2e/sf</td><td>14.0 kgCO2e/sf</td></tr></tbody></table>
+
+#### Envelope refurbishment period
+
+The length of time over which a majority of the exterior envelope will be replaced.
 
 ### Interior Fit Out specification
 
-The specification of the fittings, furniture, and fixtures required for the use of the building by its tenants. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs. The three options for this measure and their general description:
+The specification of the fittings, furniture, and fixtures required for the use of the building by its tenants. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs.&#x20;
+
+<details>
+
+<summary>Interior Fit Out Specification Options</summary>
 
 * **Conservative.** 80th percentile of GWP for interior fitouts. Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.
+
+<!---->
+
 * **Best practices.** 50th percentile of GWP for interior fitouts. Address "hot spots" (flooring, acoustic panels, casework, etc.).
+
+<!---->
+
 * **Low-carbon.** 20th percentile of GWP for interior fitouts. Comprehensive low-carbon design and specification of tenant fit-out.
+
+</details>
 
 | Assembly             | Low Carbon    | Best Practices | Conservative   |
 | -------------------- | ------------- | -------------- | -------------- |
 | **Interior Fit Out** | 4.0 kgCO2e/sf | 7.6 kgCO2e/sf  | 13.3 kgCO2e/sf |
 
+#### Interior fit-out refurbishment period
+
+The length of time over which a majority of the interior fit out will be replaced.
+
 ### Hardscape specification
 
-The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details. The three options for this measure and their general description:
+The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details.&#x20;
+
+<details>
+
+<summary>Hardscape Specification Options</summary>
 
 * **Conservative.** 80th percentile of GWP for hardscape assemblies.&#x20;
+
+<!---->
+
 * **Best practices.** 50th percentile of GWP for hardscape assemblies.&#x20;
+
+<!---->
+
 * **Low-carbon.** 20th percentile of GWP for hardscape assemblies.&#x20;
+
+</details>
 
 | Assembly      | Low Carbon    | Best Practices | Conservative  |
 | ------------- | ------------- | -------------- | ------------- |
 | **Hardscape** | 4.4 kgCO2e/sf | 5.9 kgCO2e/sf  | 7.2 kgCO2e/sf |
 
-### Envelope refurbishment period
-
-The length of time over which a majority of the exterior envelope will be replaced.
-
-### Interior fit-out refurbishment period
-
-The length of time over which a majority of the interior fit-out will be replaced.
-
-### MEP and PV refurbishment period
-
-The length of time over which a majority of the building systems will be replaced.
-
-### Hardscape refurbishment period
+#### Hardscape refurbishment period
 
 The length of time over which a majority of the site's hardscape will be replaced.
+
+### MEP and PV Specification
+
+Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.&#x20;
+
+Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+
+_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification. Accordingly, only a "conservative" option is available._&#x20;
+
+#### MEP and PV Refurbishment Period
+
+The length of time over which a majority of the building systems will be replaced.
 
 ## Operational Carbon
 
