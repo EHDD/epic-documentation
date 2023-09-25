@@ -104,7 +104,7 @@ Embodied carbon in mechanical systems in evaluated at two specification levelsâ€
 | 80,000 - 300,000 sf | 5.93  kgCO2e/sf      | 6.02  kgCO2e/sf  |
 | > 300,000 sf        | 4.83  kgCO2e/sf      | 6.79  kgCO2e/sf  |
 
-Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+Base case buildings in EPIC are always assumed to have a standard performance system. <mark style="background-color:yellow;">Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system.</mark> The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
 
 This parameter can be customized for a scenario in the scenario customization screen.
 
