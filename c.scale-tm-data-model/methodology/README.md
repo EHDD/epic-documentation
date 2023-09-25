@@ -1,8 +1,8 @@
 ---
-description: The whole life carbon model behind the EPIC tool
+description: The whole life carbon model behind the EPIC and other tools
 ---
 
-# 🏗 The c.scale Data Model
+# 🏗 The c.scale™ Data Model
 
 
 
