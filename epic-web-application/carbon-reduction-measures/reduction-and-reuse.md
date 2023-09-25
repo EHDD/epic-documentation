@@ -1,5 +1,7 @@
 # Carbon Reduction Input Fields
 
+##
+
 ## Sufficiency and Reuse
 
 Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that "measures and daily practices that avoid demand for energy, materials, land and water while delivering human well-being." Examples of sufficiency include building less, and reusing existing buildings instead of building new.
@@ -8,17 +10,45 @@ Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that
 
 A reduction to the overall floor area, distributed evenly across the building's floors. Typically, this can be achieved on projects by maximizing use of existing assets and through clever program design.&#x20;
 
-### Building structure reuse
+### Building Reuse
 
-The reuse of a pre-existing structural system for a given percentage of the building's floor area.
+<details>
 
-### Envelope reuse
+<summary>Building Reuse Parameters</summary>
 
-The reuse of opaque envelope for a given percentage of the building’s total envelope.
+_Note that these measure only affects upfront emissions; refurbishments are counted normally._&#x20;
 
-### Glazing reuse
+**Structure Reuse**
 
-The reuse of glazing units for a given percentage of the building’s total envelope.
+The reuse of a preexisting structural system for a given percentage of the building's floor area.
+
+**Roofing Reuse**
+
+The reuse of the roofing assembly for a given percentage of the building’s total roof area.&#x20;
+
+**Cladding Reuse**
+
+The reuse of opaque envelope for a given percentage of the building’s total envelope. Note that this measure only affects upfront emissions; refurbishments are counted normally.&#x20;
+
+**Glazing Reuse**
+
+The reuse of transparency envelope for a given percentage of the building’s total envelope. Note that this measure only affects upfront emissions; refurbishments are counted normally.&#x20;
+
+**Fitout Reuse**
+
+The reuse of interior fitout materials as a percentage of the total fitout.
+
+**MEP Reuse**
+
+The reuse of MEP systems as a percentage of the total system.
+
+
+
+
+
+</details>
+
+
 
 ## Embodied Carbon | Structure
 
