@@ -2,7 +2,7 @@
 
 The overview of how c.scale calculated operational carbon is detailed on the [model structure](model-structure.md#calculating-operational-carbon) page. Below, we give additional detail about how c.scale calculates emissions from all the sources contributing to a project's operational carbon.
 
-### Energy Use
+## Energy Use
 
 EPIC uses energy use intensity (EUI) in kBtu/sf/yr as its metric for energy use in buildings. EPIC is designed to give accurate feedback on the carbon emissions associated with a declared energy use, but is not an energy modeling tool for determining how a declared energy use can be achieved.
 
@@ -44,9 +44,44 @@ c.scale evaluates energy use on an annual basis. The carbon emissions from elect
 
 <figure><img src="../../.gitbook/assets/EPIC - LRMER and AER.png" alt=""><figcaption><p>Carbon emissions from electricity demand from 2023-2110 for two metrics and three scenarios.</p></figcaption></figure>
 
-### Energy Generation from Onsite Renewables
+## Energy Generation from Onsite Renewables
 
 c.scale calculates energy generation from onsite solar photovoltaic arrays using an API connection to Version 8 of NREL's [PVWatts](https://pvwatts.nrel.gov/) tool. This energy is assumed to displace an equivalent amount of energy demand from the electrical grid and, by doing so, displace a corresponding quantity of emissions (calculated using the Cambium data detailed above).&#x20;
 
 The  array area returned by the c.scale is the total area of the array (i.e., inclusive of the space between the panels). The ratio of solar panels to total array area is the Ground Coverage Ratio (GCR). This ratio can be adjusted in the [Overrides](../../epic-web-application/base-case/overrides.md#solar-ground-coverage-ratio) panel of the Base Case tab.&#x20;
+
+## Refrigerant Emissions
+
+In c.scale, fugitive emissions from refrigerant leakage are categorized as operational emissions. They are counted in life cycle stage B1.&#x20;
+
+For each year of operation, emissions from refrigerant leakage are calculated as:
+
+$$Emissions_{\text{annual}} = (\text{ref charge}) \cdot (\text{ref leakage rate}_{\text{annual}}) \cdot (\text{ref GWP})$$
+
+For each year where MEP systems are replaced/refurbished (denoted in EPIC as the “refurbishment period”), emissions from refrigerant leakage are calculated as:
+
+$$Emissions_{\text{EoL}} = (\text{ref charge}) \cdot (\text{ref leakage rate}_{\text{EoL}} + \text{leakage rate}_{\text{annual}}) \cdot (\text{ref GWP})$$
+
+### Estimating Total Refrigerant Charge
+
+Estimates of total building refrigerant charge are based on data in Barbara Rodriguez’s dissertation entitled "Embodied Carbon of Heating, Ventilation, Air Conditioning and Refrigerants (HVAC+R) Systems." These data are collected from a sample of 20 LEED-certified buildings in the Pacific Northwest region of the United States.
+
+### Refrigerant Leakage Rates
+
+Annual and end-of-life refrigerant leakage rates are typically a model assumption, not a carbon reduction measures. In c.scale, there are two options for leakage assumptions.&#x20;
+
+| Reporting Scheme    | Annual Leakage | End-of-Life Leakage |
+| ------------------- | -------------- | ------------------- |
+| LEED                | 2%             | 10%                 |
+| CIBSE TM65 (Type 2) | 4%             | 2%                  |
+
+### Refrigerant GWP
+
+&#x20;Throughout c.scale, three options are given for specification-related options: Conservative, Best Practices, and Low Carbon. Typically, these refer to the 20th, 50th, and 80th percentile of GWP values for available materials. We were unable to replicate this methodology for refrigerants, though, as the overall distribution of refrigerants skews very high–and this highly skewed distribution doesn’t represent the choices designers are making on their projects. In the refrigerant model, these three choices are keyed to specific refrigerants as follows:
+
+| Specification Level | Reference Refrigerant(s) | GWP Value |
+| ------------------- | ------------------------ | --------- |
+| Standard            | 60% R-410a; 40% R-134    | **1675**  |
+| Lower Carbon        | R-513                    | **573**   |
+| Lowest Carbon       | R-123                    | **79**    |
 
