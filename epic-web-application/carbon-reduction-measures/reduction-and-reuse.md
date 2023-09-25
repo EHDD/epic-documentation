@@ -100,9 +100,21 @@ The specification of concrete with lower embodied carbon emissions. Choices are 
 
 The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
-* **Conservative.** GWP in the 80th percentile of nationally available steel. Typical steel with a typical recycled content, from a mix of blast and electric arc furnaces.&#x20;
-* **Best practices.** GWP in the 50th percentile of nationally available steel. Steel from electric arc furnaces or blast furnaces with gas recovery, with high recycled content, and structural design to minimize overspecification. &#x20;
-* **Low-carbon.** GWP in the 20th percentile of nationally available steel. Steel from electric arc furnaces powered with renewable energy sources, potentially with biomass reductants, with high-recycled content, and structural design to minimize overspecification and maximize reusability.&#x20;
+<details>
+
+<summary>Steel Specification Choices</summary>
+
+* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
+
+<!---->
+
+* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+
+<!---->
+
+* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+
+</details>
 
 <table><thead><tr><th width="199">Structural Material</th><th>Low Carbon</th><th width="174">Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Reinforcing Steel</strong></td><td>0.9 kgCO2e/kg</td><td>1.1 kgCO2e/kg</td><td>0.16 kgCO2e/kg</td></tr><tr><td><strong>Structural Steel</strong></td><td>0.9 kgCO2e/kg</td><td>1.1 kgCO2e/kg</td><td>1.2 kgCO2e/kg</td></tr><tr><td><strong>Steel Deck</strong></td><td>1.7 kgCO2e/kg</td><td>2.2 kgCO2e/kg</td><td>2.4 kgCO2e/kg</td></tr></tbody></table>
 
@@ -110,9 +122,21 @@ The specification of structural steel, steel deck, and reinforcing bar with lowe
 
 The specification of lumber, plywood/OSB, and engineered timber elements with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](../../c.scale-tm-data-model/methodology/embodied-carbon.md#carbon-intensities-of-structural-materials). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
+<details>
+
+<summary>Timber Specification Choices</summary>
+
 * **Conservative.** GWP in the 80th percentile of nationally available timber. The highest GWP forest products may come from value chains where fossil gas is used for process heat at the mill, forestry and nursery practices require high levels of chemical inputs, forestry practices utilize intensive short-rotation harvest regimes, and transportation is over long distances by truck.
+
+<!---->
+
 * **Best practices.** GWP in the 50th percentile of nationally available timber. Lowering the GWP of wood products can be achieved by using wood waste instead of natural gas for process heat at the mill, limiting chemical inputs such as fertilizer, practicing forestry that increases or at minimum maintains forest carbon stocks over time and provides protection for older forests, and transportation by efficient means such as rail.
+
+<!---->
+
 * **Low-carbon.** GWP in the 20th percentile of locally available timber . Wood products with the lowest GWP may come from value chains where wood waste is reused to make durable goods, electricity or biomass is used for process heat where possible, chemical inputs such as fertilizer are mostly avoided, climate-smart forestry practices increase forest carbon stocks over time and promotes the growth of complex older forest conditions, and the forest is near the mill and construction sites.
+
+</details>
 
 <table><thead><tr><th width="199">Structural Material</th><th>Low Carbon</th><th width="174">Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Lumber</strong></td><td>0.09 kgCO2e/kg</td><td>0.16 kgCO2e/kg</td><td>0.21 kgCO2e/kg</td></tr><tr><td><strong>Plywood/OSB</strong></td><td>0.36 kgCO2e/kg</td><td>0.51 kgCO2e/kg</td><td>0.73 kgCO2e/kg</td></tr><tr><td><strong>Engineered Wood</strong> </td><td>0.19 kgCO2e/kg</td><td>0.25 kgCO2e/kg</td><td>0.36 kgCO2e/kg</td></tr></tbody></table>
 
@@ -120,7 +144,11 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to our methodology for [stored and avoided carbon](../../c.scale-tm-data-model/methodology/stored-avoided-carbon.md) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
 
-In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list below is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage:&#x20;
+In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage.
+
+<details>
+
+<summary>Criteria for "responsibly sourced timber"</summary>
 
 * **Transparency and traceability in the supply chain (required)**. Claims can be made about the environmental attributes of timber are impossible to verify without transparency and traceability in the supply chain. This means that a project team should be able to identify:
   1. The source forest(s) or supply area(s)
@@ -128,8 +156,16 @@ In EPIC, we identify three criteria contributing to the claim that wood products
   2. The primary manufacturer mill(s)
      * _E.g., sawmill, veneer mill, chip mill, etc._
   3. The fabrication shop (for engineered timber).
+
+<!---->
+
 * **Increasing forest carbon stocks (optional)**. Carbon storage in wood products can only be claimed if the carbon stock of the source forest is maintained or increasing. This means that the forest area is managed and regenerates in a way that either preserves or increases the average level of carbon stored in vegetation and soils, or that high conservation value or high carbon stock forests are not replaced by less ecological valuable and carbon rich production forests.
+
+<!---->
+
 * **Certified, recycled, or reclaimed wood (optional)**. The use of recycled or reclaimed wood prolongs its storage of carbon and can displace the use of virgin timber. Certification by the Forest Stewardship Council (FSC) ensures that sound forestry, audit, and reporting practices are used.
+
+</details>
 
 ## Embodied Carbon | Assemblies <a href="#embodied-carbon-measures-nonstructure" id="embodied-carbon-measures-nonstructure"></a>
 
