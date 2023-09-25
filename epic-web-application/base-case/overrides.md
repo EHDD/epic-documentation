@@ -45,7 +45,14 @@ For a given scenario, there are multiple methods to account for the emissions as
 * **Average Emission Rate (AER)**. By default, EPIC measures annual emission factors by summing the total generation of all resources in a given year and putting them on a MWh basis. This average emission rate also includes 'precombustion emissions from the leakage of fossil gas in the energy supply chain. This metric is described in NREL's Cambium model as "AER Load: Combustion + Precombustion."&#x20;
 * **Long-Run Marginal Emission Rates (LRMER)**. LRMER emissions are described by NREL as emission rates for “of the next unit of electricity considering the grid’s structure as variable.” This emission metric is preferable to a simple average emission rate because buildings are long-lived assets whose demand for energy has a marginal influence on the evolution of the energy grid. This metric is described in NREL's Cambium model as "LRMER: Combustion + Precombustion."&#x20;
 
-####
+#### Refrigerant Leakage
+
+Annual and end-of-life refrigerant leakage rates are typically a model assumption, not a carbon reduction measures. In c.scale, there are two options for leakage assumptions.&#x20;
+
+| Reporting Scheme    | Annual Leakage | End-of-Life Leakage |
+| ------------------- | -------------- | ------------------- |
+| LEED                | 2%             | 10%                 |
+| CIBSE TM65 (Type 2) | 4%             | 2%                  |
 
 #### Percent conditioned area
 
