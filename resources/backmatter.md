@@ -53,3 +53,5 @@ The c.scale data model © 2023 EHDD
 **July 11, 2023** - v2.0.1. Correct error where excluding site and landscaping prevented calculation of carbon storage in timber structural systems. Correct error where greenfield development emissions were appearing in some scenarios even when "previously developed sites" was selected in the base case. Update validation on "number of floors" to prevent unrealistic entry.&#x20;
 
 **September 14, 2023** - v2.0.2. Updates to the estimation model for structural quantities. Miscellaneous backend performance updates. Minor UI updates.&#x20;
+
+**September 25, 2023** - v2.0.3. Addition of fugitive emissions from refrigerants to the c.scale model.&#x20;
