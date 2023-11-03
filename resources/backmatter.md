@@ -22,11 +22,11 @@ Lalyn Yu
 
 ## **Peer Review and Feedback**
 
-Iterations of **c.scale** have been reviewed in whole or part by colleagues at [MKA](https://www.mka.com/), [Carbon Leadership Forum](https://carbonleadershipforum.org/), and others. Thank you to Jamy Bacchus, Ted Tiffany, Kayleigh Houde, and Peter Alsbach for their careful review of early versions of out refrigerant emissions data and methodology.&#x20;
+Iterations of **c.scale** have been reviewed in whole or part by colleagues at [MKA](https://www.mka.com/), [Carbon Leadership Forum](https://carbonleadershipforum.org/), and others. Thank you to Jamy Bacchus, Ted Tiffany, Kayleigh Houde, and Peter Alsbach for their careful review of early versions of out refrigerant emissions data and methodology.
 
 The project team owes a heartfelt thanks to the group of over 80 firms that participated in our initial closed beta, the input of whom was essential to EPIC's early development, and the countless users who have since offered feedback, critique, and unique use cases.
 
-Despite this review, errors may persist. If you are interested in providing additional review and have the expertise to do so, [please reach out](mailto:epic@ehdd.com?subject=Review).&#x20;
+Despite this review, errors may persist. If you are interested in providing additional review and have the expertise to do so, [please reach out](mailto:epic@ehdd.com?subject=Review).
 
 ## Contact
 
@@ -48,10 +48,10 @@ The c.scale data model © 2023 EHDD
 
 **September 29th, 2022** - v1.0.2 Bug fix in emissions from greenfield development; changed all mentions of "carbon sequestration" to "carbon storage."
 
-**April 10, 2023** - v2.0.0. Connect EPIC web application with the updated API. Significant changes to data, methodology, and user interface.&#x20;
+**April 10, 2023** - v2.0.0. Connect EPIC web application with the updated API. Significant changes to data, methodology, and user interface.
 
-**July 11, 2023** - v2.0.1. Correct error where excluding site and landscaping prevented calculation of carbon storage in timber structural systems. Correct error where greenfield development emissions were appearing in some scenarios even when "previously developed sites" was selected in the base case. Update validation on "number of floors" to prevent unrealistic entry.&#x20;
+**July 11, 2023** - v2.0.1. Correct error where excluding site and landscaping prevented calculation of carbon storage in timber structural systems. Correct error where greenfield development emissions were appearing in some scenarios even when "previously developed sites" was selected in the base case. Update validation on "number of floors" to prevent unrealistic entry.
 
-**September 14, 2023** - v2.0.2. Updates to the estimation model for structural quantities. Miscellaneous backend performance updates. Minor UI updates.&#x20;
+**September 14, 2023** - v2.0.2. Updates to the estimation model for structural quantities. Miscellaneous backend performance updates. Minor UI updates.
 
-**September 25, 2023** - v2.0.3. Addition of fugitive emissions from refrigerants to the c.scale model.&#x20;
+**September 25, 2023** - v2.0.3. Addition of fugitive emissions from refrigerants to the c.scale model. Additional model overrides are publicly accessible.&#x20;

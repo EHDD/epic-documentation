@@ -8,7 +8,7 @@ Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that
 
 ### **Reduction in building area**
 
-A reduction to the overall floor area, distributed evenly across the building's floors. Typically, this can be achieved on projects by maximizing use of existing assets and through clever program design.&#x20;
+A reduction to the overall floor area, distributed evenly across the building's floors. Typically, this can be achieved on projects by maximizing use of existing assets and through clever program design.
 
 ### Building Reuse
 
@@ -16,7 +16,7 @@ A reduction to the overall floor area, distributed evenly across the building's 
 
 <summary>Building Reuse Parameters</summary>
 
-_Note that these measure only affects upfront emissions; refurbishments are counted normally._&#x20;
+_Note that these measure only affects upfront emissions; refurbishments are counted normally._
 
 **Structure Reuse**
 
@@ -24,15 +24,15 @@ The reuse of a preexisting structural system for a given percentage of the build
 
 **Roofing Reuse**
 
-The reuse of the roofing assembly for a given percentage of the building’s total roof area.&#x20;
+The reuse of the roofing assembly for a given percentage of the building’s total roof area.
 
 **Cladding Reuse**
 
-The reuse of opaque envelope for a given percentage of the building’s total envelope. Note that this measure only affects upfront emissions; refurbishments are counted normally.&#x20;
+The reuse of opaque envelope for a given percentage of the building’s total envelope. Note that this measure only affects upfront emissions; refurbishments are counted normally.
 
 **Glazing Reuse**
 
-The reuse of transparency envelope for a given percentage of the building’s total envelope. Note that this measure only affects upfront emissions; refurbishments are counted normally.&#x20;
+The reuse of transparency envelope for a given percentage of the building’s total envelope. Note that this measure only affects upfront emissions; refurbishments are counted normally.
 
 **Fitout Reuse**
 
@@ -48,13 +48,13 @@ The reuse of MEP systems as a percentage of the total system.
 
 ### New primary structural system
 
-Specification of a structural system other than the system modeled in the base case. Note that this is not strictly a carbon _reduction_ measure, as the substitution of some structural systems with some others can lead to an increase in embodied emissions.&#x20;
+Specification of a structural system other than the system modeled in the base case. Note that this is not strictly a carbon _reduction_ measure, as the substitution of some structural systems with some others can lead to an increase in embodied emissions.
 
 <details>
 
 <summary>Structural Systems included in EPIC</summary>
 
-* _Composite_ s_teel frame_. A structural system comprised of steel columns, beams, and girders connected with rigid or pin joints. Floors are steel decking with a concrete topping slab.&#x20;
+* _Composite_ s\_teel frame\_. A structural system comprised of steel columns, beams, and girders connected with rigid or pin joints. Floors are steel decking with a concrete topping slab.
 
 <!---->
 
@@ -82,15 +82,15 @@ The specification of concrete with lower embodied carbon emissions. Choices are 
 
 <summary>Concrete specification choices</summary>
 
-* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
+* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.
 
 <!---->
 
-* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.
 
 <!---->
 
-* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.
 
 </details>
 
@@ -104,15 +104,15 @@ The specification of structural steel, steel deck, and reinforcing bar with lowe
 
 <summary>Steel Specification Choices</summary>
 
-* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.&#x20;
+* **Conservative.** GWP in the 80th percentile of locally available concrete. Typical concrete mix, no effort made to lower carbon emissions.
 
 <!---->
 
-* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+* **Best practices.** GWP in the 50th percentile of locally available concrete. Concrete with 30-50% replacement of cement by supplementary cementitious materials (SCM) and careful sizing of concrete structural elements to reduce overspecification.
 
 <!---->
 
-* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.&#x20;
+* **Low-carbon.** GWP in the 20th percentile of locally available concrete. Concrete with >50% replacement of cement by SCM, lower carbon aggregate, and careful sizing of concrete structural elements to reduce overspecification.
 
 </details>
 
@@ -138,7 +138,7 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 </details>
 
-<table><thead><tr><th width="199">Structural Material</th><th>Low Carbon</th><th width="174">Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Lumber</strong></td><td>0.09 kgCO2e/kg</td><td>0.16 kgCO2e/kg</td><td>0.21 kgCO2e/kg</td></tr><tr><td><strong>Plywood/OSB</strong></td><td>0.36 kgCO2e/kg</td><td>0.51 kgCO2e/kg</td><td>0.73 kgCO2e/kg</td></tr><tr><td><strong>Engineered Wood</strong> </td><td>0.19 kgCO2e/kg</td><td>0.25 kgCO2e/kg</td><td>0.36 kgCO2e/kg</td></tr></tbody></table>
+<table><thead><tr><th width="199">Structural Material</th><th>Low Carbon</th><th width="174">Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Lumber</strong></td><td>0.09 kgCO2e/kg</td><td>0.16 kgCO2e/kg</td><td>0.21 kgCO2e/kg</td></tr><tr><td><strong>Plywood/OSB</strong></td><td>0.36 kgCO2e/kg</td><td>0.51 kgCO2e/kg</td><td>0.73 kgCO2e/kg</td></tr><tr><td><strong>Engineered Wood</strong></td><td>0.19 kgCO2e/kg</td><td>0.25 kgCO2e/kg</td><td>0.36 kgCO2e/kg</td></tr></tbody></table>
 
 ### Responsibly sourced timber
 
@@ -171,7 +171,7 @@ In EPIC, we identify three criteria contributing to the claim that wood products
 
 ### Envelope specification
 
-The specification of the roofing, glazing, and opaque envelope assemblies. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options.&#x20;
+The specification of the roofing, glazing, and opaque envelope assemblies. These specification levels do not describe specific assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all envelope options.
 
 <details>
 
@@ -189,7 +189,7 @@ The specification of the roofing, glazing, and opaque envelope assemblies. These
 
 </details>
 
-<table><thead><tr><th width="203">Envelope Assembly</th><th>Low Carbon</th><th>Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Cladding</strong> <br><strong>(opaque envelope)</strong></td><td>3.0 kgCO2e/sf</td><td>8.8 kgCO2e/sf</td><td>14.3 kgCO2e/sf</td></tr><tr><td><strong>Glazing (transparent envelope)</strong></td><td>11.4 kgCO2e/sf</td><td>13.6 kgCO2e/sf</td><td>19.0 kgCO2e/sf</td></tr><tr><td><strong>Roofing</strong></td><td>5.3 kgCO2e/sf</td><td>7.7 kgCO2e/sf</td><td>14.0 kgCO2e/sf</td></tr></tbody></table>
+<table><thead><tr><th width="203">Envelope Assembly</th><th>Low Carbon</th><th>Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Cladding</strong><br><strong>(opaque envelope)</strong></td><td>3.0 kgCO2e/sf</td><td>8.8 kgCO2e/sf</td><td>14.3 kgCO2e/sf</td></tr><tr><td><strong>Glazing (transparent envelope)</strong></td><td>11.4 kgCO2e/sf</td><td>13.6 kgCO2e/sf</td><td>19.0 kgCO2e/sf</td></tr><tr><td><strong>Roofing</strong></td><td>5.3 kgCO2e/sf</td><td>7.7 kgCO2e/sf</td><td>14.0 kgCO2e/sf</td></tr></tbody></table>
 
 #### Envelope refurbishment period
 
@@ -197,7 +197,7 @@ The length of time over which a majority of the exterior envelope will be replac
 
 ### Interior Fit Out specification
 
-The specification of the fittings, furniture, and fixtures required for the use of the building by its tenants. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs.&#x20;
+The specification of the fittings, furniture, and fixtures required for the use of the building by its tenants. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs.
 
 <details>
 
@@ -225,21 +225,21 @@ The length of time over which a majority of the interior fit out will be replace
 
 ### Hardscape specification
 
-The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details.&#x20;
+The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details.
 
 <details>
 
 <summary>Hardscape Specification Options</summary>
 
-* **Conservative.** 80th percentile of GWP for hardscape assemblies.&#x20;
+* **Conservative.** 80th percentile of GWP for hardscape assemblies.
 
 <!---->
 
-* **Best practices.** 50th percentile of GWP for hardscape assemblies.&#x20;
+* **Best practices.** 50th percentile of GWP for hardscape assemblies.
 
 <!---->
 
-* **Low-carbon.** 20th percentile of GWP for hardscape assemblies.&#x20;
+* **Low-carbon.** 20th percentile of GWP for hardscape assemblies.
 
 </details>
 
@@ -253,11 +253,11 @@ The length of time over which a majority of the site's hardscape will be replace
 
 ### MEP and PV Specification
 
-Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.&#x20;
+Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.
 
-Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.
 
-_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification. Accordingly, only a "conservative" option is available._&#x20;
+_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification. Accordingly, only a "conservative" option is available._
 
 #### MEP and PV Refurbishment Period
 
@@ -300,15 +300,15 @@ The purchase of clean power through Direct Ownership, Green Retail Tariffs, Powe
 
 <!---->
 
-* **Low: 50% of electricity purchased from clean sources.** Purchase of clean power to cover 50% of building energy use. This option assumes that these RECs are not time-matched, and discounts their effectiveness by 20% as they don't follow patterns of emissions on the electrical grid.&#x20;
+* **Low: 50% of electricity purchased from clean sources.** Purchase of clean power to cover 50% of building energy use. This option assumes that these RECs are not time-matched, and discounts their effectiveness by 20% as they don't follow patterns of emissions on the electrical grid.
 
 <!---->
 
-* **High: 100% of electricity purchased from clean sources.** Purchase of clean power to cover 100% of building energy use. This option assumes that these RECs are not time-matched, and discounts their effectiveness by 20% as they don't follow patterns of emissions on the electrical grid.&#x20;
+* **High: 100% of electricity purchased from clean sources.** Purchase of clean power to cover 100% of building energy use. This option assumes that these RECs are not time-matched, and discounts their effectiveness by 20% as they don't follow patterns of emissions on the electrical grid.
 
 <!---->
 
-* **24/7 Clean: 100% time-matched clean power purchase**. Time matched purchase of zero-carbon power to ensure that building emissions are totally offset. Because they are time-matched, this option is not discounted.&#x20;
+* **24/7 Clean: 100% time-matched clean power purchase**. Time matched purchase of zero-carbon power to ensure that building emissions are totally offset. Because they are time-matched, this option is not discounted.
 
 </details>
 
@@ -316,13 +316,13 @@ The purchase of clean power through Direct Ownership, Green Retail Tariffs, Powe
 
 #### Refrigerant Charge
 
-The reduction of the total quantity of refrigerants used in the buildings HVAC+R system.&#x20;
+The reduction of the total quantity of refrigerants used in the buildings HVAC+R system.
 
-<table><thead><tr><th width="469">Specification Level</th><th>kg refrigerants per 1000 sf</th></tr></thead><tbody><tr><td>Conservative</td><td>8.36</td></tr><tr><td>Best Practices </td><td>4.66</td></tr><tr><td>Low Carbon</td><td>1.86</td></tr></tbody></table>
+<table><thead><tr><th width="458.38266068759344">Specification Level</th><th>kg refrigerants per 1000 sf</th></tr></thead><tbody><tr><td>Conservative</td><td>8.36</td></tr><tr><td>Best Practices</td><td>4.66</td></tr><tr><td>Low Carbon</td><td>1.86</td></tr></tbody></table>
 
 #### Refrigerant Specification
 
-The  average global warming potential (GWP) of refrigerants used in the buildings HVAC+R system.
+The average global warming potential (GWP) of refrigerants used in the buildings HVAC+R system.
 
 | Specification Level | Reference Refrigerant(s) | GWP Value |
 | ------------------- | ------------------------ | --------- |
@@ -336,7 +336,7 @@ This set of measures describes potential carbon storage in the landscape as well
 
 #### Convert hardscape area to planted area
 
-Converts hardscape area to planted area, up to the maximum of site area less building footprint.&#x20;
+Converts hardscape area to planted area, up to the maximum of site area less building footprint.
 
 #### Carbon Storing Landscape
 
@@ -353,8 +353,7 @@ The percentage of roof area planted.
 
 #### Planted roof specification
 
-There are two levels of specification available in EPIC for green roofs.&#x20;
+There are two levels of specification available in EPIC for green roofs.
 
 * **Low Carbon Storage (extensive).** An extensive green roof has a thin layer of soil that can only support shallowly rooted plants. An example of an extensive green roof is sedum mat or low turfgrass.
 * **High Carbon Storage (intensive).** An intensive green roof has a deeper layer of soil that can support plants such as larger perennial grasses and small shrubs.
-
