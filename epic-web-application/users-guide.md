@@ -20,7 +20,7 @@ In EPIC, the basic workflow is:
 
 ### The c.scale data model
 
-EPIC is powered by the [**c.scale** data model](https://www.epic-docs.dev/c.scale-data-model/methodology).
+EPIC is powered by the [**c.scale** data model](https://cscale.io).
 
 ### Get in touch!
 
