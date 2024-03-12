@@ -18,12 +18,12 @@
 
 ## c.scale™ Data Model
 
-* [🏗 The C.Scale™ Data Model](https://docs.cscale.io)
+* [🏗️ The C.Scale™ Data Model](https://docs.cscale.io)
 * [📡 Access EPIC via API](https://www.cscale.io/)
 
 ## Resources
 
 * [📃 Backmatter](resources/backmatter.md)
-* [🗞 Additional Resources](resources/additional-resources.md)
+* [🗞️ Additional Resources](resources/additional-resources.md)
 * [📬 Mailing List](http://eepurl.com/h2AQkP)
 * [🌐 EPIC Web App](http://epic.ehdd.com)

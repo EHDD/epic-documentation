@@ -1,5 +1,5 @@
 ---
-description: EPIC Public Beta v2.0.3
+description: EPIC v2.0.4
 ---
 
 # What is EPIC?
