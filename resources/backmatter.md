@@ -55,3 +55,5 @@ The c.scale data model © 2023 EHDD
 **September 14, 2023** - v2.0.2. Updates to the estimation model for structural quantities. Miscellaneous backend performance updates. Minor UI updates.&#x20;
 
 **September 25, 2023** - v2.0.3. Addition of fugitive emissions from refrigerants to the c.scale model.&#x20;
+
+**March 15, 2024** - v.2.0.4. 60 year analysis, update to Cambium 2023 data, launch landing page.
