@@ -56,4 +56,6 @@ The c.scale data model © 2023 EHDD
 
 **September 25, 2023** - v2.0.3. Addition of fugitive emissions from refrigerants to the c.scale model.&#x20;
 
-**March 15, 2024** - v.2.0.4. 60 year analysis, update to Cambium 2023 data, launch landing page.
+**March 15, 2024** - v.2.1.0. 60 year analysis, update to Cambium 2023 data, launch landing page.
+
+**March 21, 2024** - v.2.1.1. Various bug fixes.
