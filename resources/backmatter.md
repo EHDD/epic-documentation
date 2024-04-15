@@ -59,3 +59,5 @@ The c.scale data model © 2023 EHDD
 **March 15, 2024** - v.2.1.0. 60 year analysis, update to Cambium 2023 data, launch landing page.
 
 **March 21, 2024** - v.2.1.1. Various bug fixes.
+
+April 4, 2024 - v.2.1.2. Break out operational carbon emissions to three categories (fossil fuel, electricity, and refrigerants).&#x20;

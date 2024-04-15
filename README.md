@@ -1,5 +1,5 @@
 ---
-description: EPIC v2.1.1
+description: EPIC v2.1.2
 ---
 
 # What is EPIC?
