@@ -1,7 +1,5 @@
 # Carbon Reduction Input Fields
 
-##
-
 ## Sufficiency and Reuse
 
 Sufficiency strategies are, as defined by the [IPCC](https://www.ipcc.ch/), that "measures and daily practices that avoid demand for energy, materials, land and water while delivering human well-being." Examples of sufficiency include building less, and reusing existing buildings instead of building new.
