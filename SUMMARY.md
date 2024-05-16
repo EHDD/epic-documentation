@@ -14,7 +14,7 @@
   * [Save, Load, and Delete Scenarios](epic-web-application/carbon-reduction-measures/scenarios.md)
 * [3. Compare Scenarios](epic-web-application/scenario-comparison.md)
 * [🔓 Data Privacy Statement](epic-web-application/data-confidentiality-statement.md)
-* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=zNagzkOVnRg)
+* [📺 Watch a Tutorial](https://www.youtube.com/watch?v=WAN5Nc6zsB4)
 
 ## c.scale™ Data Model
 
