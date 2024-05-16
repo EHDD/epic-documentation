@@ -18,10 +18,10 @@ In EPIC, the basic workflow is:
 * A **Base Case** is a scenario for a project where no attempts have been made to reduce carbon emissions. To define a base case, EPIC makes a set of "business as usual" assumptions based on user inputs. When EPIC's "business as usual" assumptions are not appropriate, they can be overridden in the [overrides](https://www.epic-docs.dev/epic-web-application/users-guide/base-case/overrides) menu in the base case tab.
 * A **Scenario** is a set of strategies to lower a project's carbon emissions. Scenarios are constructed individually in the [Reduce Emissions](https://www.epic-docs.dev/epic-web-application/guide/carbon-reduction-measures) tab and compared against one another in the [Compare Scenarios](https://www.epic-docs.dev/epic-web-application/guide/compare-scenarios) tab.
 
-### The c.scale data model
+### The C.Scale data model
 
-EPIC is powered by the [**c.scale** data model](https://cscale.io).
+EPIC is powered by the [C.Scale](https://www.cscale.io) data model.
 
 ### Get in touch!
 
-If you'd like to offer feedback on EPIC, c.scale, or the documentation, please [**get in touch**](https://forms.gle/eHYvfeqQGbfK6EQy8)**.**
+If you'd like to offer feedback on EPIC, C.Scale, or the documentation, please [**get in touch**](https://forms.gle/eHYvfeqQGbfK6EQy8)**.**
