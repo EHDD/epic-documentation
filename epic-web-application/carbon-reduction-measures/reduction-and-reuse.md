@@ -76,7 +76,7 @@ Specification of a structural system other than the system modeled in the base c
 
 ### Concrete specification
 
-The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](broken-reference). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
+The specification of concrete with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in [C.Scale's whole life carbon methodology](https://docs.cscale.io/the-c.scale-tm-data-model/embodied-carbon). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
 <details>
 
@@ -98,7 +98,7 @@ The specification of concrete with lower embodied carbon emissions. Choices are 
 
 ### Steel specification
 
-The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](broken-reference). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
+The specification of structural steel, steel deck, and reinforcing bar with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is described in [C.Scale's whole life carbon methodology](https://docs.cscale.io/the-c.scale-tm-data-model/embodied-carbon). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
 <details>
 
@@ -120,7 +120,7 @@ The specification of structural steel, steel deck, and reinforcing bar with lowe
 
 ### Timber specification
 
-The specification of lumber, plywood/OSB, and engineered timber elements with lower embodied carbon emissions. Choices are described in narrative form below, and the underlying data is listed in the [embodied carbon methodology](broken-reference). Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
+The specification of lumber, plywood/OSB, and engineered timber elements with lower embodied carbon emissions. Choices are described in narrative form below. Narrative descriptions are approximate; there are many options that can yield similar carbon intensities.
 
 <details>
 
@@ -142,7 +142,7 @@ The specification of lumber, plywood/OSB, and engineered timber elements with lo
 
 ### Responsibly sourced timber
 
-In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to our methodology for [stored and avoided carbon](broken-reference) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
+In accordance with ISO 21930, the carbon content of biogenic materials can only be counted as carbon-storing if the timber comes from a forest managed with sustainable practices. An example of this is timber from an FSC-certified forest. For more information, please refer to C.Scale methodology for [stored and avoided carbon emissions](https://docs.cscale.io/the-c.scale-tm-data-model/embodied-carbon/stored-avoided-carbon) or the procurement guidance from the [Climate Smart Wood Group](https://www.climatesmartwood.net/procurement/).
 
 In EPIC, we identify three criteria contributing to the claim that wood products are responsibly sourced. While EPIC does not prevent the user from counting the carbon storage benefits on other terms (as the list is nonexhaustive), we recommend meeting at least two out of the three criteria below in order to claim climate benefits from carbon storage.
 
