@@ -12,7 +12,7 @@ Fill in the required information and click **Create**.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="310"><figcaption><p>In a few simple steps, create a new project. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="310"><figcaption><p>In a few simple steps, create a new project. </p></figcaption></figure>
 
 </div>
 

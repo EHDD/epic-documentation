@@ -49,10 +49,10 @@ Within the menu, click **Set as Baseline** to tag another scenario as the refere
 
 The baseline scenario can be analyzed using the following charts:
 
-* Over Time
-* Scope Categories
-* LCA Stages
-* Summary
+* [Over Time](../carbon-reduction-measures/analyzing-scenarios.md#over-time-chart)
+* [Scope Categories](../carbon-reduction-measures/analyzing-scenarios.md#scope-categories-chart)
+* [LCA Stages](../carbon-reduction-measures/analyzing-scenarios.md#lca-stages-chart)
+* [Summary](../carbon-reduction-measures/analyzing-scenarios.md#summary-chart)
 
 ### Comparing Against the Baseline
 

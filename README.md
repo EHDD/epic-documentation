@@ -8,7 +8,7 @@ The Early Phase Integrated Carbon (EPIC) assessment is a free whole life carbon 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption><p>EPIC, the Early Phase Integrated Carbon assessment.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>EPIC, the Early Phase Integrated Carbon assessment.</p></figcaption></figure>
 
 </div>
 

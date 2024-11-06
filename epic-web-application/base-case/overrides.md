@@ -10,17 +10,7 @@ If the EUI required for a project will be significantly different from Zero Tool
 
 The percentage of building energy use resulting from the combustion of fossil fuel at the building site. Default values via Zero Tool.&#x20;
 
-#### Perimeter
 
-The user-declared perimeter of the building. In the absence of a user input, EPIC assumes the building is an extruded square.
-
-#### Window-to-wall ratio (WWR)
-
-The ratio of windows to total wall area. The default value is .45.
-
-#### Floor-to-floor height
-
-The vertical distance between building floors in feet. The default value is 13’.
 
 #### Interior fit-out percentage
 

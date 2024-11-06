@@ -9,6 +9,7 @@
 * [2️⃣ Set a Baseline](epic-web-application/base-case/README.md)
 * [3️⃣ Reduce Emissions](epic-web-application/carbon-reduction-measures/README.md)
   * [Carbon Reduction Measures](epic-web-application/carbon-reduction-measures/reduction-and-reuse.md)
+  * [Analyzing Scenarios](epic-web-application/carbon-reduction-measures/analyzing-scenarios.md)
   * [Refine Data](epic-web-application/carbon-reduction-measures/customize-scenario.md)
   * [Save, Load, and Delete Scenarios](epic-web-application/carbon-reduction-measures/scenarios.md)
   * [Overrides](epic-web-application/base-case/overrides.md)
