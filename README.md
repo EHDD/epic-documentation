@@ -2,9 +2,17 @@
 description: EPIC v2.1.2
 ---
 
-# 🚀 What is EPIC?
+# What is EPIC?
 
-The Early Phase Integrated Carbon (EPIC) assessment is a free whole life carbon tool built by EHDD to support climate-positive design decisions in early project phases when data is scarce but the potential for emissions reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.
+The Early Phase Integrated Carbon (EPIC) assessment is a free whole life carbon tool built by EHDD to support climate-positive design decisions in early project phases when data is scarce but the potential for emissions reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.&#x20;
+
+<div align="center">
+
+<figure><img src=".gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+The Early Phase Integrated Carbon (EPIC) assessment is a whole life carbon tool built by C.Scale to support climate-positive design decisions in early project phases when data is scarce but the potential for emissions reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.&#x20;
 
 Aggressive time-based targets have been set for the built environment as part of a society-wide strategy to combat the climate crisis. To meet these targets, quantification of the project’s whole life carbon footprint cannot wait until later project stages, at which point many impactful decisions have already been made. EPIC is designed as the first step in an iterative low-carbon design process, setting out strategies and project-level targets that can be refined throughout the project lifecycle.
 

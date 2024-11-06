@@ -1,11 +1,11 @@
-# 1. Define a Base Case
+# 2. Set a Baseline
 
-EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a base case building. The base case building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The base case provides a means of comparison for evaluating carbon reduction measures.&#x20;
+EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a baseline building. The baseline building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The baseline provides a means of comparison for evaluating carbon reduction measures.&#x20;
 
-* The base case in EPIC is always new construction.&#x20;
-* In many municipalities, code requirements (e.g. California’s Title 24 energy codes) will mean that the EPIC base case is not equivalent to a code baseline.&#x20;
+* The baseline in EPIC can be configured as both new construction and renovation.&#x20;
+* In many municipalities, code requirements (e.g. California’s Title 24 energy codes) will mean that the out-of-the-box EPIC baseline is not equivalent to a code baseline. However, baselines can be refined to align with code using the right-hand panel.&#x20;
 * Option in the [Overrides](overrides.md) panel can adjust EPIC's internal assumptions to better match the model to a particular project. Any overrides to these will be applied to the base case and all scenarios in the project.
-* Options in the [Refine Scope](refine-project-scope.md) panel can include or exclude parts of the EPIC model to match your desired scope of analysis. This selected scope will be applied to the base case and all scenarios in the project.
+* Options in the [Refine Scope](broken-reference) panel can include or exclude parts of the EPIC model to match your desired scope of analysis. This selected scope will be applied to the base case and all scenarios in the project.
 
 When the required forms in the  base case form is filled, click the "Save Base Case" button at the bottom of the form to save the base case and generate the base case figure and table.
 
@@ -19,7 +19,7 @@ The base case is summarized with a donut chart showing the proportion of embodie
 
 **Total Emissions**. The sum of carbon emissions (in metric tons CO2e) from the project across the reference period.&#x20;
 
-**Embodied Emissions**. The sum of all emissions (in metric tons CO2e) within the [project scope](refine-project-scope.md) from material inputs, construction process, material replacement, maintenance, and (where applicable) end-of-life.
+**Embodied Emissions**. The sum of all emissions (in metric tons CO2e) within the [project scope](broken-reference) from material inputs, construction process, material replacement, maintenance, and (where applicable) end-of-life.
 
 **Operational Emissions**. The sum of all emissions (in metric tons CO2e) across the reference period from onsite combustion, electricity use, and fossil fuel leakage in mixed-fuel buildings.
 
@@ -27,6 +27,6 @@ The base case is summarized with a donut chart showing the proportion of embodie
 
 **Energy Use Intensity (EUI)**. Base case energy use by the building per square foot per year. If the you have not entered a benchmark EUI, the EUI is estimated via [ZeroTool](https://zerotool.org/).&#x20;
 
-**Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](refine-project-scope.md).
+**Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](broken-reference).
 
 <figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>
