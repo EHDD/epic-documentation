@@ -4,17 +4,11 @@
 
 The following project settings are applied to the baseline and all scenarios within the project. To be comparable, all scenarios must have the same underlying assumptions. Click **All Project Settings** in the left-hand panel of the project page to refine the project.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="174"><figcaption></figcaption></figure>
-
-</div>
-
 ## Scope
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +54,7 @@ Turning off this toggle will remove all site and landscaping from the EPIC model
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +74,7 @@ Modify the project's year of completion.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,7 +90,7 @@ Modify the project's postal code.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,7 +106,7 @@ Select a secondary use and set the use proportion for the project.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -136,7 +130,7 @@ Specify the project's total below ground constructed floor area.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -148,11 +142,11 @@ Specify the project's total site area, including the building footprint.&#x20;
 
 Specify if the site is a previously developed (brown field) site. If this is not selected, EPIC assumes the site is a greenfield site. &#x20;
 
-## Electrcity Grid
+## Electricity Grid
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -175,7 +169,7 @@ For a given scenario, there are multiple methods to account for the emissions as
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

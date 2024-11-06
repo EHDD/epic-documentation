@@ -6,9 +6,9 @@ description: EPIC v2.1.2
 
 The Early Phase Integrated Carbon (EPIC) assessment is a free whole life carbon tool built by EHDD to support climate-positive design decisions in early project phases when data is scarce but the potential for emissions reduction is high. To overcome the scarcity of data, EPIC uses a model that combines regionally-specific background data, forward-looking projections, peer-reviewed findings, and common sense assumptions to assess the relative impact of a variety of carbon reduction measures on a project’s embodied, operational, and landscape carbon footprints.&#x20;
 
-<div align="center">
+<div align="left">
 
-<figure><img src=".gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,11 @@ Aggressive time-based targets have been set for the built environment as part of
 
 EPIC is designed to allow a user to enter a strict minimum of project parameters and to test a wide range of the most meaningful carbon reduction strategies. These parameters are insufficient, of course, to describe the complexity of any real project. In rough terms, EPIC is designed as a conceptual parallel to ‘shoebox’ energy or daylight models—the results do not correspond directly to a specific building but can help us to understand which strategies could perform well, are unlikely to succeed, or are worthy of more attention.
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/EPIC whole life carbon - early phase design.png" alt=""><figcaption><p>The most impactful decisions happen at the beginning of a project, before granular data is available.</p></figcaption></figure>
+
+</div>
 
 _EPIC is not a high-resolution wbLCA tool_.
 
