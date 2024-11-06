@@ -9,7 +9,7 @@ EPIC assesses the efficacy of carbon reduction measures in relative terms as a r
 
 ### Refining the Baseline
 
-In the left-hand panel, select the scenario tagged "Baseline".
+In the left-hand panel, **select the scenario tagged "Baseline"**.
 
 <div align="left">
 
@@ -17,7 +17,7 @@ In the left-hand panel, select the scenario tagged "Baseline".
 
 </div>
 
-After selecting the baseline scenario in the left-hand panel, the following warning will be displayed in the right-hand panel as a reminder that you are editing the baseline, which serves as the reference for all other scenarios.
+After selecting the baseline scenario in the left-hand panel, the following warning will be displayed in the right-hand panel. The warning serves as a reminder that you are editing the baseline, which is used as the reference for all other scenarios.
 
 <div align="left">
 
@@ -25,40 +25,38 @@ After selecting the baseline scenario in the left-hand panel, the following warn
 
 </div>
 
-Using the right hand panel, the baseline can be refined using the [Carbon Reduction Input Fields](../carbon-reduction-measures/reduction-and-reuse.md).&#x20;
+The baseline can be refined using the [**Carbon Reduction Measures**](../carbon-reduction-measures/reduction-and-reuse.md) in the right-hand panel.&#x20;
+
+### Setting Another Scenario as the Baseline
+
+Any scenario within the project can be tagged as the baseline, and serve as the reference point for the project. To tag another scenario as the baseline, click the **3-dot menu** to the right of the scenario name in the left-hand panel.&#x20;
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="399"><figcaption><p>Click the 3-dot menu to set another scenario as the baseline.</p></figcaption></figure>
+
+</div>
+
+Within the menu, click **Set as Baseline** to tag another scenario as the reference for comparison.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="182"><figcaption><p>Set any scenario as the baseline.</p></figcaption></figure>
+
+</div>
 
 ### Analyzing the Baseline
 
 The baseline scenario can be analyzed using the following charts:
 
-* This Scenario - Over Time
-* This Scenario - Scope Categories
-* This Scenario - LCA Stages
-* This Scenario - Summary
+* Over Time
+* Scope Categories
+* LCA Stages
+* Summary
 
 ### Comparing Against the Baseline
 
 The baseline scenario can be compared with other scenarios using the following charts:
 
-* Compare Scenarios - Over Time
-* Compare Scenarios - Summary
-
-### <mark style="background-color:red;">DELETE:</mark>
-
-### Base Case Chart
-
-The base case is summarized with a donut chart showing the proportion of embodied, operational, and stored carbon emissions over the reference period.
-
-**Total Emissions**. The sum of carbon emissions (in metric tons CO2e) from the project across the reference period.&#x20;
-
-**Embodied Emissions**. The sum of all emissions (in metric tons CO2e) within the [project scope](broken-reference) from material inputs, construction process, material replacement, maintenance, and (where applicable) end-of-life.
-
-**Operational Emissions**. The sum of all emissions (in metric tons CO2e) across the reference period from onsite combustion, electricity use, and fossil fuel leakage in mixed-fuel buildings.
-
-**Carbon Storage**. Carbon stored in mature and maintained landscaping on the project site.
-
-**Energy Use Intensity (EUI)**. Base case energy use by the building per square foot per year. If the you have not entered a benchmark EUI, the EUI is estimated via [ZeroTool](https://zerotool.org/).&#x20;
-
-**Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](broken-reference).
-
-<figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>
+* Over Time
+* Summary

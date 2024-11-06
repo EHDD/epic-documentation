@@ -1,8 +1,8 @@
 # All Project Settings
 
-**Project characteristics defined at the project level**
+The following settings are applied at project-level, meaning they are applied to the baseline and all scenarios within the project. This is done so that all scenarios, including the baseline, have the same underlying assumptions and can thus be comparable.&#x20;
 
-The following project settings are applied to the baseline and all scenarios within the project. To be comparable, all scenarios must have the same underlying assumptions. Click **All Project Settings** in the left-hand panel of the project page to refine the project.
+To refine the project, click **All Project Settings** in the left-hand panel.
 
 ## Scope
 
