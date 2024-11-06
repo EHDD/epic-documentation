@@ -1,4 +1,4 @@
-# 1. Create a Project
+# 1️⃣ Create a Project
 
 From the dashboard, begin by clicking the **+ New Project** button.&#x20;
 

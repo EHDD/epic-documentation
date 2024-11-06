@@ -13,7 +13,7 @@ In the left-hand panel, select the scenario tagged "Baseline".
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="563"><figcaption><p>Baseline scenario selected in the left-hand panel.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt="" width="563"><figcaption><p>Baseline scenario selected in the left-hand panel.</p></figcaption></figure>
 
 </div>
 
@@ -21,11 +21,11 @@ After selecting the baseline scenario in the left-hand panel, the following warn
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt="" width="394"><figcaption><p>Warning that the baseline is being edited.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="394"><figcaption><p>Warning that the baseline is being edited.</p></figcaption></figure>
 
 </div>
 
-Using the right hand panel, the baseline can be refined using the [Carbon Reduction Input Fields](../carbon-reduction-measures/reduction-and-reuse.md).&#x20;
+Using the right hand panel, the baseline can be refined using the [Carbon Reduction Input Fields](carbon-reduction-measures/reduction-and-reuse.md).&#x20;
 
 ### Analyzing the Baseline
 
@@ -43,7 +43,7 @@ The baseline scenario can be compared with other scenarios using the following c
 * Compare Scenarios - Over Time
 * Compare Scenarios - Summary
 
-### DELETE:
+### <mark style="background-color:red;">DELETE:</mark>
 
 ### Base Case Chart
 
@@ -61,4 +61,4 @@ The base case is summarized with a donut chart showing the proportion of embodie
 
 **Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](broken-reference).
 
-<figure><img src="../../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Base Case Chart.png" alt=""><figcaption><p>The base case donut chart and a tabular summary of the project's base case.</p></figcaption></figure>

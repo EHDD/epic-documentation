@@ -64,11 +64,13 @@ Modify the unit system for the project's calculations.&#x20;
 
 ### Project Name
 
-Modify the project's name.
+Select a name for your project.
+
+**Project Location**
 
 ### Year of Project Completion
 
-Modify the project's year of completion.
+The year that construction is completed and building operation begins. This is the year to which construction emissions are attributed and the EPIC model begins calculating operational carbon emissions.
 
 ## Location
 
@@ -80,11 +82,11 @@ Modify the project's year of completion.
 
 ### Country
 
-A project's country cannot be changed after creating a project. &#x20;
+The country in which the project is located. Note: a project's country cannot be modified after creating a project. &#x20;
 
 ### Postal Code
 
-Modify the project's postal code.
+The postal code in which the project is located.
 
 ## Use
 
@@ -96,11 +98,44 @@ Modify the project's postal code.
 
 ### Primary Use
 
-Modify the project's primary use.&#x20;
+The use category from the list below most reflective of the project’s main use. This is used to determine the building's energy use and its structural requirements.&#x20;
 
 ### Secondary Use
 
-Select a secondary use and set the use proportion for the project.
+If the primary use comprises less than 100% of the program, a secondary program may be selected for the remainder. This program will affect the EUI (resulting in a ‘blended EUI’) but will not affect the estimate of the building’s structural system.
+
+<details>
+
+<summary>Use Categories included in EPIC</summary>
+
+* Aquarium&#x20;
+* Convention Center&#x20;
+* Distribution Center&#x20;
+* Dormitory&#x20;
+* Fitness Center&#x20;
+* Hospital&#x20;
+* Hotel&#x20;
+* K-12 School&#x20;
+* Laboratory&#x20;
+* Library&#x20;
+* Medical Clinic&#x20;
+* Multifamily Housing&#x20;
+* Museum Office&#x20;
+* Performing Arts&#x20;
+* Post Office&#x20;
+* Pre-school / Day Care&#x20;
+* Restaurant&#x20;
+* Retail Store&#x20;
+* Senior Care Facility&#x20;
+* ~~Single Family Home~~ _<mark style="color:green;">(only available via API)</mark>_
+* Stadium&#x20;
+* Transit Station&#x20;
+* University/College&#x20;
+* Worship Facility&#x20;
+* Warehouse&#x20;
+* Zoo
+
+</details>
 
 ## Building Size
 
@@ -112,19 +147,19 @@ Select a secondary use and set the use proportion for the project.
 
 ### Number of Above Ground Floors
 
-Modify the project's number of above ground floors.&#x20;
+The number of building floors above grade. These floors will be assessed using the selected structural system.
 
 ### Total Above Ground Constructed Floor Area
 
-Modify the project's total above ground constructed floor area.&#x20;
+The total constructed floor area above ground.&#x20;
 
 ### Number of Below Ground Floors
 
-Specify the project's number of below ground floors.&#x20;
+The number of building floors below grade. These floors will be assessed as having a reinforced concrete structural system.
 
 ### Total Below Ground Constructed Floor Area
 
-Specify the project's total below ground constructed floor area.&#x20;
+The total constructed floor area below ground.&#x20;
 
 ## Sitework
 
@@ -136,11 +171,11 @@ Specify the project's total below ground constructed floor area.&#x20;
 
 ### Total Site Area
 
-Specify the project's total site area, including the building footprint.&#x20;
+The total site area, including the building footprint and landscaping. The site area cannot be smaller than the building's footprint.
 
 ### Previously Developed (Brownfield) Site
 
-Specify if the site is a previously developed (brown field) site. If this is not selected, EPIC assumes the site is a greenfield site. &#x20;
+If the site is not previously developed, it is a greenfield site and the project incurs an emissions penalty for the site disturbance. The magnitude of this penalty is equivalent to the site area’s sequestration potential with low-sequestration plantings.
 
 ## Electricity Grid
 
@@ -181,6 +216,4 @@ Annual and end-of-life refrigerant leakage rates are typically a model assumptio
 | ------------------- | -------------- | ------------------- |
 | LEED                | 2%             | 10%                 |
 | CIBSE TM65 (Type 2) | 4%             | 2%                  |
-
-
 
