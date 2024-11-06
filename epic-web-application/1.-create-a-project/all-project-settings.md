@@ -8,7 +8,7 @@ The following project settings are applied to the baseline and all scenarios wit
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
 
 </div>
 
