@@ -18,8 +18,6 @@ EPIC is designed to allow a user to enter a strict minimum of project parameters
 
 <figure><img src=".gitbook/assets/EPIC whole life carbon - early phase design.png" alt=""><figcaption><p>The most impactful decisions happen at the beginning of a project, before granular data is available. </p></figcaption></figure>
 
-### What is EPIC not?
-
 _EPIC is not a high-resolution wbLCA tool_.
 
 EPIC is designed to accurately represent the overall effects of decarbonization strategies, not precisely model individual design parameters or perform ISO-compliant LCA. EPIC can help your team compare a net zero energy retrofit with mass timber new construction, for instance, but is not designed to capture differences in, say, efficiency gains from changing structural bay sizes or specifying one brand of heat pump versus another.
