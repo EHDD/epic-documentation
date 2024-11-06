@@ -29,17 +29,17 @@ This figure describes the cumulative carbon emissions of a building over time. A
 
 The cumulative emissions over time chart has a number of elements:
 
-* Reduction from Baseline.&#x20;
+* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
+* **Refrigerant Emissions**. Cumulative emissions associated with the refrigerant use in the building services.&#x20;
+* **Electricity Emissions**. Cumulative emissions associated with the energy use from the electrical grid.&#x20;
+* **Fossil Fuel Emissions**. Cumulative emissions associated with onsite fossil fuel use.&#x20;
 * **Embodied carbon emissions**. Cumulative emissions associated with building materials, their replacements, and with landscape maintenance.
-* **Operational carbon emissions**. Cumulative emissions associated with energy use from electricity and onsite fossil fuel use.
-* **Emissions reductions from base case**. Cumulative reduction in emissions of the current scenario as compared to the base case.
-* **Sequestered and avoided emissions**. Sequestered emissions from building structure and landscape planting. Avoided emissions from onsite energy generation in excess of use.
-* **Net emissions after reductions**. Operational and embodied emissions less sequestered and avoided emissions.
+* **Biogenic Carbon Storage**. Sequestered emissions from building structure and landscape planting.
+* **Avoided Energy Emissions**. Avoided emissions from onsite energy generation in excess of use.
+* **Net Emissions**. Operational, embodied, and refrigerant emissions minus biogenic carbon storage and and avoided energy emissions.
 * **Climate Positive Threshold**. When the net emissions of a project crosses the zero line, the crossing point is marked as the Climate Positive threshold.
 
-Hovering over a bar gives the summary of emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Note that these numbers are rounded to the nearest hundred and may not sum to net emissions in all cases.
-
-![Hovering over a bar gives the summary of cumulative emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Pictured here, hovering over the final year in the chart gives the total emissions across the 30 year period.](<../../.gitbook/assets/2022-06-01 13\_48\_24-EPIC Assessment.png>)
+Hovering over a bar gives the summary of emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Hovering over the final year in the chart gives the total emissions across the analysis period. Note that these numbers are rounded to the nearest hundred and may not sum to net emissions in all cases.
 
 ### Embodied Carbon Budget
 
