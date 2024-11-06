@@ -8,7 +8,7 @@ description: EPIC Public Beta v2.0.3
 
 In EPIC, the basic workflow is:
 
-1. [Create a project](1.-create-a-project/)&#x20;
+1. [Create a project](create-a-project/)&#x20;
 2. [Set a baseline](base-case/)
 3. [Reduce emissions](carbon-reduction-measures/)
 4. [Compare scenarios](scenario-comparison.md)

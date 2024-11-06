@@ -1,4 +1,4 @@
-# 2. Set a Baseline
+# 2️⃣ Set a Baseline
 
 EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a baseline scenario. The baseline scenario is determined from a set of conservative assumptions which represent a project in which no efforts have been made to reduce carbon emissions. The baseline scenario provides a means of comparison for evaluating carbon reduction measures.&#x20;
 
@@ -7,7 +7,9 @@ EPIC assesses the efficacy of carbon reduction measures in relative terms as a r
 * Baseline scenarios can be configured **to align with code**.&#x20;
 * Baseline scenarios are flexible, and **any scenario can be tagged as the baseline**.
 
-### Refining a Baseline
+### Refining the Baseline
+
+In the left-hand panel, select the scenario tagged "Baseline".
 
 <div align="left">
 
@@ -15,13 +17,33 @@ EPIC assesses the efficacy of carbon reduction measures in relative terms as a r
 
 </div>
 
-After selecting the scenario tagged "Baseline" in the left-hand panel, the following warning will be displayed in the right-hand panel as a reminder that the baseline is being edited:
+After selecting the baseline scenario in the left-hand panel, the following warning will be displayed in the right-hand panel as a reminder that you are editing the baseline, which serves as the reference for all other scenarios.
 
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="394"><figcaption><p>Warning that the baseline is being edited.</p></figcaption></figure>
 
 </div>
+
+Using the right hand panel, the baseline can be refined using the [Carbon Reduction Input Fields](../carbon-reduction-measures/reduction-and-reuse.md).&#x20;
+
+### Analyzing the Baseline
+
+The baseline scenario can be analyzed using the following charts:
+
+* This Scenario - Over Time
+* This Scenario - Scope Categories
+* This Scenario - LCA Stages
+* This Scenario - Summary
+
+### Comparing Against the Baseline
+
+The baseline scenario can be compared with other scenarios using the following charts:
+
+* Compare Scenarios - Over Time
+* Compare Scenarios - Summary
+
+### DELETE:
 
 ### Base Case Chart
 
