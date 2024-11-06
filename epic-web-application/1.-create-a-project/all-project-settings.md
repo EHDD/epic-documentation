@@ -8,7 +8,7 @@ The following project settings are applied to the baseline and all scenarios wit
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ Turning off this toggle will remove all site and landscaping from the EPIC model
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>General settings.</p></figcaption></figure>
 
 </div>
 
@@ -74,7 +74,7 @@ Modify the project's year of completion.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Location settings.</p></figcaption></figure>
 
 </div>
 
@@ -90,7 +90,7 @@ Modify the project's postal code.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Use settings.</p></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ Select a secondary use and set the use proportion for the project.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Building size settings.</p></figcaption></figure>
 
 </div>
 
@@ -130,7 +130,7 @@ Specify the project's total below ground constructed floor area.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Sitework settings.</p></figcaption></figure>
 
 </div>
 
@@ -146,7 +146,7 @@ Specify if the site is a previously developed (brown field) site. If this is not
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p>Electricity grid settings.</p></figcaption></figure>
 
 </div>
 
@@ -169,7 +169,7 @@ For a given scenario, there are multiple methods to account for the emissions as
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption><p>Refrigerants settings.</p></figcaption></figure>
 
 </div>
 

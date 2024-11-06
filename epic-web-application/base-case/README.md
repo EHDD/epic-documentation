@@ -1,17 +1,27 @@
 # 2. Set a Baseline
 
-EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a baseline building. The baseline building is a building determined from a set of conservative assumptions which represent a newly constructed project in which no efforts have been made to reduce carbon emissions. The baseline provides a means of comparison for evaluating carbon reduction measures.&#x20;
+EPIC assesses the efficacy of carbon reduction measures in relative terms as a reduction in the carbon emissions from a baseline scenario. The baseline scenario is determined from a set of conservative assumptions which represent a project in which no efforts have been made to reduce carbon emissions. The baseline scenario provides a means of comparison for evaluating carbon reduction measures.&#x20;
 
-* The baseline in EPIC can be configured as both new construction and renovation.&#x20;
-* In many municipalities, code requirements (e.g. California’s Title 24 energy codes) will mean that the out-of-the-box EPIC baseline is not equivalent to a code baseline. However, baselines can be refined to align with code using the right-hand panel.&#x20;
-* Option in the [Overrides](overrides.md) panel can adjust EPIC's internal assumptions to better match the model to a particular project. Any overrides to these will be applied to the base case and all scenarios in the project.
-* Options in the [Refine Scope](broken-reference) panel can include or exclude parts of the EPIC model to match your desired scope of analysis. This selected scope will be applied to the base case and all scenarios in the project.
+* Baseline scenarios are **fully customizable.**&#x20;
+* Baseline scenarios can be configured as **new construction, renovation or a combination of both**.&#x20;
+* Baseline scenarios can be configured **to align with code**.&#x20;
+* Baseline scenarios are flexible, and **any scenario can be tagged as the baseline**.
 
-When the required forms in the  base case form is filled, click the "Save Base Case" button at the bottom of the form to save the base case and generate the base case figure and table.
+### Refining a Baseline
 
-### [Base Case Input Fields](base-case-input-fields.md)
+<div align="left">
 
-Explanations of each base case input field are listed together on the page linked above.
+<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="563"><figcaption><p>Baseline scenario selected in the left-hand panel.</p></figcaption></figure>
+
+</div>
+
+After selecting the scenario tagged "Baseline" in the left-hand panel, the following warning will be displayed in the right-hand panel as a reminder that the baseline is being edited:
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt="" width="394"><figcaption><p>Warning that the baseline is being edited.</p></figcaption></figure>
+
+</div>
 
 ### Base Case Chart
 
