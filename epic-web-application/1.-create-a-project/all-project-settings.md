@@ -8,7 +8,7 @@ To refine the project, click **All Project Settings** in the left-hand panel.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
 
 </div>
 

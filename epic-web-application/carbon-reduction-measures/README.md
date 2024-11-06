@@ -17,7 +17,7 @@ Carbon reduction measures in EPIC are generally divided into the following categ
 
 ## Analyzing Scenarios
 
-### Over Time
+### Over Time Chart
 
 This figure describes the cumulative carbon emissions of a building over time. As a chart of cumulative emissions, the height of the bar in each year is the total emissions associated with the building up to and including that year rather than only the emissions associated with that year.
 
@@ -41,15 +41,46 @@ The cumulative emissions over time chart has a number of elements:
 
 Hovering over a bar gives the summary of emissions in that year. This is useful for determining how the project is performing against time-based targets (e.g. a 2030 net zero target). Hovering over the final year in the chart gives the total emissions across the analysis period. Note that these numbers are rounded to the nearest hundred and may not sum to net emissions in all cases.
 
-### Embodied Carbon Budget
+### Scope Categories Chart
 
-This chart breaks down the contributions to embodied carbon emissions by category. This figure represents the total cumulative emissions associated with the project scenario after 30 years.
+This chart breaks down the building's contribution to operational carbon emissions (B6), embodied carbon emissions (A1-A3, A4-A5, B1, B2-B5, C1-C4, D), and biogenic carbon storage by scope category. This figure represents the total cumulative emissions associated with the scenario across the entire analysis period.
 
-When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular scope or for the project as a whole.&#x20;
+When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular scope cateory for the project as a whole.&#x20;
 
-![Total embodied emissions by category. Comparing the relative contribution of each category can help in identifying the largest contributors and targeting reduction strategies accordingly.](<../../.gitbook/assets/2022-06-01 13\_47\_31-EPIC Assessment-01.png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>This figure shows total emissions by scope category. Comparing the relative contribution of each scope category can help in identifying the largest contributors and targeting reduction strategies accordingly.</p></figcaption></figure>
 
-### Base Case Chart
+Each of the scope categories breaks carbon emissions into the following LCA stages:
+
+* **A1-A3**. Total upstream product emissions associated with the scope category.&#x20;
+* **A4-A5**. Total construction jobsite emissions associated with the scope category.&#x20;
+* **B1**. Total in-use emissions associated with the scope category.&#x20;
+* **B2-B5**. Total replacement and refurbishment emissions associated with the scope category.&#x20;
+* **B6**. Total energy use emissions associated with the scope category.&#x20;
+* **C1-C4**. Total end-of-life emissions associated with the scope category.&#x20;
+* **D**. Total benefits beyond the system boundary (typically from recycling materials) associated with the scope category.&#x20;
+* **Biogenic Carbon Storage**. Total carbon stored by biological materials.&#x20;
+
+### LCA Stages Chart
+
+This chart breaks down the building's contribution to operational carbon emissions (B6), embodied carbon emissions (A1-A3, A4-A5, B1, B2-B5, C1-C4, D), and biogenic carbon storage by LCA Stage. This figure represents the total cumulative emissions associated with the scenario across the entire analysis period.
+
+When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular LCA stage for the project as a whole.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>This figure shows total emissions by LCA stage. Comparing the relative contribution of each LCA stage can help in identifying when emissions occur in the lifecycle and targeting reduction strategies accordingly.</p></figcaption></figure>
+
+Each of the LCA stages breaks carbon emissions into the following scope categories:
+
+* **Energy Use**. Sources and use of energy in the building.
+* **Structure**. Substructure and superstructure, including both lateral and gravity systems.
+* **Enclosure**. Opaque enclosure, transparent enclosure, and roofing.
+* **Interior**. Interior construction and fit-out.
+* **Services**. **M**echanical, electrical, and plumbing (MEP) services and PV Array.
+* **Refrigerants**. Refrigerants used in building services (e.g., HVAC+R).
+* **Sitework**. Hardscape and landscape surrounding the building.
+* **Jobsite**. Construction-related processes.
+* **Biogenic Carbon Storage**. Total carbon stored by biological materials.
+
+### Summary Chart
 
 The base case is summarized with a donut chart showing the proportion of embodied, operational, and stored carbon emissions over the reference period.
 
