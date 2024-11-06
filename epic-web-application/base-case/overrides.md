@@ -12,14 +12,8 @@ The percentage of building energy use resulting from the combustion of fossil fu
 
 
 
-#### Interior fit-out percentage
-
-The percentage of floor space that will be fitted out for occupation by building tenants. The default value is 70%. If tenant fit-out is outside the project scope, this field can be set to 0%.
-
 #### Solar ground coverage ratio
 
 For any solar array entered as a decarbonization measure, this ratio describes the ratio of active solar cells to total array area. EPIC's assumption is 0.7, representing an efficient solar layout.&#x20;
 
-#### Percent conditioned area
-
-The percentage of total floor area that is heated or cooled.&#x20;
+####

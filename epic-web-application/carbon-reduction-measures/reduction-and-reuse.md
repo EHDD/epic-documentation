@@ -95,7 +95,7 @@ The purchase of clean power through Direct Ownership, Green Retail Tariffs, Powe
 
 </details>
 
-### Solar photovoltaic (PV) array
+### Solar Photovoltaic (PV) Array System Design
 
 The addition of a solar PV array on the project site. The size of this array can be input in three forms:
 
@@ -261,7 +261,7 @@ The specification of the opaque envelope assemblies. These specification levels 
 
 <table><thead><tr><th width="203">Envelope Assembly</th><th>Low Carbon</th><th>Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Opaque Enclosure</strong></td><td>3.0 kgCO2e/sf</td><td>8.8 kgCO2e/sf</td><td>14.3 kgCO2e/sf</td></tr></tbody></table>
 
-### Opaque Enclosure Refresh Rate
+#### Opaque Enclosure Refresh Rate
 
 The length of time over which a majority of the opaque enclosure will be replaced.
 
@@ -287,7 +287,7 @@ The specification of the transparent enclosure assemblies. These specification l
 
 <table><thead><tr><th width="203">Envelope Assembly</th><th>Low Carbon</th><th>Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Transparent Enclosure</strong></td><td>11.4 kgCO2e/sf</td><td>13.6 kgCO2e/sf</td><td>19.0 kgCO2e/sf</td></tr></tbody></table>
 
-### Transparent Enclosure Refresh Rate
+#### Transparent Enclosure Refresh Rate
 
 The length of time over which a majority of the transparent enclosure will be replaced.
 
@@ -313,29 +313,33 @@ The specification of the roofing assemblies. These specification levels do not d
 
 <table><thead><tr><th width="203">Envelope Assembly</th><th>Low Carbon</th><th>Best Practices</th><th>Conservative</th></tr></thead><tbody><tr><td><strong>Roofing</strong></td><td>5.3 kgCO2e/sf</td><td>7.7 kgCO2e/sf</td><td>14.0 kgCO2e/sf</td></tr></tbody></table>
 
-### Roofing Refresh Rate
+#### Roofing Refresh Rate
 
 The length of time over which a majority of the roofing will be replaced.
 
 ## Interior
 
-### Interior Fit Out specification
+### Floor Area w/ Fit-Out
+
+The percentage of floor space that will be fitted out for occupation by building tenants. The default value is 70%. If tenant fit-out is outside the project scope, this field can be set to 0%.
+
+### Interior Fit Out Specification
 
 The specification of the fittings, furniture, and fixtures required for the use of the building by its tenants. These specification levels do not describe specific fit-outs or materials. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all available data on tenant fit-outs.&#x20;
 
 <details>
 
-<summary>Interior Fit Out Specification Options</summary>
+<summary>Interior Fit Out Specification Choices (Carbon Intensity)</summary>
 
-* **Conservative.** 80th percentile of GWP for interior fitouts. Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.
-
-<!---->
-
-* **Best practices.** 50th percentile of GWP for interior fitouts. Address "hot spots" (flooring, acoustic panels, casework, etc.).
+* **High (80th percentile).** 80th percentile of GWP for interior fitouts. Standard fittings, furniture, and fixtures, no effort made to lower carbon emissions.
 
 <!---->
 
-* **Low-carbon.** 20th percentile of GWP for interior fitouts. Comprehensive low-carbon design and specification of tenant fit-out.
+* **Medium (50th percentile).** 50th percentile of GWP for interior fitouts. Address "hot spots" (flooring, acoustic panels, casework, etc.).
+
+<!---->
+
+* **Low (20th percentile).** 20th percentile of GWP for interior fitouts. Comprehensive low-carbon design and specification of tenant fit-out.
 
 </details>
 
@@ -346,6 +350,44 @@ The specification of the fittings, furniture, and fixtures required for the use 
 #### Interior fit-out refurbishment period
 
 The length of time over which a majority of the interior fit out will be replaced.
+
+## Services
+
+### Conditioned Area
+
+The percentage of total floor area that is heated or cooled.&#x20;
+
+### MEP and PV Specification
+
+Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.&#x20;
+
+Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+
+_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification. Accordingly, only a "conservative" option is available._&#x20;
+
+#### MEP and PV Refurbishment Period
+
+The length of time over which a majority of the building systems will be replaced.
+
+## Refrigerants
+
+### Total Refrigerant Charge
+
+The reduction of the total quantity of refrigerants used in the buildings HVAC+R system.&#x20;
+
+<table><thead><tr><th width="469">Specification Level</th><th>kg refrigerants per 1000 sf</th></tr></thead><tbody><tr><td>Conservative</td><td>8.36</td></tr><tr><td>Best Practices </td><td>4.66</td></tr><tr><td>Low Carbon</td><td>1.86</td></tr></tbody></table>
+
+### Refrigerant GWP
+
+The  average global warming potential (GWP) of refrigerants used in the buildings HVAC+R system.
+
+| Specification Level | Reference Refrigerant(s) | GWP Value |
+| ------------------- | ------------------------ | --------- |
+| Standard            | 60% R-410a; 40% R-134    | **1675**  |
+| Lower Carbon        | R-513                    | **573**   |
+| Lowest Carbon       | R-123                    | **79**    |
+
+## Sitework
 
 ### Hardscape specification
 
@@ -375,38 +417,6 @@ The specification of the pervious and impervious surfaces on the building site (
 
 The length of time over which a majority of the site's hardscape will be replaced.
 
-### MEP and PV Specification
-
-Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.&#x20;
-
-Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
-
-_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification. Accordingly, only a "conservative" option is available._&#x20;
-
-#### MEP and PV Refurbishment Period
-
-The length of time over which a majority of the building systems will be replaced.
-
-##
-
-## Refrigerant Emissions
-
-#### Refrigerant Charge
-
-The reduction of the total quantity of refrigerants used in the buildings HVAC+R system.&#x20;
-
-<table><thead><tr><th width="469">Specification Level</th><th>kg refrigerants per 1000 sf</th></tr></thead><tbody><tr><td>Conservative</td><td>8.36</td></tr><tr><td>Best Practices </td><td>4.66</td></tr><tr><td>Low Carbon</td><td>1.86</td></tr></tbody></table>
-
-#### Refrigerant Specification
-
-The  average global warming potential (GWP) of refrigerants used in the buildings HVAC+R system.
-
-| Specification Level | Reference Refrigerant(s) | GWP Value |
-| ------------------- | ------------------------ | --------- |
-| Standard            | 60% R-410a; 40% R-134    | **1675**  |
-| Lower Carbon        | R-513                    | **573**   |
-| Lowest Carbon       | R-123                    | **79**    |
-
 ## Site and Landscape
 
 This set of measures describes potential carbon storage in the landscape as well as annual emissions associated with the landscape's upkeep.
@@ -421,17 +431,4 @@ Definition of the proportion of total planted area that is low, moderate, or hig
 
 * **Low carbon storage planted area.** Example of a low carbon storage landscape is no-mow turfgrass or other herbaceous perennials. This is the assumption for all planted areas in the base case.
 * **High carbon storage planted area.** An example of a high carbon storage landscape is one composed of dense broadleaf shrubs and trees in a matrix of no-mow turfgrass or herbaceous perennials.
-
-## Planted Roof
-
-#### Planted roof area
-
-The percentage of roof area planted.
-
-#### Planted roof specification
-
-There are two levels of specification available in EPIC for green roofs.&#x20;
-
-* **Low Carbon Storage (extensive).** An extensive green roof has a thin layer of soil that can only support shallowly rooted plants. An example of an extensive green roof is sedum mat or low turfgrass.
-* **High Carbon Storage (intensive).** An intensive green roof has a deeper layer of soil that can support plants such as larger perennial grasses and small shrubs.
 
