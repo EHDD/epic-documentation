@@ -22,7 +22,7 @@ In addition to comparing magnitude of emissions at the end of the analysis perio
 
 This chart has a number of elements:
 
-* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
+* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the baseline.
 * **Refrigerant Emissions**. Cumulative emissions associated with the refrigerant use in the building services.&#x20;
 * **Electricity Emissions**. Cumulative emissions associated with the energy use from the electrical grid.&#x20;
 * **Fossil Fuel Emissions**. Cumulative emissions associated with onsite fossil fuel use.&#x20;

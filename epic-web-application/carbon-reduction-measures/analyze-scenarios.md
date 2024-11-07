@@ -14,7 +14,7 @@ This figure describes the cumulative carbon emissions of a building over time. A
 
 This chart has a number of elements:
 
-* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
+* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the baseline.
 * **Refrigerant Emissions**. Cumulative emissions associated with the refrigerant use in the building services.&#x20;
 * **Electricity Emissions**. Cumulative emissions associated with the energy use from the electrical grid.&#x20;
 * **Fossil Fuel Emissions**. Cumulative emissions associated with onsite fossil fuel use.&#x20;
@@ -80,6 +80,6 @@ This chart has a number of elements:
 * **Biogenic Carbon Storage**. Sequestered emissions from building structure and landscape planting.
 * **Avoided Energy Emissions**. Avoided emissions from onsite energy generation in excess of use.
 * **Net Emissions**. Operational, embodied, and refrigerant emissions minus biogenic carbon storage and and avoided energy emissions.
-* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
+* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the baseline.
 * **Energy Use Intensity (EUI)**. Energy use by the building per area per year.&#x20;
 * **Embodied Carbon Intensity (ECI)**. Embodied carbon emissions from the building over the analysis period divided by the building area.

@@ -103,7 +103,7 @@ The ability of solar PV arrays to produce electricity is related to their geomet
 
 ### Primary Structural System
 
-Specification of a structural system other than the system modeled in the base case. Note that this is not strictly a carbon _reduction_ measure, as the substitution of some structural systems with some others can lead to an increase in embodied emissions.&#x20;
+Specification of a structural system other than the system modeled in the baseline. Note that this is not strictly a carbon _reduction_ measure, as the substitution of some structural systems with some others can lead to an increase in embodied emissions.&#x20;
 
 <details>
 
