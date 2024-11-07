@@ -12,8 +12,6 @@
   * [Analyzing Scenarios](epic-web-application/carbon-reduction-measures/analyzing-scenarios.md)
   * [Refine Data](epic-web-application/carbon-reduction-measures/customize-scenario.md)
   * [Save, Load, and Delete Scenarios](epic-web-application/carbon-reduction-measures/scenarios.md)
-  * [Overrides](epic-web-application/base-case/overrides.md)
-  * [Base Case Input Fields](epic-web-application/base-case/base-case-input-fields.md)
 * [4️⃣ Compare Scenarios](epic-web-application/scenario-comparison.md)
 * [🔓 Data Privacy Statement](epic-web-application/data-confidentiality-statement.md)
 * [📺 Watch a Tutorial](https://www.youtube.com/watch?v=zNagzkOVnRg)

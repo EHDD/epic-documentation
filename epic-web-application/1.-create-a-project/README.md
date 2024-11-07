@@ -17,3 +17,9 @@ Fill in the required information and click **Create**.
 </div>
 
 After creating your project, many more project settings can be configured by clicking [**All Project Settings**](all-project-settings.md) in the left-hand panel of the project page. &#x20;
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="184"><figcaption><p>All Project Settings button found in the left-hand panel. </p></figcaption></figure>
+
+</div>

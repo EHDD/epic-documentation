@@ -347,7 +347,7 @@ The specification of the fittings, furniture, and fixtures required for the use 
 | -------------------- | ------------- | -------------- | -------------- |
 | **Interior Fit Out** | 4.0 kgCO2e/sf | 7.6 kgCO2e/sf  | 13.3 kgCO2e/sf |
 
-#### Interior fit-out refurbishment period
+#### Interior Fit-Out Refresh Rate
 
 The length of time over which a majority of the interior fit out will be replaced.
 
@@ -357,17 +357,61 @@ The length of time over which a majority of the interior fit out will be replace
 
 The percentage of total floor area that is heated or cooled.&#x20;
 
-### MEP and PV Specification
+### MEP Specification
 
 Embodied carbon in mechanical systems in evaluated at two specification levels—standard performance and high performance—and is dependent of the total square footage of the building. This approach, and the data used in EPIC, follow from the CLF study on building mechanical systems.&#x20;
 
-Base case buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% the benchmark are assumed to have a high performance system. The EUI reduction threshold is not directly editable in the public-facing web app, but can be redefined in the API.&#x20;
+Baseline buildings in EPIC are always assumed to have a standard performance system. Scenarios that achieve an EUI reduction of more than 50% below the baseline are assumed to have a high performance system.&#x20;
 
-_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification. Accordingly, only a "conservative" option is available._&#x20;
+_Embodied carbon in MEP is a data-scarce category, and we cannot confidently describe the potential to reduce embodied carbon in MEP systems through specification._&#x20;
 
-#### MEP and PV Refurbishment Period
+<details>
 
-The length of time over which a majority of the building systems will be replaced.
+<summary>MEP Specification Choices (Carbon Intensity)</summary>
+
+* **High (80th percentile).** 80th percentile of GWP for MEP systems.
+
+<!---->
+
+* **Medium (50th percentile).** 50th percentile of GWP for MEP systems.
+
+<!---->
+
+* **Low (20th percentile).** 20th percentile of GWP for MEP systems.
+
+</details>
+
+#### MEP Refresh Rate
+
+The length of time over which a majority of the MEP systems will be replaced.
+
+### PV Specification
+
+Embodied carbon in solar photovoltaics arrays is calculated using values from the peer-reviewed literature. A citation to the current data source is available in in the [Reference Data Sources](https://docs.cscale.io/the-c.scale-tm-data-model/reference-data) section of this guide.
+
+<details>
+
+<summary>PV Specification Choices (Carbon Intensity)</summary>
+
+* **High (80th percentile).** 80th percentile of GWP for PV systems.
+
+<!---->
+
+* **Medium (50th percentile).** 50th percentile of GWP for PV systems.
+
+<!---->
+
+* **Low (20th percentile).** 20th percentile of GWP for PV systems.
+
+</details>
+
+#### PV Refresh Rate
+
+The length of time over which a majority of the PV systems will be replaced.
+
+#### Solar ground coverage ratio
+
+For any solar array entered as a decarbonization measure, this ratio describes the ratio of active solar cells to total array area. EPIC's assumption is 0.7, representing an efficient solar layout.&#x20;
 
 ## Refrigerants
 
@@ -389,23 +433,31 @@ The  average global warming potential (GWP) of refrigerants used in the building
 
 ## Sitework
 
+### Planted Area
+
+Set the percentage of site area, minus the building footprint, which is planted. This planted area is assumed to be a **low carbon storage landscape**, such as no-mow turfgrass or other herbaceous perennials. All unplanted area is assumed to be hardscape.&#x20;
+
+#### High Carbon Storage Planted Area
+
+Set the percentage of the planted site area comprised of a high carbon storage landscape, such as dense broadleaf shrubs and trees in a matrix of no-mow turfgrass or herbaceous perennials.
+
 ### Hardscape specification
 
 The specification of the pervious and impervious surfaces on the building site (outside the building envelope. These specification levels do not describe specific materials or assemblies. Instead, they approximate the 80th, 50th, and 20th percentile of the distribution of all hardscape assemblies based on a set of standard details.&#x20;
 
 <details>
 
-<summary>Hardscape Specification Options</summary>
+<summary>Hardscape Specification Choices (Carbon Intensity)</summary>
 
-* **Conservative.** 80th percentile of GWP for hardscape assemblies.&#x20;
-
-<!---->
-
-* **Best practices.** 50th percentile of GWP for hardscape assemblies.&#x20;
+* **High (80th percentile).** 80th percentile of GWP for hardscape assemblies.&#x20;
 
 <!---->
 
-* **Low-carbon.** 20th percentile of GWP for hardscape assemblies.&#x20;
+* **Medium (50th percentile).** 50th percentile of GWP for hardscape assemblies.&#x20;
+
+<!---->
+
+* **Low (20th percentile).** 20th percentile of GWP for hardscape assemblies.&#x20;
 
 </details>
 
@@ -413,22 +465,16 @@ The specification of the pervious and impervious surfaces on the building site (
 | ------------- | ------------- | -------------- | ------------- |
 | **Hardscape** | 4.4 kgCO2e/sf | 5.9 kgCO2e/sf  | 7.2 kgCO2e/sf |
 
-#### Hardscape refurbishment period
+#### Hardscape Refresh Rate
 
 The length of time over which a majority of the site's hardscape will be replaced.
 
-## Site and Landscape
+## Jobsite
 
-This set of measures describes potential carbon storage in the landscape as well as annual emissions associated with the landscape's upkeep.
+### A5.2 Jobsite Emissions
 
-#### Convert hardscape area to planted area
+Enter a custom carbon intensity (kgCO₂e/sf) for jobsite emissions related to construction activities and land use. The default value assumes 40 kgCO₂e/m² for construction emissions, which includes fuel, tools, and energy used on-site. This default is adjustable based on project-specific data. For greenfield sites, emissions from soil and vegetation are also calculated, using regional data to estimate carbon release from land development.
 
-Converts hardscape area to planted area, up to the maximum of site area less building footprint.&#x20;
+### Demolished Area
 
-#### Carbon Storing Landscape
-
-Definition of the proportion of total planted area that is low, moderate, or high carbon storage.
-
-* **Low carbon storage planted area.** Example of a low carbon storage landscape is no-mow turfgrass or other herbaceous perennials. This is the assumption for all planted areas in the base case.
-* **High carbon storage planted area.** An example of a high carbon storage landscape is one composed of dense broadleaf shrubs and trees in a matrix of no-mow turfgrass or herbaceous perennials.
-
+Pre-construction demolition emissions are calculated per floor area of the demolished building, using a default factor of 35 kgCO2e/m2. This is a data-scarce category. Where project-specific data is available, this default can be overridden by the user.

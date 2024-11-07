@@ -29,7 +29,7 @@ The baseline can be refined using the [**Carbon Reduction Measures**](../carbon-
 
 ### Setting Another Scenario as the Baseline
 
-Any scenario within the project can be tagged as the baseline, and serve as the reference point for the project. To tag another scenario as the baseline, click the **3-dot menu** to the right of the scenario name in the left-hand panel.&#x20;
+Any scenario within the project can be set as the baseline, and serve as the reference point for the project. To set another scenario as the baseline, click the **3-dot menu** to the right of the scenario name in the left-hand panel.&#x20;
 
 <div align="left">
 
@@ -37,7 +37,7 @@ Any scenario within the project can be tagged as the baseline, and serve as the 
 
 </div>
 
-Within the menu, click **Set as Baseline** to tag another scenario as the reference for comparison.
+Within the menu, click **Set as Baseline** to set another scenario as the reference for comparison.
 
 <div align="left">
 

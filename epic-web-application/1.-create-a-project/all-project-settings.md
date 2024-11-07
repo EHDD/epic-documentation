@@ -4,6 +4,12 @@ The following settings are applied at project-level, meaning they are applied to
 
 To refine the project, click **All Project Settings** in the left-hand panel.
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="184"><figcaption><p>All Project Settings button found in the left-hand panel. </p></figcaption></figure>
+
+</div>
+
 ## Scope
 
 <div align="left">
