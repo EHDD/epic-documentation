@@ -27,7 +27,7 @@ EPIC uses web cookies as a security measure during a user session to verify a us
 
 ### Communication regarding this statement
 
-Any communication regarding data confidentiality or this statement should be directed to [hi@cscale.io](mailto:hi@cscale.io).
+Any communication regarding data confidentiality or this statement should be directed to [hi@cscale.io](mailto:hi@cscale.io?subject=Confidentiality).
 
 ### Changelog
 
