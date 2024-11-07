@@ -1,4 +1,4 @@
-# Analyzing Scenarios
+# Analyze Scenarios
 
 Scenarios can be analyzed using the following charts found within the **This Scenario** tab.
 
@@ -12,7 +12,7 @@ This figure describes the cumulative carbon emissions of a building over time. A
 
 </div>
 
-The cumulative emissions over time chart has a number of elements:
+This chart has a number of elements:
 
 * **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
 * **Refrigerant Emissions**. Cumulative emissions associated with the refrigerant use in the building services.&#x20;
@@ -32,7 +32,7 @@ This chart breaks down the building's contribution to operational carbon emissio
 
 When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular scope cateory for the project as a whole.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>This figure shows total emissions by scope category. Comparing the relative contribution of each scope category can help in identifying the largest contributors and targeting reduction strategies accordingly.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>This figure shows total emissions by scope category. Comparing the relative contribution of each scope category can help in identifying the largest contributors and targeting reduction strategies accordingly.</p></figcaption></figure>
 
 Each of the scope categories breaks carbon emissions into the following LCA stages:
 
@@ -51,7 +51,7 @@ This chart breaks down the building's contribution to operational carbon emissio
 
 When comparing EPIC results to wbLCA results at later project phases, this breakdown can be helpful in confirming if designs are within the carbon budget for a particular LCA stage for the project as a whole.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>This figure shows total emissions by LCA stage. Comparing the relative contribution of each LCA stage can help in identifying when emissions occur in the lifecycle and targeting reduction strategies accordingly.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>This figure shows total emissions by LCA stage. Comparing the relative contribution of each LCA stage can help in identifying when emissions occur in the lifecycle and targeting reduction strategies accordingly.</p></figcaption></figure>
 
 Each of the LCA stages breaks carbon emissions into the following scope categories:
 
@@ -71,7 +71,7 @@ This donut chart displays the proportional relationship of the scenario's emissi
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>The donut chart and a tabular summary of the scenario's emissions.</p></figcaption></figure>
 
-The cumulative emissions over time chart has a number of elements:
+This chart has a number of elements:
 
 * **Refrigerant Emissions**. Cumulative emissions associated with the refrigerant use in the building services.&#x20;
 * **Electricity Emissions**. Cumulative emissions associated with the energy use from the electrical grid.&#x20;
@@ -81,5 +81,5 @@ The cumulative emissions over time chart has a number of elements:
 * **Avoided Energy Emissions**. Avoided emissions from onsite energy generation in excess of use.
 * **Net Emissions**. Operational, embodied, and refrigerant emissions minus biogenic carbon storage and and avoided energy emissions.
 * **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
-* **Energy Use Intensity (EUI)**. Base case energy use by the building per square foot per year.&#x20;
-* **Embodied Carbon Intensity (ECI)**. Base case embodied carbon emissions from the building over its reference period and within the [project scope](broken-reference).
+* **Energy Use Intensity (EUI)**. Energy use by the building per area per year.&#x20;
+* **Embodied Carbon Intensity (ECI)**. Embodied carbon emissions from the building over the analysis period divided by the building area.

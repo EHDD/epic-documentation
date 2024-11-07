@@ -1,25 +1,31 @@
-# 3. Compare Scenarios
+# 4️⃣ Compare Scenarios
 
-After [constructing scenarios](carbon-reduction-measures/scenarios.md) in the "Carbon Reduction Measures" tab, they can be compared in the "Scenario" tab. Typically, multiple strategies for reducing carbon emissions are under consideration in the early project phases. In EPIC, these strategies can be compared graphically and numerically.
+After [constructing scenarios](carbon-reduction-measures/), they can be compared in the "Compare" tab. Typically, multiple strategies for reducing carbon emissions are under consideration in the early project phases. In EPIC, these strategies can be compared graphically and numerically.
 
-Use the toggles on the left to add or remove scenarios from the figure. They will be plotted in the order in which they appear in the list.
+Use the ![](../.gitbook/assets/image.png) toggles in the left-hand panel to add or remove scenarios from the Compare charts. Scenarios will be plotted in the order in which they appear in the left-hand panel list.
 
-### Comparison Over Time
+### Cumulative Emissions Over Time
 
-This figure compares each active scenario to the base case across EPIC's 30 year time horizon.
+This figure compares each scenario to the baseline across the analysis period.
 
-<figure><img src="../.gitbook/assets/Scenario Comparison.png" alt=""><figcaption><p>Time series comparison of base case and two scenarios for a project. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Time series comparison of baseline and two scenarios for a project. </p></figcaption></figure>
 
-Note that some parameters on the "reduction measures" tab can actually _increase_ emissions, an effect that can lead to confusion in interpreting the Comparison Over Time figure. For instance, substituting the structural system can increase or decrease the embodied emissions depending on the nature of the change, or the addition of a PV array incurs embodied emissions even if it lower operational emissions over time. Accordingly, the patterns in this figure require interpretation based on the carbon reduction measures modeled for each scenario.
+Note that some carbon reduction measures can actually _increase_ emissions, an effect that can lead to confusion in interpreting the Cumulative Emissions Over Time figure. For instance, substituting the structural system can increase or decrease the embodied emissions depending on the nature of the change, or the addition of a PV array incurs embodied emissions even if it lower operational emissions over time. Accordingly, the patterns in this figure require interpretation based on the carbon reduction measures modeled for each scenario.
 
-### Comparison By Category
+### Summary Chart
 
-This figure compares the cumulative embodied, operational, and sequestered carbon for each scenario at 30 years after project completion:
+This figure compares the cumulative emissions for each scenario at the end of the analysis period.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Comparison of embodied, operational, and sequestered and avoided emissions at 30 years.</p></figcaption></figure>
+
+In addition to comparing magnitude of emissions at the end of the analysis period, this chart is useful for comparing the proportion of emissions between scenarios. In comparing these proportions, however, please note the selected analysis period. Operational emissions accrue over time, so the proportion of embodied to operational emissions is highly sensitive to the study's time horizon. The time horizon in EPIC is shorter than those most often used in wbLCA in order to support project teams in meeting time-based climate targets.&#x20;
+
+This chart has a number of elements:
+
+* **Reduction from Baseline**. Cumulative reduction in emissions of the current scenario as compared to the base case.
+* **Refrigerant Emissions**. Cumulative emissions associated with the refrigerant use in the building services.&#x20;
+* **Electricity Emissions**. Cumulative emissions associated with the energy use from the electrical grid.&#x20;
+* **Fossil Fuel Emissions**. Cumulative emissions associated with onsite fossil fuel use.&#x20;
 * **Embodied carbon emissions**. Cumulative emissions associated with building materials, their replacements, and with landscape maintenance.
-* **Operational carbon emissions**. Cumulative emissions associated with energy use from electricity and onsite fossil fuel use.
-* **Sequestered and avoided emissions**. Sequestered emissions from building structure and landscape planting. Avoided emissions from onsite energy generation in excess of use.
-
-![Comparison of embodied, operational, and sequestered and avoided emissions at 30 years.](<../.gitbook/assets/2022-06-14 18\_09\_02-EPIC Assessment-01 (1).jpg>)
-
-In addition to comparing magnitude of emissions after 30 years, this chart is useful for comparing the proportion of operational to embodied emissions between scenarios. In comparing these proportions, however, please note that the 30 year time horizon of EPIC. Operational emissions accrue over time, so the proportion of embodied to operational emissions is highly sensitive to the study's time horizon. The time horizon in EPIC is shorter than those most often used in wbLCA in order to support project teams in meeting time-based climate targets.&#x20;
+* **Biogenic Carbon**. Sequestered emissions from building structure and landscape planting.
+* **Avoided Energy Emissions**. Avoided emissions from onsite energy generation in excess of use.

@@ -47,16 +47,9 @@ Within the menu, click **Set as Baseline** to set another scenario as the refere
 
 ### Analyzing the Baseline
 
-The baseline scenario can be analyzed using the following charts:
+With the baseline scenario selected in the left-hand panel, it can be analyzed using the following charts:
 
 * [Over Time](../carbon-reduction-measures/analyze-scenarios.md#over-time-chart)
 * [Scope Categories](../carbon-reduction-measures/analyze-scenarios.md#scope-categories-chart)
 * [LCA Stages](../carbon-reduction-measures/analyze-scenarios.md#lca-stages-chart)
 * [Summary](../carbon-reduction-measures/analyze-scenarios.md#summary-chart)
-
-### Comparing Against the Baseline
-
-The baseline scenario can be compared with other scenarios using the following charts:
-
-* Over Time
-* Summary

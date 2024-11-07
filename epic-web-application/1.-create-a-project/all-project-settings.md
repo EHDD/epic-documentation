@@ -1,6 +1,6 @@
 # All Project Settings
 
-The following settings are applied at project-level, meaning they are applied to the baseline and all scenarios within the project. This is done so that all scenarios, including the baseline, have the same underlying assumptions and can thus be comparable.&#x20;
+The following settings are applied at project-level, meaning they are applied to the baseline and all scenarios within the project. This is done so that all scenarios, including the baseline, have the same underlying assumptions, and thus, can be comparable.&#x20;
 
 To refine the project, click **All Project Settings** in the left-hand panel.
 
@@ -14,7 +14,7 @@ To refine the project, click **All Project Settings** in the left-hand panel.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption><p>Scope settings.</p></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ Turning off this toggle will remove all site and landscaping from the EPIC model
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>General settings.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>General settings.</p></figcaption></figure>
 
 </div>
 
